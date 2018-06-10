@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en-GB" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ravencoin Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ravencoin_Wiki","wgTitle":"Ravencoin Wiki","wgCurRevisionId":1043,"wgRevisionId":1043,"wgArticleId":7,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ravencoin_Wiki","wgRelevantArticleId":7,"wgRequestId":"Wx1-rtTjckkAAFZBexUAAAAg","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgIsMainPage":true,"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0"/>
+<meta name="google-site-verification" content=""/>
+<meta name="keywords" content="Ravencoin, wiki"/>
+<meta name="description" content="Ravencoin Wiki - run by the community, offers information about the creation of the Raven project and it&#039;s purpose. Includes guidance on mining, other..."/>
+<meta name="twitter:description" content="Ravencoin Wiki - run by the community, offers information about the creation of the Raven project and it&#039;s purpose. Includes guidance on mining, other..."/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Ravencoin Wiki (en-gb)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://raven.wiki/w/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="Ravencoin Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta property="og:title" content="Ravencoin Wiki"/>
+<meta property="og:description" content="Ravencoin Wiki - run by the community, offers information about the creation of the Raven project and it&#039;s purpose. Includes guidance on mining, other..."/>
+<script type="application/ld+json">{"@context" : "http://schema.org","name":"Ravencoin Wiki","headline":"Ravencoin Wiki","description":"Ravencoin Wiki - run by the community, offers information about the creation of the Raven project and it's purpose. Includes guidance on mining, other...",}</script>
+<meta property="fb:app_id" content=""/>
+
+<meta property="fb:admins" content=""/>
+
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ravencoin_Wiki rootpage-Ravencoin_Wiki skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en-GB">Ravencoin Wiki</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Ravencoin Wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output">
+<div id="MainContent">
+<p><a rel="nofollow" class="external text" href="http://www.ravencoin.org">Ravencoin</a> is an open source project built on a fork of <a rel="nofollow" class="external text" href="https://en.bitcoin.it">bitcoin</a>.
+</p><p>It was launched on the 3rd of January 2018. A fair launch with no pre-mine. Announced by Bruce Fenton <a rel="nofollow" class="external text" href="https://twitter.com/brucefenton/status/948682276229074945">on twitter</a>. It's a truly open source project, no pre-mine, no ICO, no masternodes, focused on building a useful technology, with a strong and growing <a href="/wiki/Community" title="Community">community</a>.
+</p><p>A selection of thoughts from Bruce, and the core team, about the background and future direction for Ravencoin is available in <b><a href="/wiki/The_Fenton_Files" title="The Fenton Files">The Fenton Files</a></b>
+</p><p>The coin aims to implement a blockchain which is optimized specifically for the use case of transferring assets such as tokens from one holder to another. To avoid centralized ASIC mining of Ravencoin the developers created a new algorithm, x16r. 
+</p><p>What makes this algorithm unique is the order of the 16 hashing algorithms is constantly changed based on the hash of the previous block, this randomness of hashing algorithms makes it reasonably resistant to ASIC development. The developers have also stated they are committed to keeping it ASIC free and can easily alter the algorithm if an ASIC is developed.  
+</p><p>The core team have produced a <a rel="nofollow" class="external text" href="https://ravencoin.org/wp-content/uploads/2018/01/X16R-Whitepaper-3.pdf">paper explaining x16r</a>, and a <a rel="nofollow" class="external text" href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NKsWx5sSG90GjbbwZaOav6D_bAOdnlBjPBAjJtZzXr4&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650">timeline</a> showing events pre and post launch. 
+</p><p>The <a rel="nofollow" class="external text" href="https://medium.com/@ravencoin/ravencoin-4683cd00f83c">Ravencoin medium post</a> explains some of the early reasons for creating Ravencoin and what it hopes to achieve.
+</p><p><a rel="nofollow" class="external text" href="https://github.com/RavenProject/Ravencoin/blob/master/roadmap/README.md">The roadmap</a> for the code development was published on the projects <a rel="nofollow" class="external text" href="https://github.com/RavenProject/">github</a> on the 3rd April 2018. 
+</p><p>A whitepaper type document describing the background and intention of the project was published on the same date on Ravencoin.org <a rel="nofollow" class="external text" href="https://ravencoin.org/Ravencoin.pdf">here</a> and Bruce posted a <a rel="nofollow" class="external text" href="https://twitter.com/brucefenton/status/981564543749971968?s=19">Twitter thread</a> summarizing some key points of the whitepaper and growth of the project to date.
+</p><p>At the time of launch, the core team is funded by <a rel="nofollow" class="external text" href="http://www.mediciventures.com/">Medici Ventures</a> who are owned by <a rel="nofollow" class="external text" href="https://www.overstock.com/about">Overstock.com</a> - the CEO of Overstock can be seen talking <a rel="nofollow" class="external text" href="http://uk.businessinsider.com/bitcoin-pioneer-overstock-ceo-explains-long-standing-crypto-play-ravencoin-2018-2">about Ravencoin in this BusinessInsider interview.</a>
+</p><p><b>Block Time</b>: 1 minute
+</p><p><b>Block Reward</b>: 5000 RVN
+</p><p><b>Total Coin Supply</b>: 21 Billion
+</p><p><br />
+</p><p><br />
+</p>
+</div>
+<p><br />
+</p>
+<div style="float: right; width: 30%; margin:5px" class="nomobile">
+<p><b>Contents</b>
+</p>
+<ul><li> <a href="/wiki/Community" title="Community">Community</a></li>
+<li> <a href="/wiki/Mining" title="Mining">Mining</a></li>
+<li> <a href="/wiki/Troubleshoot" title="Troubleshoot">Troubleshoot</a></li>
+<li> <a href="/wiki/FAQ" title="FAQ">FAQ</a></li>
+<li> <a href="/wiki/Best_practices" title="Best practices">Best practices</a></li>
+<li> <a href="/wiki/Tools" title="Tools">Tools</a></li>
+<li> <a href="/wiki/Code" title="Code">Code</a></li>
+<li> <a href="/wiki/Exchanges" title="Exchanges">Exchanges</a></li>
+<li> <a href="/wiki/Wallets" title="Wallets">Wallets</a></li>
+<li> <a href="/wiki/Marketing" title="Marketing">Marketing</a></li>
+<li> <a href="/wiki/Ravencoin_News_articles" title="Ravencoin News articles">Ravencoin News articles</a></li>
+<li> <a href="/wiki/The_Fenton_Files" title="The Fenton Files">The Fenton Files</a></li></ul>
+</div>
+
+<!-- 
+NewPP limit report
+Cached time: 20180610190110
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.020 seconds
+Real time usage: 0.037 seconds
+Preprocessor visited node count: 10/1000000
+Preprocessor generated node count: 64/1000000
+Post‐expand include size: 26/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:7-0!canonical and timestamp 20180610190110 and revision id 1043
+ -->
+</div>					<div class="printfooter">
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Ravencoin_Wiki&amp;oldid=1043">https://raven.wiki/w/index.php?title=Ravencoin_Wiki&amp;oldid=1043</a>’					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ravencoin+Wiki" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ravencoin+Wiki" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ravencoin_Wiki" title="View the content page [c]" accesskey="c">Main page</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Ravencoin_Wiki" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Ravencoin_Wiki">Read</a></span></li>
+							<li id="ca-viewsource"><span><a href="/w/index.php?title=Ravencoin_Wiki&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ravencoin_Wiki&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Ravencoin Wiki" title="Search Ravencoin Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Ravencoin_Wiki"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Code"><a href="/wiki/Code">Code</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
+			<h3 id='p-News-label'>News</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
+			<h3 id='p-Wiki-label'>Wiki</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-Contributing-here"><a href="/wiki/Contributing_to_the_wiki">Contributing here</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ravencoin_Wiki" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ravencoin_Wiki" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Ravencoin_Wiki&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Ravencoin_Wiki&amp;oldid=1043" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ravencoin_Wiki&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 9 May 2018, at 09:28.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Ravencoin_Wiki:About" title="Ravencoin Wiki:About">About Ravencoin Wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Ravencoin_Wiki:General_disclaimer" title="Ravencoin Wiki:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=Ravencoin_Wiki&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.020","walltime":"0.037","ppvisitednodes":{"value":10,"limit":1000000},"ppgeneratednodes":{"value":64,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180610190110","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":289});});</script>
+	</body>
+</html>

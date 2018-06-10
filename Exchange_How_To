@@ -1,0 +1,3207 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en-GB" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ravencoin Wiki: Exchange How To</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Exchange_How_To","wgTitle":"Exchange How To","wgCurRevisionId":1181,"wgRevisionId":1181,"wgArticleId":46,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Exchange_How_To","wgRelevantArticleId":46,"wgRequestId":"Wx1-pNTjckkAAFZDapMAAAAp","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0"/>
+<meta name="google-site-verification" content=""/>
+<meta name="keywords" content="exchange information"/>
+<meta name="description" content="Ravencoin Wiki page including information and guidance for exchange liaison work. Table of all exchanges contacted with progress updates."/>
+<meta name="twitter:description" content="Ravencoin Wiki page including information and guidance for exchange liaison work. Table of all exchanges contacted with progress updates."/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Ravencoin Wiki (en-gb)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://raven.wiki/w/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="Ravencoin Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta property="og:title" content="Ravencoin Wiki: Exchange How To"/>
+<meta property="og:description" content="Ravencoin Wiki page including information and guidance for exchange liaison work. Table of all exchanges contacted with progress updates."/>
+<script type="application/ld+json">{"@context" : "http://schema.org","name":"Ravencoin Wiki: Exchange How To","headline":"Ravencoin Wiki: Exchange How To","description":"Ravencoin Wiki page including information and guidance for exchange liaison work. Table of all exchanges contacted with progress updates.",}</script>
+<meta property="fb:app_id" content=""/>
+
+<meta property="fb:admins" content=""/>
+
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Exchange_How_To rootpage-Exchange_How_To skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en-GB">Exchange How To</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Ravencoin Wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output">
+<p><br />
+Ravencoins popularity is also driven by where it can be traded. Typically it is more difficult to get it listed with prime exchanges as they require a certain volume. Therefore the community tries to build the momentum with some smaller exchanges. Sofar the progress in 2018 has been good, but we still need more volunteers to step in to contact exchanges and follow-up. Follow also the progress on Twitter <a rel="nofollow" class="external free" href="https://twitter.com/ravencoinnews">https://twitter.com/ravencoinnews</a>.
+</p>
+<table class="wikitable">
+<tr>
+<th style="text-align: center; font-weight: bold;"> Month
+</th>
+<th style="text-align: center; font-weight: bold;"> Exchange count
+</th>
+<th style="text-align: center; font-weight: bold;"> Exchanges added this month
+</th></tr>
+<tr>
+<td style="text-align: center;"> March
+</td>
+<td style="text-align: center;"> 4
+</td>
+<td style="text-align: center;"> CryptoBridge, NANEX, CryptoHub, BarterDex
+</td></tr>
+<tr>
+<td style="text-align: center;"> April
+</td>
+<td style="text-align: center;"> 6
+</td>
+<td style="text-align: center;"> QBTC, Graviex
+</td></tr>
+<tr>
+<td style="text-align: center;"> May
+</td>
+<td style="text-align: center;"> 10
+</td>
+<td style="text-align: center;"> IDCM, Escodex, BBX, tradeogre
+</td></tr>
+<tr>
+<td style="text-align: center;"> June
+</td>
+<td style="text-align: center;"> 10
+</td>
+<td style="text-align: center;">
+</td></tr></table>
+<p><br />
+This page shall provide information and guidelines how to bring the ravencoin to an exchange.
+It should be noted that the process can require some work, but getting listed in an exchange 
+is important process to get Ravencoin recognised by a larger public.
+</p><p>In the following a couple of steps which You typically find in an application.
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Is_Ravencoin_a_security"><span class="tocnumber">1</span> <span class="toctext">Is Ravencoin a security</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#What_is_Ravencoin"><span class="tocnumber">2</span> <span class="toctext">What is Ravencoin</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Who_is_the_CEO"><span class="tocnumber">3</span> <span class="toctext">Who is the CEO</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#What_is_an_NDA_and_can_I_sign_it.3F"><span class="tocnumber">4</span> <span class="toctext">What is an NDA and can I sign it?</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Wallet_integration"><span class="tocnumber">5</span> <span class="toctext">Wallet integration</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Exchange_Target_List"><span class="tocnumber">6</span> <span class="toctext">Exchange Target List</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Is_Ravencoin_a_security">Is Ravencoin a security</span></h2>
+<p>Securities are much more controlled and legislated. An important question will be if Ravencoin is a security or not. 
+For this there is a test which can be found here: <a rel="nofollow" class="external free" href="https://www.coinist.io/the-howey-test-the-sec-and-ico/">https://www.coinist.io/the-howey-test-the-sec-and-ico/</a>
+Ravencoin is passing the test and is NOT a security. The website provides some good insights, which might help answering some
+questions asked in the exchange application. Currently there is no legal assessment of Ravencoins security state.
+</p><p>However we are currently trying to get a legal assessment in place. If You are working work security assessments and can
+support please contact @haxmat#0554 and @blackjesus#1918 on discord.
+</p>
+<h2><span class="mw-headline" id="What_is_Ravencoin">What is Ravencoin</span></h2>
+<p>Ravencoin was first announced in October of 2017 at MIT. In the months leading to the official launch on January 3rd 2018, Ravencoin gained support at several conferences and colleges. Self-described as "...a use case specific blockchain designed to carry statements of truth about who owns what asset" Ravencoin's naming pays homage to the ravens of the fictional world of Westeros. In the two months after its launch, Ravencoin has seen an exponential groundswell of community support, including the support of the larger mining community. Ravencoin is the first coin to leverage the ASIC resistant x16r algorithm and is a completely Proof of Work(PoW) coin. No ICO was undertaken, and neither was a pre-mine utilized. Ravencoin has attracted many individuals to the community and project due to its fair and grassroots hallmarks of the original Bitcoin launch. Ravencoin differs however from Bitcoin with an increased block reward size, and a faster block time, features which developers have alluded to setting the groundwork for Ethereum style asset transfers and tokens.
+Overstock.com has been investing time and developers to contribute to the project, and even mining the token.
+</p><p>RVN is  project in development with a dedicated community. In the next phase it will have a native asset layer built into the protocol to allow people to easily tokenize any asset that can be transferred between parties. In principle one can tokenize anything, but a main focus and functionality will be the ability to tokenize securities, as the protocol will also be able to pay out dividends. 
+</p><p>Some advantages Ravencoin will have to token issuers:
+</p>
+<ul><li> more secure chain</li>
+<li> more censorship resistant </li>
+<li> more decentralized </li>
+<li> simpler / more elegant </li>
+<li> native in the protocol </li>
+<li> will allow dividends </li>
+<li> will allow messaging</li></ul>
+<p>ASIC resistance and a wider and more fair distribution is another advantage of Ravencoin. By this time period in Bitcoin's history the coin had less than a dozen miners - RVN has thousands. Ravencoin is one of the most widely distributed coins - if not THE most.
+</p>
+<h2><span class="mw-headline" id="Who_is_the_CEO">Who is the CEO</span></h2>
+<p>As RVN is an open source project there is no CEO. Individual persons are presenting and can bring applications forward though.
+</p>
+<h2><span class="mw-headline" id="What_is_an_NDA_and_can_I_sign_it.3F">What is an NDA and can I sign it?</span></h2>
+<p>The NDA - a non disclosure agreement - is an agreement to restrict information spreading outside the agreeing parties. A company uses NDAs to limit information spreading. Afterall listing on an exchange is a negotiation. The NDA is limiting the information spread around that process. If You sign a NDA, this also means that You need to be cautious what information to be spread also to the community.
+</p>
+<h2><span class="mw-headline" id="Wallet_integration">Wallet integration</span></h2>
+<p>As RVN is a fork of the bitcoin blockchain, it should be very easy to integrate towards the RVN wallet. For additional support a core developer can be contacted. However there is a compilation of answers already available for Coinomi <a rel="nofollow" class="external free" href="https://raven.wiki/wiki/Coinomi_questions">https://raven.wiki/wiki/Coinomi_questions</a>.
+</p>
+<h2><span class="mw-headline" id="Exchange_Target_List">Exchange Target List</span></h2>
+<p>Below is a table of the top 200+ exchanges by volume (as of April 5, 2018). We will want to use this list as our source of truth for which exchanges have been contacted, which ones we are in active discussions with, which ones we will not be moving forward with (possibly due to fees). Everyone can assign themselves to each exchange. Note that this is not a recommendation for a specific exchange. For the Status column, let's try and be consistent so we all know what it means so let's use the following: <br />
+</p>
+<table class="wikitable">
+<tr>
+<th style="text-align: center; font-weight: bold;"> Status
+</th>
+<th style="text-align: center; font-weight: bold;"> Explanation
+</th></tr>
+<tr>
+<td style="text-align: center;"> Blank
+</td>
+<td style="text-align: center;"> No one yet has contacted the exchange
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> Yellow
+</td>
+<td style="text-align: center;"> Exchange contacted, discord handle added, date added
+</td></tr>
+<tr bgcolor="pink">
+<td style="text-align: center;"> Red
+</td>
+<td style="text-align: center;"> Exchange rejected, explanation or response in notes field
+</td></tr>
+<tr bgcolor="lightblue">
+<td style="text-align: center;"> Blue
+</td>
+<td style="text-align: center;"> Exchange wants to go ahead, but requires, Fee, NDA or legal papers. In this case the fields should be marked
+</td></tr>
+<tr bgcolor="lightgreen">
+<td style="text-align: center;"> Green
+</td>
+<td style="text-align: center;"> Exchange live
+</td></tr>
+<tr bgcolor="violet">
+<td style="text-align: center;"> Warning
+</td>
+<td style="text-align: center;"> Exchange likely a scam
+</td></tr></table>
+<p><br />
+</p>
+<table class="wikitable">
+<tr>
+<th style="text-align: center; font-weight: bold;"> Rank
+</th>
+<th style="text-align: center; font-weight: bold;"> Exchange
+</th>
+<th style="text-align: center; font-weight: bold;"> Link
+</th>
+<th style="text-align: center; font-weight: bold;"> Assigned To
+</th>
+<th style="text-align: center; font-weight: bold;"> Status
+</th>
+<th style="font-weight: bold;"> Notes/Comments
+</th></tr>
+<tr>
+<td style="text-align: center;"> 1
+</td>
+<td style="text-align: center;"> Binance
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td> Currently there is a coin page for RVN under <a rel="nofollow" class="external free" href="https://info.binance.com/en/currencies/ravencoin">https://info.binance.com/en/currencies/ravencoin</a>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 2
+</td>
+<td style="text-align: center;"> Upbit
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> 3
+</td>
+<td style="text-align: center;"> Huobi
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> WalterWhite#2732
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td> 20180511: Initiated, Legal opinion is required by huobi by a top 20 law firm to confirm rvn is not a security
+</td></tr>
+<tr>
+<td style="text-align: center;"> 4
+</td>
+<td style="text-align: center;"> OKEx
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 5
+</td>
+<td style="text-align: center;"> Bitfinex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 6
+</td>
+<td style="text-align: center;"> Bithumb
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> 7
+</td>
+<td style="text-align: center;"> Bittrex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> @haxmat#0554
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td> Bittrex seems to have contacted core developers
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> 8
+</td>
+<td style="text-align: center;"> Kraken
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> @Krupte
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td> 05/22/2018 While we are always open to adding new digital assets to our exchange, we're not currently accepting any new listings. However, we're hoping to begin adding new digital assets in the near future. I've assigned your request to the appropriate team members, who are responsible for assessing potential new listings. In the meantime, the best way to get up-to-the-minute details regarding which assets are being listed on Kraken is to read our email newsletters and blog (<a rel="nofollow" class="external free" href="http://blog.kraken.com">http://blog.kraken.com</a>) and follow us on social.
+<p>Warm Regards,
+Richard, 
+Kraken Client Engagement Team
+</p>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 9
+</td>
+<td style="text-align: center;"> GDAX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> 10
+</td>
+<td style="text-align: center;"> HitBTC
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> @ithinkimissedtheboat#8353
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td> 20180421 - They will return in 7 days
+</td></tr>
+<tr>
+<td style="text-align: center;"> 11
+</td>
+<td style="text-align: center;"> Bit-Z
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 12
+</td>
+<td style="text-align: center;"> bitFlyer
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 13
+</td>
+<td style="text-align: center;"> Bitstamp
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 14
+</td>
+<td style="text-align: center;"> Lbank
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 15
+</td>
+<td style="text-align: center;"> Bits Blockchain
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 16
+</td>
+<td style="text-align: center;"> BTCBOX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 17
+</td>
+<td style="text-align: center;"> Gemini
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> 18
+</td>
+<td style="text-align: center;"> Poloniex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> @Legacytrx#5244
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td> 20180402: Coin request submitted, pending review from POLONIEX
+<p>20180510: Updated with new volume information from our side and request to provide an update<br />
+20180520: Moved to the next level of support... zzz
+</p>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 19
+</td>
+<td style="text-align: center;"> WEX
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://wex.nz/">https://wex.nz/</a>
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 20
+</td>
+<td style="text-align: center;"> Bibox
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="pink">
+<td style="text-align: center;"> 21
+</td>
+<td style="text-align: center;"> CoinTiger
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://www.cointiger.com/exchange/index.html">https://www.cointiger.com/exchange/index.html</a>
+</td>
+<td style="text-align: center;"> @ithinkimissedtheboat#8353
+</td>
+<td style="text-align: center;"> 20180428: On hold
+</td>
+<td>
+<p>Dear RVN Team,
+Thank you for applying for coin listing on CoinTiger Exchange. 
+After careful consideration and several rounds of discussion, we are sorry to inform you that CoinTiger decides not to list RVN for the time being.
+Please note CoinTiger takes into consideration of several items when determining whether to list a token, including but not limited to market interest, liquidity, innovative application and significant improvement over existing blockchain. 
+Unfortunately we retain full discretion regarding our decision not to list your token on the exchange. 
+However, please keep in touch with updates about your project and community, and resubmitting your token to CoinTiger later.
+Best Regards
+</p>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 22
+</td>
+<td style="text-align: center;"> CoinBene
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 23
+</td>
+<td style="text-align: center;"> Bitbank
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 24
+</td>
+<td style="text-align: center;"> BTCC
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 25
+</td>
+<td style="text-align: center;"> Coinone
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 26
+</td>
+<td style="text-align: center;"> CoinsBank
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> 27
+</td>
+<td style="text-align: center;"> Gate IO
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> @mercury#8836
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 28
+</td>
+<td style="text-align: center;"> ZB.COM
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 29
+</td>
+<td style="text-align: center;"> itBit
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 30
+</td>
+<td style="text-align: center;"> Simex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 31
+</td>
+<td style="text-align: center;"> Liqui
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 32
+</td>
+<td style="text-align: center;"> EXX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 33
+</td>
+<td style="text-align: center;"> Exmo
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="pink">
+<td style="text-align: center;"> 34
+</td>
+<td style="text-align: center;"> Livecoin
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://livecoin.net/">https://livecoin.net/</a>
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> Rejected
+</td>
+<td> Doesn't accept independent blockchain based
+</td></tr>
+<tr>
+<td style="text-align: center;"> 35
+</td>
+<td style="text-align: center;"> Ethfinex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightblue">
+<td style="text-align: center;"> 36
+</td>
+<td style="text-align: center;"> Kucoin
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://www.kucoin.com/">https://www.kucoin.com/</a>
+</td>
+<td style="text-align: center;"> @beanjo55#3570
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td> 20180424: KuCoin stated today, they need to have an NDA and a statement raven isn’t a security
+</td></tr>
+<tr>
+<td style="text-align: center;"> 37
+</td>
+<td style="text-align: center;"> Qryptos
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 38
+</td>
+<td style="text-align: center;"> Korbit
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 39
+</td>
+<td style="text-align: center;"> Bitinka
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 40
+</td>
+<td style="text-align: center;"> Neraex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 41
+</td>
+<td style="text-align: center;"> Exrates
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 42
+</td>
+<td style="text-align: center;"> Cryptopia
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> @KryptoRoan#9849
+</td>
+<td style="text-align: center;">
+</td>
+<td> All coin listings on Cryptopia must be applied for via this page:
+<p><a rel="nofollow" class="external free" href="https://www.cryptopia.co.nz/Paytopia">https://www.cryptopia.co.nz/Paytopia</a>
+</p><p>Just choose the option that suits your needs the best, and fill in all the required details. Administrators will review the coin/code and begin the listing process as soon as possible. If for any reason the listing is rejected due to incompatibility, or failing the code review, the full listing price will be immediately refunded to your account.
+</p><p>If you have further technical queries, please write an email with the specifics that can be looked at and answered directly by a member of our Wallet team:
+</p><p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8ae9e5e3e4fdebe6e6effef9cae9f8f3fafee5fae3eba4e9e5a4e4f0">[email&#160;protected]</a>
+</p>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 43
+</td>
+<td style="text-align: center;"> Koinex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 44
+</td>
+<td style="text-align: center;"> Trade By Trade
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 45
+</td>
+<td style="text-align: center;"> OEX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 46
+</td>
+<td style="text-align: center;"> Zebpay
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 47
+</td>
+<td style="text-align: center;"> Coinnest
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 48
+</td>
+<td style="text-align: center;"> CEX IO
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 49
+</td>
+<td style="text-align: center;"> GetBTC
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 50
+</td>
+<td style="text-align: center;"> Zaif
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightblue">
+<td style="text-align: center;"> 51
+</td>
+<td style="text-align: center;"> CoinExchange
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://www.coinexchange.io/">https://www.coinexchange.io/</a>
+</td>
+<td style="text-align: center;"> @yanciyong#9168
+</td>
+<td style="text-align: center;"> Fee Required
+</td>
+<td> Require 4 BTC + 1 BTC for additional fee
+</td></tr>
+<tr>
+<td style="text-align: center;"> 52
+</td>
+<td style="text-align: center;"> xBTCe
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 53
+</td>
+<td style="text-align: center;"> Omicrex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 54
+</td>
+<td style="text-align: center;"> Tidex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 55
+</td>
+<td style="text-align: center;"> IDAX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 56
+</td>
+<td style="text-align: center;"> Coinroom
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> 57
+</td>
+<td style="text-align: center;"> Bitcoin Indonesia (Indodax)
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://indodax.com">https://indodax.com</a>
+</td>
+<td style="text-align: center;"> @yanciyong#9168
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td> They will contact again as soon as they ready
+</td></tr>
+<tr bgcolor="lightblue">
+<td style="text-align: center;"> 58
+</td>
+<td style="text-align: center;"> TOPBTC
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://topbtc.com">https://topbtc.com</a>
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> Fee Required
+</td>
+<td> They ask about 7 BTC to list it
+</td></tr>
+<tr>
+<td style="text-align: center;"> 59
+</td>
+<td style="text-align: center;"> BitBay
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> 60
+</td>
+<td style="text-align: center;"> C2CX
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://www.c2cx.com/">https://www.c2cx.com/</a>
+</td>
+<td style="text-align: center;"> @KryptoRoan#9849
+</td>
+<td style="text-align: center;"> Contacted 20140423
+</td>
+<td> Require a whole slow of roadmap input...
+</td></tr>
+<tr>
+<td style="text-align: center;"> 61
+</td>
+<td style="text-align: center;"> LakeBTC
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 62
+</td>
+<td style="text-align: center;"> Coinrail
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 63
+</td>
+<td style="text-align: center;"> Fatbtc
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 64
+</td>
+<td style="text-align: center;"> Ovis
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 65
+</td>
+<td style="text-align: center;"> BTC Markets
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 66
+</td>
+<td style="text-align: center;"> Sistemkoin
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 67
+</td>
+<td style="text-align: center;"> OTCBTC
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 68
+</td>
+<td style="text-align: center;"> BtcTrade
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 69
+</td>
+<td style="text-align: center;"> Octaex
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://octaex.com">https://octaex.com</a>
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td> Chinese exchange
+</td></tr>
+<tr>
+<td style="text-align: center;"> 70
+</td>
+<td style="text-align: center;"> Negocie Coins
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://www.negociecoins.com.br/">https://www.negociecoins.com.br/</a>
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td> Brasilian exchange
+</td></tr>
+<tr>
+<td style="text-align: center;"> 71
+</td>
+<td style="text-align: center;"> QuadrigaCX
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://www.quadrigacx.com/">https://www.quadrigacx.com/</a>
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td> Canadian exchange
+</td></tr>
+<tr>
+<td style="text-align: center;"> 72
+</td>
+<td style="text-align: center;"> Paribu
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://coinmarketcap.com/exchanges/paribu/">https://coinmarketcap.com/exchanges/paribu/</a>
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td> Turkish exchange
+</td></tr>
+<tr>
+<td style="text-align: center;"> 73
+</td>
+<td style="text-align: center;"> Vebitcoin
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td> Turkish exchange
+</td></tr>
+<tr bgcolor="lightgreen">
+<td style="text-align: center;"> 74
+</td>
+<td style="text-align: center;"> QBTC
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://www.qbtc.com/trade">https://www.qbtc.com/trade</a>
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> Live
+</td>
+<td> USDT and CNYT pairs
+</td></tr>
+<tr>
+<td style="text-align: center;"> 75
+</td>
+<td style="text-align: center;"> BX Thailand
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 76
+</td>
+<td style="text-align: center;"> Luno
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 77
+</td>
+<td style="text-align: center;"> RightBTC
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 78
+</td>
+<td style="text-align: center;"> MBAex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 79
+</td>
+<td style="text-align: center;"> Bancor Network
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td> Only supports ERC20 tokens
+</td></tr>
+<tr>
+<td style="text-align: center;"> 80
+</td>
+<td style="text-align: center;"> Coinfloor
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 81
+</td>
+<td style="text-align: center;"> Foxbit
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td> Brazilian exchange
+</td></tr>
+<tr>
+<td style="text-align: center;"> 82
+</td>
+<td style="text-align: center;"> BCEX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 83
+</td>
+<td style="text-align: center;"> BTCTurk
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 84
+</td>
+<td style="text-align: center;"> ChaoEX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 85
+</td>
+<td style="text-align: center;"> Bitso
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 86
+</td>
+<td style="text-align: center;"> AEX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 87
+</td>
+<td style="text-align: center;"> COSS
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 88
+</td>
+<td style="text-align: center;"> Coinsquare
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> 89
+</td>
+<td style="text-align: center;"> Mercatox
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://mercatox.com/">https://mercatox.com/</a>
+</td>
+<td style="text-align: center;">&#160;? Missing
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 90
+</td>
+<td style="text-align: center;"> IDEX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td> Only supports Ethereum based tokens
+</td></tr>
+<tr>
+<td style="text-align: center;"> 91
+</td>
+<td style="text-align: center;"> BTC-Alpha
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 92
+</td>
+<td style="text-align: center;"> DSX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 93
+</td>
+<td style="text-align: center;"> Quoine
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 94
+</td>
+<td style="text-align: center;"> BigONE
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 95
+</td>
+<td style="text-align: center;"> Unocoin
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 96
+</td>
+<td style="text-align: center;"> Bitbns
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 97
+</td>
+<td style="text-align: center;"> Mercado Bitcoin
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 98
+</td>
+<td style="text-align: center;"> BitShares Asset Exchange
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 99
+</td>
+<td style="text-align: center;"> BL3P
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 100
+</td>
+<td style="text-align: center;"> CoinEx
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 101
+</td>
+<td style="text-align: center;"> Koineks
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 102
+</td>
+<td style="text-align: center;"> Bithesap
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 103
+</td>
+<td style="text-align: center;"> LATOKEN
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 104
+</td>
+<td style="text-align: center;"> Cryptonex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 105
+</td>
+<td style="text-align: center;"> Independent Reserve
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 106
+</td>
+<td style="text-align: center;"> Bitonic
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 107
+</td>
+<td style="text-align: center;"> Allcoin
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 108
+</td>
+<td style="text-align: center;"> LiteBit.eu
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 109
+</td>
+<td style="text-align: center;"> BitMarket
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 110
+</td>
+<td style="text-align: center;"> OOOBTC
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> 111
+</td>
+<td style="text-align: center;"> The Rock Trading
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> @cryptoalex
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td> (April 26, 2018) After some back/forth. They said that they are not accepting new projects at this time. To check back with them in the 4th Quarter of 2018.
+</td></tr>
+<tr>
+<td style="text-align: center;"> 112
+</td>
+<td style="text-align: center;"> BitcoinTrade
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 113
+</td>
+<td style="text-align: center;"> C-CEX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 114
+</td>
+<td style="text-align: center;"> Fargobase
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 115
+</td>
+<td style="text-align: center;"> BitcoinToYou
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 116
+</td>
+<td style="text-align: center;"> Stronghold
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 117
+</td>
+<td style="text-align: center;"> RippleFox
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 118
+</td>
+<td style="text-align: center;"> EtherDelta (ForkDelta)
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 119
+</td>
+<td style="text-align: center;"> Gatehub
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 120
+</td>
+<td style="text-align: center;"> OkCoin Intl
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 121
+</td>
+<td style="text-align: center;"> Tidebit
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 122
+</td>
+<td style="text-align: center;"> OasisDEX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightgreen">
+<td style="text-align: center;"> 123
+</td>
+<td style="text-align: center;"> CryptoBridge
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://wallet.crypto-bridge.org/market/BRIDGE.RVN_BRIDGE.BTC">https://wallet.crypto-bridge.org/market/BRIDGE.RVN_BRIDGE.BTC</a>
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> Live
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 124
+</td>
+<td style="text-align: center;"> Altcoin Trader
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 125
+</td>
+<td style="text-align: center;"> CoinMate
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> 126
+</td>
+<td style="text-align: center;"> Iquant
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://www.5iquant.org/">https://www.5iquant.org/</a>
+</td>
+<td style="text-align: center;"> @Miner#4573
+</td>
+<td style="text-align: center;"> 20140425: Contacted for free listing
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 127
+</td>
+<td style="text-align: center;"> ACX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 128
+</td>
+<td style="text-align: center;"> Koinim
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 129
+</td>
+<td style="text-align: center;"> Coinrate
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 130
+</td>
+<td style="text-align: center;"> Kuna
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 131
+</td>
+<td style="text-align: center;"> CoinFalcon
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightblue">
+<td style="text-align: center;"> 132
+</td>
+<td style="text-align: center;"> OpenLedger DEX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> @cryptoalex
+</td>
+<td style="text-align: center;"> Fee Required
+</td>
+<td> (Date: 20180401) OpenLedger requires $10,000 USD (paid in BTC). I replied back to see if they can waive the fee for an Open Source project. I also mentioned our high 24 hr. volume on exchanges (60 BTC). Waiting to hear back.
+</td></tr>
+<tr>
+<td style="text-align: center;"> 133
+</td>
+<td style="text-align: center;"> Stellar Decentralized Exchange
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 134
+</td>
+<td style="text-align: center;"> Lykke Exchange
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 135
+</td>
+<td style="text-align: center;"> Waves Decentralized Exchange
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 136
+</td>
+<td style="text-align: center;"> Stellarport
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 137
+</td>
+<td style="text-align: center;"> SurBTC
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 138
+</td>
+<td style="text-align: center;"> Trade Satoshi
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightblue">
+<td style="text-align: center;"> 139
+</td>
+<td style="text-align: center;"> Stocks.Exchange
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://stocks.exchange">https://stocks.exchange</a>
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> Fee required
+</td>
+<td> They charge 1.3 BTC
+</td></tr>
+<tr>
+<td style="text-align: center;"> 140
+</td>
+<td style="text-align: center;"> Bisq
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 141
+</td>
+<td style="text-align: center;"> Coinsecure
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 142
+</td>
+<td style="text-align: center;"> Bittylicious
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 143
+</td>
+<td style="text-align: center;"> Ripple China
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightgreen">
+<td style="text-align: center;"> 144
+</td>
+<td style="text-align: center;"> Nanex
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://nanex.co/exchange/RVNNANO">https://nanex.co/exchange/RVNNANO</a>
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> Live
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 145
+</td>
+<td style="text-align: center;"> InfinityCoin Exchange
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 146
+</td>
+<td style="text-align: center;"> Bitstamp (Ripple Gateway)
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 147
+</td>
+<td style="text-align: center;"> SouthXchange
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 148
+</td>
+<td style="text-align: center;"> CoinCorner
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 149
+</td>
+<td style="text-align: center;"> Braziliex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 150
+</td>
+<td style="text-align: center;"> Bitex.la
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 151
+</td>
+<td style="text-align: center;"> Bitsane
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 152
+</td>
+<td style="text-align: center;"> BTC Trade UA
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 153
+</td>
+<td style="text-align: center;"> Bleutrade
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 154
+</td>
+<td style="text-align: center;"> TDAX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 155
+</td>
+<td style="text-align: center;"> Orionx
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 156
+</td>
+<td style="text-align: center;"> MrExchange
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 157
+</td>
+<td style="text-align: center;"> CryptoMarket
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 158
+</td>
+<td style="text-align: center;"> Bit2C
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 159
+</td>
+<td style="text-align: center;"> Bitmaszyna
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 160
+</td>
+<td style="text-align: center;"> Paymium
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 161
+</td>
+<td style="text-align: center;"> AidosMarket
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 162
+</td>
+<td style="text-align: center;"> Bitlish
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 163
+</td>
+<td style="text-align: center;"> Coinut
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 164
+</td>
+<td style="text-align: center;"> Gatecoin
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 165
+</td>
+<td style="text-align: center;"> BitFlip
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 166
+</td>
+<td style="text-align: center;"> Nocks
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 167
+</td>
+<td style="text-align: center;"> Rfinex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 168
+</td>
+<td style="text-align: center;"> Crex24
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightgreen">
+<td style="text-align: center;"> 169
+</td>
+<td style="text-align: center;"> TradeOgre
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://tradeogre.com/exchange/BTC-RVN">https://tradeogre.com/exchange/BTC-RVN</a>
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> Live
+</td>
+<td> 20180530: Exchange is live
+</td></tr>
+<tr>
+<td style="text-align: center;"> 170
+</td>
+<td style="text-align: center;"> Paradex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 171
+</td>
+<td style="text-align: center;"> Radar Relay
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 172
+</td>
+<td style="text-align: center;"> Token Store
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 173
+</td>
+<td style="text-align: center;"> Abucoins
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 174
+</td>
+<td style="text-align: center;"> cfinex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 175
+</td>
+<td style="text-align: center;"> CRXzone
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightgreen">
+<td style="text-align: center;"> 176
+</td>
+<td style="text-align: center;"> CryptoHub
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://cryptohub.online/market/RVN/">https://cryptohub.online/market/RVN/</a>
+</td>
+<td style="text-align: center;"> @cryptoalex
+</td>
+<td style="text-align: center;"> Live
+</td>
+<td> April 10, 2018: Message in Ravencoin discord that RVN was spotted trading on CryptoHub.
+</td></tr>
+<tr>
+<td style="text-align: center;"> 177
+</td>
+<td style="text-align: center;"> OKCoin
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 178
+</td>
+<td style="text-align: center;"> Cryptomate
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 179
+</td>
+<td style="text-align: center;"> ezBtc
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 180
+</td>
+<td style="text-align: center;"> Coinlink
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 181
+</td>
+<td style="text-align: center;"> BitKonan
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 182
+</td>
+<td style="text-align: center;"> Dgtmarket
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 183
+</td>
+<td style="text-align: center;"> Tripe Dice Exchange
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 184
+</td>
+<td style="text-align: center;"> Counterparty DEX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 185
+</td>
+<td style="text-align: center;"> Tux Exchange
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 186
+</td>
+<td style="text-align: center;"> RuDEX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 187
+</td>
+<td style="text-align: center;"> LocalTrade
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 188
+</td>
+<td style="text-align: center;"> DDEX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 189
+</td>
+<td style="text-align: center;"> Coingi
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 190
+</td>
+<td style="text-align: center;"> Cryptox
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 191
+</td>
+<td style="text-align: center;"> Coinhouse
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 192
+</td>
+<td style="text-align: center;"> C-Patex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 193
+</td>
+<td style="text-align: center;"> TCC Exchange
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 194
+</td>
+<td style="text-align: center;"> Ore
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 195
+</td>
+<td style="text-align: center;"> ISX
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 196
+</td>
+<td style="text-align: center;"> GuldenTrader
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightgreen">
+<td style="text-align: center;"> 197
+</td>
+<td style="text-align: center;"> BarterDEX
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://www.dexstats.info/coins.php">https://www.dexstats.info/coins.php</a>
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> 20180502 Live
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 198
+</td>
+<td style="text-align: center;"> FreiExchange
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 199
+</td>
+<td style="text-align: center;"> LEOxChange
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 200
+</td>
+<td style="text-align: center;"> Burst Asset Exchange
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 201
+</td>
+<td style="text-align: center;"> NIX-E
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 202
+</td>
+<td style="text-align: center;"> ExcambrioRex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 203
+</td>
+<td style="text-align: center;"> DC-Ex
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 204
+</td>
+<td style="text-align: center;"> Heat Wallet
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 205
+</td>
+<td style="text-align: center;"> CryptoDerivatives
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 206
+</td>
+<td style="text-align: center;"> Coinbe
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 207
+</td>
+<td style="text-align: center;"> Lendconnect
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="violet">
+<td style="text-align: center;"> 208
+</td>
+<td style="text-align: center;"> Exvo
+</td>
+<td style="text-align: center;"> Please read the note!!!!
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> Live
+</td>
+<td> 20180512: A word of caution. There have been signs that the exchange has been compromised. <a rel="nofollow" class="external free" href="https://twitter.com/ExvoProject/status/995132005519048704">https://twitter.com/ExvoProject/status/995132005519048704</a>
+</td></tr>
+<tr bgcolor="lightgreen">
+<td style="text-align: center;"> 209
+</td>
+<td style="text-align: center;"> Graviex
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://graviex.net/markets/rvnbtc">https://graviex.net/markets/rvnbtc</a>
+</td>
+<td style="text-align: center;"> @shiggidy#4554
+</td>
+<td style="text-align: center;"> Live
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align: center;"> 210
+</td>
+<td style="text-align: center;"> Changelly
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://changelly.com/">https://changelly.com/</a>
+</td>
+<td style="text-align: center;"> @Kyzer 🙏 for Kin Emoji#3433
+</td>
+<td style="text-align: center;">
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> 211
+</td>
+<td style="text-align: center;"> Cobinhood
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://cobinhood.com">https://cobinhood.com</a>
+</td>
+<td style="text-align: center;"> @ithinkimissedtheboat#8353
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td> 20180422: First reachout
+</td></tr>
+<tr bgcolor="lightgreen">
+<td style="text-align: center;"> n/a
+</td>
+<td style="text-align: center;"> Escodex
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="http://www.escodex.com/">http://www.escodex.com/</a>
+</td>
+<td style="text-align: center;"> @haxmat#0554
+</td>
+<td style="text-align: center;"> Live
+</td>
+<td> RVN/ESCO  RVN/BTC
+</td></tr>
+<tr bgcolor="lightgreen">
+<td style="text-align: center;"> n/a
+</td>
+<td style="text-align: center;"> IDCM
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="http://www.idcm.io/">http://www.idcm.io/</a>
+</td>
+<td style="text-align: center;"> @brianmct#3155
+</td>
+<td style="text-align: center;"> Live
+</td>
+<td> 20180504: Contact originated from IDCM
+<p>20180510: Integration progressing, potentially ready in a week
+20180518: Live
+</p>
+</td></tr>
+<tr bgcolor="lightblue">
+<td style="text-align: center;"> n/a
+</td>
+<td style="text-align: center;"> Coinmama
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="http://www.coinmama.com/">http://www.coinmama.com/</a>
+</td>
+<td style="text-align: center;"> @Legacytrx#5244
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td> 20180504: Thank you for reaching out!
+<p>We aren't against adding any specific tokens but we are perfecting our service before adding any more. We only just added Litecoin and Bitcoin Cash. Maybe in the future Ravencoin will be available with Coinmama but I wouldn't be able to say if and when that could be.
+Let me know if you have any questions.
+</p><p>Best regards,
+Nathan
+Happiness Hero
+</p>
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> n/a
+</td>
+<td style="text-align: center;"> Exodus
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> @Kyzer 🙏 for Kin Emoji#3433
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> n/a
+</td>
+<td style="text-align: center;"> Ethos
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> @Kyzer 🙏 for Kin Emoji#3433
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td>
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> n/a
+</td>
+<td style="text-align: center;"> Coinomi
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> @jenkman91#6822
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td> Coinomi wants to have contact to a developer for integration.
+</td></tr>
+<tr bgcolor="lightyellow">
+<td style="text-align: center;"> n/a
+</td>
+<td style="text-align: center;"> Bitfineon
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://bitfineon.com/">https://bitfineon.com/</a>
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> About to be launched
+</td>
+<td> 20180520: Currently it is possible to list new coins for May, please support: <a rel="nofollow" class="external free" href="https://docs.google.com/forms/d/e/1FAIpQLSduAC5bAkM0TjscmzN27e1K2hYEcc_lrWcAGEXvleJXproSFQ/viewform?fbzx=-4818778794274862000">https://docs.google.com/forms/d/e/1FAIpQLSduAC5bAkM0TjscmzN27e1K2hYEcc_lrWcAGEXvleJXproSFQ/viewform?fbzx=-4818778794274862000</a>
+</td></tr>
+<tr bgcolor="lightgreen">
+<td style="text-align: center;"> n/a
+</td>
+<td style="text-align: center;"> BBX
+</td>
+<td style="text-align: center;"> BBX.com
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;"> Live
+</td>
+<td> Mobile Ex RVN/ETH
+</td></tr></table>
+<p>If You want to add information, please reach out to us on discord.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180610175243
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.128 seconds
+Real time usage: 0.131 seconds
+Preprocessor visited node count: 32/1000000
+Preprocessor generated node count: 86/1000000
+Post‐expand include size: 26/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:46-0!canonical and timestamp 20180610175243 and revision id 1181
+ -->
+</div>					<div class="printfooter">
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Exchange_How_To&amp;oldid=1181">https://raven.wiki/w/index.php?title=Exchange_How_To&amp;oldid=1181</a>’					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Exchange+How+To" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Exchange+How+To" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Exchange_How_To" title="View the content page [c]" accesskey="c">Page</a></span></li>
+							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Exchange_How_To&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Exchange_How_To">Read</a></span></li>
+							<li id="ca-viewsource"><span><a href="/w/index.php?title=Exchange_How_To&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Exchange_How_To&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Ravencoin Wiki" title="Search Ravencoin Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Ravencoin_Wiki"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Code"><a href="/wiki/Code">Code</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
+			<h3 id='p-News-label'>News</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
+			<h3 id='p-Wiki-label'>Wiki</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-Contributing-here"><a href="/wiki/Contributing_to_the_wiki">Contributing here</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Exchange_How_To" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Exchange_How_To" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Exchange_How_To&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Exchange_How_To&amp;oldid=1181" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Exchange_How_To&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 8 June 2018, at 20:26.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Ravencoin_Wiki:About" title="Ravencoin Wiki:About">About Ravencoin Wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Ravencoin_Wiki:General_disclaimer" title="Ravencoin Wiki:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=Exchange_How_To&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.131","ppvisitednodes":{"value":32,"limit":1000000},"ppgeneratednodes":{"value":86,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180610175243","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":504});});</script>
+	</body>
+</html>

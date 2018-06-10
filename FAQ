@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en-GB" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ravencoin Wiki: FAQ</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"FAQ","wgTitle":"FAQ","wgCurRevisionId":1053,"wgRevisionId":1053,"wgArticleId":8,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"FAQ","wgRelevantArticleId":8,"wgRequestId":"Wx1-pdTjckkAAFKk7GgAAAAQ","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0"/>
+<meta name="google-site-verification" content=""/>
+<meta name="keywords" content="Ravencoin FAQ"/>
+<meta name="description" content="Answers to some of the Frequently Asked Questions about Ravencoin seen on the various community chats."/>
+<meta name="twitter:description" content="Answers to some of the Frequently Asked Questions about Ravencoin seen on the various community chats."/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Ravencoin Wiki (en-gb)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://raven.wiki/w/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="Ravencoin Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta property="og:title" content="Ravencoin Wiki: FAQ"/>
+<meta property="og:description" content="Answers to some of the Frequently Asked Questions about Ravencoin seen on the various community chats."/>
+<script type="application/ld+json">{"@context" : "http://schema.org","name":"Ravencoin Wiki: FAQ","headline":"Ravencoin Wiki: FAQ","description":"Answers to some of the Frequently Asked Questions about Ravencoin seen on the various community chats.",}</script>
+<meta property="fb:app_id" content=""/>
+
+<meta property="fb:admins" content=""/>
+
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-FAQ rootpage-FAQ skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en-GB">FAQ</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Ravencoin Wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output">
+<div id="toc" class="toc"><div class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Coin_launch_.2F_structure"><span class="tocnumber">1</span> <span class="toctext">Coin launch / structure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Why_is_RVN_any_better_than_.3Cinsert_coin_here.3E.3F"><span class="tocnumber">1.1</span> <span class="toctext">Why is RVN any better than &lt;insert coin here&gt;?</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Where.27s_the_whitepaper.3F"><span class="tocnumber">1.2</span> <span class="toctext">Where's the whitepaper?</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#What.27s_the_roadmap_for_Ravencoin.3F"><span class="tocnumber">1.3</span> <span class="toctext">What's the roadmap for Ravencoin?</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Are_there_Masternodes.3F"><span class="tocnumber">1.4</span> <span class="toctext">Are there Masternodes?</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#When_is_the_ICO.3F"><span class="tocnumber">1.5</span> <span class="toctext">When is the ICO?</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Was_it_pre-mined.3F"><span class="tocnumber">1.6</span> <span class="toctext">Was it pre-mined?</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#The_devs_should_do_.3Cinsert_topic_here.3E_.2F_Why_aren.27t_the_devs_doing_.3Cinsert_topic_here.3E.3F"><span class="tocnumber">1.7</span> <span class="toctext">The devs should do &lt;insert topic here&gt; / Why aren't the devs doing &lt;insert topic here&gt;?</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#How_come_some_people_have_100.2C000.27s_if_it_wasn.27t_premined.3F"><span class="tocnumber">1.8</span> <span class="toctext">How come some people have 100,000's if it wasn't premined?</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#What.27s_the_max_supply.3F"><span class="tocnumber">1.9</span> <span class="toctext">What's the max supply?</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#What.27s_the_halving_rate.3F"><span class="tocnumber">1.10</span> <span class="toctext">What's the halving rate?</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#When_will_all_be_mined.3F"><span class="tocnumber">1.11</span> <span class="toctext">When will all be mined?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Trading_Questions"><span class="tocnumber">2</span> <span class="toctext">Trading Questions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#When_will_RVN_be_on_an_exchange.3F"><span class="tocnumber">2.1</span> <span class="toctext">When will RVN be on an exchange?</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#When_will_RVN_be_on_more_.2F_better_exchanges.3F"><span class="tocnumber">2.2</span> <span class="toctext">When will RVN be on more / better exchanges?</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#What.27s_the_going_rate_for_RVN.3F"><span class="tocnumber">2.3</span> <span class="toctext">What's the going rate for RVN?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Mining"><span class="tocnumber">3</span> <span class="toctext">Mining</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#How_do_I_mine_Ravencoin.3F"><span class="tocnumber">3.1</span> <span class="toctext">How do I mine Ravencoin?</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Can_I_mine_with_my_CPU_.2F_CPU_or_GPU_mining_which_is_better.3F"><span class="tocnumber">3.2</span> <span class="toctext">Can I mine with my CPU / CPU or GPU mining which is better?</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Which_miner_is_best.3F"><span class="tocnumber">3.3</span> <span class="toctext">Which miner is best?</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Which_pool_is_best.3F"><span class="tocnumber">3.4</span> <span class="toctext">Which pool is best?</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#When_do_we_get_paid"><span class="tocnumber">3.5</span> <span class="toctext">When do we get paid</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#I_just_started_mining_30mins_ago.2C_why_are_my_rewards_so_low"><span class="tocnumber">3.6</span> <span class="toctext">I just started mining 30mins ago, why are my rewards so low</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Why_is_the_difficulty_going_up_.2F_down.3F"><span class="tocnumber">3.7</span> <span class="toctext">Why is the difficulty going up / down?</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Why_is_my_hash_rate_going_up_and_down.3F"><span class="tocnumber">3.8</span> <span class="toctext">Why is my hash rate going up and down?</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#What_hash_rate_should_I_be_getting_for_my_cards.3F"><span class="tocnumber">3.9</span> <span class="toctext">What hash rate should I be getting for my cards?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="#Community_type_questions"><span class="tocnumber">4</span> <span class="toctext">Community type questions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-28"><a href="#What.27s_the_link_for_Ravencoin_Community_Discord.3F"><span class="tocnumber">4.1</span> <span class="toctext">What's the link for Ravencoin Community Discord?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#How_do_I_do_.3Ctopic_here.3E_with_the_wallet.3F"><span class="tocnumber">5</span> <span class="toctext">How do I do &lt;topic here&gt; with the wallet?</span></a>
+<ul>
+<li class="toclevel-2 tocsection-30"><a href="#How_do_I_get_a_receiving_address.3F"><span class="tocnumber">5.1</span> <span class="toctext">How do I get a receiving address?</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Wallet_problems"><span class="tocnumber">5.2</span> <span class="toctext">Wallet problems</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#where_is_the_wallet.dat_file.3F"><span class="tocnumber">5.3</span> <span class="toctext">where is the wallet.dat file?</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Restore_wallet"><span class="tocnumber">5.4</span> <span class="toctext">Restore wallet</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#How_do_I_backup_my_wallet.dat_file.3F"><span class="tocnumber">5.5</span> <span class="toctext">How do I backup my wallet.dat file?</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#How_can_i_choose_the_address_bitcoins_are_sent_from"><span class="tocnumber">5.6</span> <span class="toctext">How can i choose the address bitcoins are sent from</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#What_is_the_wallet_and_Private_key"><span class="tocnumber">5.7</span> <span class="toctext">What is the wallet and Private key</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#How_do_I_set_up_the_wallet_to_be_a_full_node_.28and_why_would_I.3F.29"><span class="tocnumber">5.8</span> <span class="toctext">How do I set up the wallet to be a full node (and why would I?)</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#What_should_I_do_to_keep_my_Ravencoins_and_my_wallet_as_safe_as_possible.3F"><span class="tocnumber">5.9</span> <span class="toctext">What should I do to keep my Ravencoins and my wallet as safe as possible?</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Coin_launch_.2F_structure">Coin launch / structure</span></h2>
+<h3><span class="mw-headline" id="Why_is_RVN_any_better_than_.3Cinsert_coin_here.3E.3F">Why is RVN any better than &lt;insert coin here&gt;?</span></h3>
+<p>Some thoughts about the potential future direction of RVN have been captured in <a href="/wiki/The_Fenton_Files" title="The Fenton Files">The Fenton Files</a> <i>(I'd personally really recommend a read through of that to help understand the background)</i>
+</p>
+<h3><span class="mw-headline" id="Where.27s_the_whitepaper.3F">Where's the whitepaper?</span></h3>
+<p>A paper describing the intention for Ravencoin is available on the Ravencoin.org site <a rel="nofollow" class="external text" href="https://ravencoin.org/Ravencoin.pdf">here</a> other papers are also linked <a rel="nofollow" class="external text" href="https://ravencoin.org/whitepaper/">here</a>
+</p>
+<h3><span class="mw-headline" id="What.27s_the_roadmap_for_Ravencoin.3F">What's the roadmap for Ravencoin?</span></h3>
+<p><a rel="nofollow" class="external free" href="https://github.com/RavenProject/Ravencoin/blob/master/roadmap/README.md">https://github.com/RavenProject/Ravencoin/blob/master/roadmap/README.md</a>
+</p><p>All papers are linked to from <a rel="nofollow" class="external free" href="https://ravencoin.org/whitepaper/">https://ravencoin.org/whitepaper/</a>
+</p>
+<h3><span class="mw-headline" id="Are_there_Masternodes.3F">Are there Masternodes?</span></h3>
+<p>No. 
+</p>
+<h3><span class="mw-headline" id="When_is_the_ICO.3F">When is the ICO?</span></h3>
+<p>There isn't going to be an ICO. Ravencoin is a fair launch, open source project focused on building good code with a good use-case.
+</p>
+<h3><span class="mw-headline" id="Was_it_pre-mined.3F">Was it pre-mined?</span></h3>
+<p>No - it was <a rel="nofollow" class="external text" href="https://twitter.com/brucefenton/status/948682276229074945">announced on twitter</a> and discussed at a few meetups prior to that. There's a timeline of some of the events <a rel="nofollow" class="external text" href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NKsWx5sSG90GjbbwZaOav6D_bAOdnlBjPBAjJtZzXr4&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650">here</a>
+</p><p>Further points about the launch where made on <a rel="nofollow" class="external text" href="https://raven.wiki/w/index.php?title=The_Fenton_Files&amp;mobileaction=toggle_view_desktop#6_May_2018_-_Telegram">Telegram on the 6th May 2018</a>
+</p>
+<h3><span class="mw-headline" id="The_devs_should_do_.3Cinsert_topic_here.3E_.2F_Why_aren.27t_the_devs_doing_.3Cinsert_topic_here.3E.3F">The devs should do &lt;insert topic here&gt; / Why aren't the devs doing &lt;insert topic here&gt;?</span></h3>
+<p>This is an open source project. You can do whatever you want with it. Read <a href="/wiki/The_Fenton_Files" title="The Fenton Files">The Fenton Files</a> for more thoughts about the coin. The devs are focused on the code development inline with the roadmap. Members of the community can build tools and websites around the coin that they think could be useful.
+</p>
+<h3><span class="mw-headline" id="How_come_some_people_have_100.2C000.27s_if_it_wasn.27t_premined.3F">How come some people have 100,000's if it wasn't premined?</span></h3>
+<p>There were people that started when difficulty was well under 100 rather than where it is now. Some people rented hundreds of cloud CPU's to mine it before the GPU miner software was developed for the community. Some still have huge gpu rigs pointed at pools. All coins in circulation have been generated the same way, fair mining.
+</p>
+<h3><span class="mw-headline" id="What.27s_the_max_supply.3F">What's the max supply?</span></h3>
+<p>21 billion
+</p>
+<h3><span class="mw-headline" id="What.27s_the_halving_rate.3F">What's the halving rate?</span></h3>
+<p>The same as bitcoin so every 4 years or so. 2100000 blocks (1block / min * 60mins * 24hrs * 365 days * 4yrs)
+</p><p><a rel="nofollow" class="external free" href="https://ravencoin.org/halving/">https://ravencoin.org/halving/</a> read more here.
+</p>
+<h3><span class="mw-headline" id="When_will_all_be_mined.3F">When will all be mined?</span></h3>
+<p>Tron one of the core team devs explained it on Telegram on the 30th March 2018 as follows: 
+</p>
+<pre>"Half of Raven will be mined over the next 4 years or so.  Then another quarter over the next 4 years.   Then an eighth over the next 4 years, etc.   Most will be mined over the next 24 years, but it will continue for another 120 years or so.   Mining fees should support the Raven network as the block reward decreases."
+</pre>
+<h2><span class="mw-headline" id="Trading_Questions">Trading Questions</span></h2>
+<h3><span class="mw-headline" id="When_will_RVN_be_on_an_exchange.3F">When will RVN be on an exchange?</span></h3>
+<p>It's on the following exchanges: 
+</p><p><a rel="nofollow" class="external text" href="https://wallet.crypto-bridge.org/market/BRIDGE.RVN_BRIDGE.BTC">Crypto Bridge</a>
+</p><p><a rel="nofollow" class="external text" href="https://nanex.co/exchange/RVNNANO">Nanex</a>
+</p><p>And others. 
+</p><p>There's a table detailing more exchanges on the <a href="/wiki/Exchange_How_To" title="Exchange How To">Exchange How To</a> page.
+</p>
+<h3><span class="mw-headline" id="When_will_RVN_be_on_more_.2F_better_exchanges.3F">When will RVN be on more / better exchanges?</span></h3>
+<p>At the time of writing: when the exchanges decide to list it, or someone pays to list it. It's an open source project so anyone can pay for it's listing on any exchange.
+</p><p>There's an exchange liaison group on discord with a number of people talking to exchanges. The group has a working document <a href="/wiki/Exchange_How_To" title="Exchange How To">Exchange How To</a> and an <a href="/wiki/Exchange_FAQ" title="Exchange FAQ">Exchange FAQ</a> on this wiki.
+</p>
+<h3><span class="mw-headline" id="What.27s_the_going_rate_for_RVN.3F">What's the going rate for RVN?</span></h3>
+<p>Check the exchanges above.
+</p>
+<h2><span class="mw-headline" id="Mining">Mining</span></h2>
+<h3><span class="mw-headline" id="How_do_I_mine_Ravencoin.3F">How do I mine Ravencoin?</span></h3>
+<p>There is dedicated <b><a href="/wiki/Mining" title="Mining">mining</a></b> page, including links to the opensource mining software for both nVidia and AMD cards.
+</p>
+<h3><span class="mw-headline" id="Can_I_mine_with_my_CPU_.2F_CPU_or_GPU_mining_which_is_better.3F">Can I mine with my CPU / CPU or GPU mining which is better?</span></h3>
+<p>Yes you can mine with your CPU however you're unlikely to earn many Ravencoin. The net hash is now pretty large so a single CPU isn't going to contribute much. Obviously, if you've got a lot of CPU's or high-end ones you may earn more. Generally, people are running GPU's in one of the <a href="/wiki/Pools" title="Pools">Pools</a>.
+</p>
+<h3><span class="mw-headline" id="Which_miner_is_best.3F">Which miner is best?</span></h3>
+<p><a rel="nofollow" class="external text" href="https://ravenforum.org/topic/25/a1-vs-suprminer-vs-nevermore-vs-enemy-1-04-test-results">A1 Vs Suprminer Vs Nevermore Vs Enemy 1.04 - Test Results</a> 4 way Head to head comparison of A1min3r 0.1.2 Vs. Suprminer 1.6 Vs. Nevermore 0.2.2 Vs. Enemy 1.04
+</p><p><br />
+<a rel="nofollow" class="external text" href="https://ravenforum.org/topic/23/enemy-1-03-vs-suprminer-1-6-vs-enemy-1-05-test-results">Enemy vs Suprminer</a> comparison of 2 versions of Enemy miner and Suprminer
+</p>
+<h3><span class="mw-headline" id="Which_pool_is_best.3F">Which pool is best?</span></h3>
+<p>All the <a href="/wiki/Pools" title="Pools">Pools</a> are pretty good, and as with most things tech, they all have issues from time to time. On average you'll get a larger share of fewer blocks with the smaller pools and a smaller share of more blocks with the larger pools. There are support channels for most of the pools on discord. The pools can be compared <a rel="nofollow" class="external text" href="https://www.rvnstats.info/d/TcDzUYmmz/x16r-ravencoin-mining-pool-statistics-v1-3">here</a>.
+</p><p>Mining on a big pool will give us many tiny payouts, vs mining on a small pool will give us fewer large payouts. Over time it will average out and we will earn the same amount of coins.
+</p><p>A good recommendation when choosing a pool is any pool not in the top 3 highest hashrate, but any other pool with at least around 0,5% of network hash rate so the pool will hit some blocks each day. Or if we want to help build up a tiny pool, go for an even smaller one.
+</p><p>The reason we want to not go for the pools with the highest hashrate is to spread the hash and secure our network. Read up on <a rel="nofollow" class="external text" href="https://en.bitcoin.it/wiki/Majority_attack">51% attack here</a>.
+</p>
+<h3><span class="mw-headline" id="When_do_we_get_paid">When do we get paid</span></h3>
+<p>Payouts come from a block found by the pool that we have valid shares on. After a block is found it needs to be confirmed by the 100 next blocks, and since block time is 1min for Ravencoin this is about 100 mins. Coins are called immature while being confirmed. Once the coins are confirmed they are spendable, and will be paid out by the pool on the next payout cycle. Coins are often called matured coins at this stage.
+</p>
+<h3><span class="mw-headline" id="I_just_started_mining_30mins_ago.2C_why_are_my_rewards_so_low">I just started mining 30mins ago, why are my rewards so low</span></h3>
+<p>Pplns vs pps, is often the answer. In a pool with pplns - Pay Per Last N Shares - we build up over rounds(N) our share in the reward(block). Suprnova uses 20 - 25 rounds for N.
+</p><p>PPS - Pay Per Share, the sum of our submitted (accepted) shares divided by total submitted shares on the pool by other miners, gives us our percentage of the next block.
+</p><p>yiimp based pools (such as ravenminer.com, yiimp.eu, cryptopool.party) by default use a custom approach to rewards. All shares are saved for as long as it takes to find a block. Then, when a block is found: 1) rewards are divided proportionally among valid shares. 2) Valid shares older than 5 minutes prior to the block being found are then deleted. <a rel="nofollow" class="external autonumber" href="https://github.com/tpruvot/yiimp/blob/next/web/yaamp/core/backend/blocks.php">[1]</a> This has the effect that all miners get close to a fresh start with each new block.
+</p><p>Pplns will give us more rewards in long term mining. <a rel="nofollow" class="external text" href="https://minergate.com/faq/difference-between-pps-and-pplns">Read more here</a> and <a rel="nofollow" class="external text" href="https://bitcointalk.org/index.php?topic=39832">here.</a>
+</p>
+<h3><span class="mw-headline" id="Why_is_the_difficulty_going_up_.2F_down.3F">Why is the difficulty going up / down?</span></h3>
+<p>The network tries to maintain 1 block being solved per minute over 2016 blocks before retargeting difficulty. If miners have found more than 1 block per minute during the previous 2016 blocks the network difficulty will go up to bring the average block time back to 1 per minute. If miners are solving blocks slower the opposite will happen.
+</p>
+<h3><span class="mw-headline" id="Why_is_my_hash_rate_going_up_and_down.3F">Why is my hash rate going up and down?</span></h3>
+<p>The X16r algo consists of 16 different algos, and the order is based on the last 16 bits of the last block. We can get a better displayed hashrate on ccminer/nevermore by adding the following to the end of the bat file:
+</p>
+<pre>-N 600
+</pre>
+<h3><span class="mw-headline" id="What_hash_rate_should_I_be_getting_for_my_cards.3F">What hash rate should I be getting for my cards?</span></h3>
+<p>There are some conservative numbers on <a rel="nofollow" class="external text" href="http://whattomine.com/">WhatToMine</a>
+</p><p>These are average hashrates (from multiple cards) from Nevermore 0.2.2 and Suprminer 1.6 with -N 600 (and more than 600 accepted shares):
+</p>
+<pre>Nvidia 1060 6gb pl 80%, core +125, mem +200  =  7-7,7MH/s
+Nvidia 1070     pl 70%, core +125, mem stock =  9,5-10,5MH/s
+Nvidia 1070ti   pl 80%, core +125, mem stock = 11,5-13MH/s
+Nvidia 1080     pl 85%, core +125, mem stock = 13-14,5MH/s
+Nvidia 1080ti   pl 80%, core +125, mem stock = 17-18,5MH/s
+</pre>
+<p>AMD sgminer avg since started (right column) 6 hour runtime, -X 256 -g 2&#160;:
+</p>
+<pre>Amd 7950 3gb stock BIOS, pl 100%,  950 core, 1450 mem = 2,0-2,2 MH/s
+Amd 570  4gb stock BIOS, pl 100%, 1256 core, 1750 mem = 5,6-6,0 MH/s    
+Amd 480  8gb stock BIOS, pl 100%, 1303 core, 2000 mem = 6,7-7,1 MH/s
+</pre>
+<p><a rel="nofollow" class="external text" href="https://twitter.com/BitsBeTrippin/status/973326840508157952?s=09">bitsbetripping table</a> ccminer 2.2.5 stock cards.
+</p>
+<h2><span class="mw-headline" id="Community_type_questions">Community type questions</span></h2>
+<p>The <b><a href="/wiki/Community" title="Community">community</a></b> page links to a lot of the resources available. 
+</p>
+<h3><span class="mw-headline" id="What.27s_the_link_for_Ravencoin_Community_Discord.3F">What's the link for Ravencoin Community Discord?</span></h3>
+<p><a rel="nofollow" class="external text" href="https://discord.gg/CXkJcC3">Discord</a>
+</p>
+<h2><span class="mw-headline" id="How_do_I_do_.3Ctopic_here.3E_with_the_wallet.3F">How do I do &lt;topic here&gt; with the wallet?</span></h2>
+<p>Many questions about the wallet can be answered by searching the same question for the Bitcoin wallet. The <a rel="nofollow" class="external text" href="https://en.bitcoin.it">Bitcoin wiki</a> and <a rel="nofollow" class="external text" href="https://stackoverflow.com/questions/tagged/bitcoin">Bitcoin on StackOverflow</a> are two great resources which might already have answers to your question.
+</p><p><a href="/wiki/Best_practices#General_wallet_guide" title="Best practices">General wallet guide</a>
+</p><p><b><a href="/wiki/Best_practices" title="Best practices">Best practices</a></b> for how to keep your coins safe.
+</p>
+<h3><span class="mw-headline" id="How_do_I_get_a_receiving_address.3F">How do I get a receiving address?</span></h3>
+<p>At the time of writing the Raven QT wallet is largely the same as the Bitcoin QT wallet - there are numerous guides via Google on setting up the Bitcoin QT wallet.
+</p><p>In summary, install the wallet then:
+</p><p>For a receiving address:
+</p><p>Click File &gt; Receiving Address &gt; New, enter a name for your address, click OK - you should then see your new address
+</p><p>There is a more detailed <a href="/wiki/Best_practices#General_wallet_guide" title="Best practices">General wallet guide</a> on Best practices page.
+</p>
+<h3><span class="mw-headline" id="Wallet_problems">Wallet problems</span></h3>
+<p>There is a dedicated <b><a href="/wiki/Troubleshoot" title="Troubleshoot">Troubleshoot page</a></b>
+</p>
+<h3><span class="mw-headline" id="where_is_the_wallet.dat_file.3F">where is the wallet.dat file?</span></h3>
+<p><a rel="nofollow" class="external free" href="https://en.bitcoin.it/wiki/Data_directory">https://en.bitcoin.it/wiki/Data_directory</a>
+</p><p><b><a href="/wiki/Troubleshoot" title="Troubleshoot">Troubleshoot</a></b> page has a wallet section.
+</p>
+<h3><span class="mw-headline" id="Restore_wallet">Restore wallet</span></h3>
+<p>Look on our <a href="/wiki/Troubleshoot#Restore_wallet" title="Troubleshoot">Restore wallet guide</a>
+</p>
+<h3><span class="mw-headline" id="How_do_I_backup_my_wallet.dat_file.3F">How do I backup my wallet.dat file?</span></h3>
+<p><a rel="nofollow" class="external free" href="https://en.bitcoin.it/wiki/Backingup_your_wallet">https://en.bitcoin.it/wiki/Backingup_your_wallet</a>
+</p><p><b><a href="/wiki/Best_practices" title="Best practices">Best practices</a></b> for how to keep your coins safe.
+</p>
+<h3><span class="mw-headline" id="How_can_i_choose_the_address_bitcoins_are_sent_from">How can i choose the address bitcoins are sent from</span></h3>
+<p>Raven-qt wallet is forked of bitcoin-qt wallet:
+</p><p><a rel="nofollow" class="external text" href="https://bitcoin.stackexchange.com/questions/44598/how-can-i-choose-the-address-bitcoins-are-sent-from">how can i choose the address bitcoins are sent from</a>
+</p>
+<h3><span class="mw-headline" id="What_is_the_wallet_and_Private_key">What is the wallet and Private key</span></h3>
+<p><a rel="nofollow" class="external text" href="https://ravenforum.org/topic/21/the-private-key-and-the-wallet">the private key and the wallet</a>
+</p>
+<h3><span class="mw-headline" id="How_do_I_set_up_the_wallet_to_be_a_full_node_.28and_why_would_I.3F.29">How do I set up the wallet to be a full node (and why would I?)</span></h3>
+<p>A full node validates transactions and blocks, which makes the whole Ravencoin network stronger. You can enable this by opening up the wallet and looking under Settings &gt; Options &gt; Network and making sure both "Map port using UPnP" and "Allow incoming connections" are both checked.
+</p>
+<h3><span class="mw-headline" id="What_should_I_do_to_keep_my_Ravencoins_and_my_wallet_as_safe_as_possible.3F">What should I do to keep my Ravencoins and my wallet as safe as possible?</span></h3>
+<p><a rel="nofollow" class="external free" href="https://virtopia.ca/crypto-wallet-safety/">https://virtopia.ca/crypto-wallet-safety/</a>
+</p><p><b><a href="/wiki/Best_practices" title="Best practices">Best practices</a></b> for how to keep your coins safe.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180610173446
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.024 seconds
+Real time usage: 0.026 seconds
+Preprocessor visited node count: 159/1000000
+Preprocessor generated node count: 212/1000000
+Post‐expand include size: 26/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:8-0!canonical and timestamp 20180610173446 and revision id 1053
+ -->
+</div>					<div class="printfooter">
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=FAQ&amp;oldid=1053">https://raven.wiki/w/index.php?title=FAQ&amp;oldid=1053</a>’					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=FAQ" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=FAQ" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/FAQ" title="View the content page [c]" accesskey="c">Page</a></span></li>
+							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:FAQ&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/FAQ">Read</a></span></li>
+							<li id="ca-viewsource"><span><a href="/w/index.php?title=FAQ&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=FAQ&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Ravencoin Wiki" title="Search Ravencoin Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Ravencoin_Wiki"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Code"><a href="/wiki/Code">Code</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
+			<h3 id='p-News-label'>News</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
+			<h3 id='p-Wiki-label'>Wiki</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-Contributing-here"><a href="/wiki/Contributing_to_the_wiki">Contributing here</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/FAQ" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/FAQ" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=FAQ&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=FAQ&amp;oldid=1053" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=FAQ&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 9 May 2018, at 12:19.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Ravencoin_Wiki:About" title="Ravencoin Wiki:About">About Ravencoin Wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Ravencoin_Wiki:General_disclaimer" title="Ravencoin Wiki:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=FAQ&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.024","walltime":"0.026","ppvisitednodes":{"value":159,"limit":1000000},"ppgeneratednodes":{"value":212,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180610173446","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":363});});</script>
+	</body>
+</html>

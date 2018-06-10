@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en-GB" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Chainparams - Ravencoin Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chainparams","wgTitle":"Chainparams","wgCurRevisionId":955,"wgRevisionId":955,"wgArticleId":61,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chainparams","wgRelevantArticleId":61,"wgRequestId":"Wx1-oNTjckkAAGMRzI0AAAAB","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Ravencoin Wiki (en-gb)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://raven.wiki/w/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="Ravencoin Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Chainparams rootpage-Chainparams skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en-GB">Chainparams</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Ravencoin Wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Please refer to <a rel="nofollow" class="external free" href="https://github.com/RavenProject/Ravencoin/blob/master/src/chainparams.cpp">https://github.com/RavenProject/Ravencoin/blob/master/src/chainparams.cpp</a> to confirm any of the details below.
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Mainnet"><span class="tocnumber">1</span> <span class="toctext">Mainnet</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#strNetworkID"><span class="tocnumber">1.1</span> <span class="toctext">strNetworkID</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#consensus.nSubsidyHalvingInterval"><span class="tocnumber">1.2</span> <span class="toctext">consensus.nSubsidyHalvingInterval</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#consensus.nBIP34Enabled"><span class="tocnumber">1.3</span> <span class="toctext">consensus.nBIP34Enabled</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#consensus.nBIP65Enabled"><span class="tocnumber">1.4</span> <span class="toctext">consensus.nBIP65Enabled</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#consensus.nBIP66Enabled"><span class="tocnumber">1.5</span> <span class="toctext">consensus.nBIP66Enabled</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#consensus.nSegwitEnabled"><span class="tocnumber">1.6</span> <span class="toctext">consensus.nSegwitEnabled</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#consensus.nCSVEnabled"><span class="tocnumber">1.7</span> <span class="toctext">consensus.nCSVEnabled</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#consensus.powLimit"><span class="tocnumber">1.8</span> <span class="toctext">consensus.powLimit</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#consensus.nPowTargetTimespan"><span class="tocnumber">1.9</span> <span class="toctext">consensus.nPowTargetTimespan</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#consensus.nPowTargetSpacing"><span class="tocnumber">1.10</span> <span class="toctext">consensus.nPowTargetSpacing</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#consensus.fPowAllowMinDifficultyBlocks"><span class="tocnumber">1.11</span> <span class="toctext">consensus.fPowAllowMinDifficultyBlocks</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#consensus.fPowNoRetargeting"><span class="tocnumber">1.12</span> <span class="toctext">consensus.fPowNoRetargeting</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#consensus.nRuleChangeActivationThreshold"><span class="tocnumber">1.13</span> <span class="toctext">consensus.nRuleChangeActivationThreshold</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#consensus.nMinerConfirmationWindow"><span class="tocnumber">1.14</span> <span class="toctext">consensus.nMinerConfirmationWindow</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#consensus.vDeployments"><span class="tocnumber">1.15</span> <span class="toctext">consensus.vDeployments</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#consensus.nMinimumChainWork"><span class="tocnumber">1.16</span> <span class="toctext">consensus.nMinimumChainWork</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#consensus.defaultAssumeValid"><span class="tocnumber">1.17</span> <span class="toctext">consensus.defaultAssumeValid</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#pchMessageStart"><span class="tocnumber">1.18</span> <span class="toctext">pchMessageStart</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#nDefaultPort"><span class="tocnumber">1.19</span> <span class="toctext">nDefaultPort</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#nPruneAfterHeight"><span class="tocnumber">1.20</span> <span class="toctext">nPruneAfterHeight</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#genesis"><span class="tocnumber">1.21</span> <span class="toctext">genesis</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#consensus.hashGenesisBlock"><span class="tocnumber">1.22</span> <span class="toctext">consensus.hashGenesisBlock</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#vSeeds.emplace_back"><span class="tocnumber">1.23</span> <span class="toctext">vSeeds.emplace_back</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#base58Prefixes"><span class="tocnumber">1.24</span> <span class="toctext">base58Prefixes</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#bech32_hrp"><span class="tocnumber">1.25</span> <span class="toctext">bech32_hrp</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#vFixedSeeds"><span class="tocnumber">1.26</span> <span class="toctext">vFixedSeeds</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#fDefaultConsistencyChecks"><span class="tocnumber">1.27</span> <span class="toctext">fDefaultConsistencyChecks</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#fRequireStandard"><span class="tocnumber">1.28</span> <span class="toctext">fRequireStandard</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#fMineBlocksOnDemand"><span class="tocnumber">1.29</span> <span class="toctext">fMineBlocksOnDemand</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#fMiningRequiresPeers"><span class="tocnumber">1.30</span> <span class="toctext">fMiningRequiresPeers</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Mainnet">Mainnet</span></h2>
+<h3><span class="mw-headline" id="strNetworkID">strNetworkID</span></h3>
+<p>strNetworkID = "main";
+</p>
+<h3><span class="mw-headline" id="consensus.nSubsidyHalvingInterval">consensus.nSubsidyHalvingInterval</span></h3>
+<p>consensus.nSubsidyHalvingInterval = 2100000;  //~ 4 yrs at 1 min block time
+</p>
+<h3><span class="mw-headline" id="consensus.nBIP34Enabled">consensus.nBIP34Enabled</span></h3>
+<p>consensus.nBIP34Enabled = true;
+</p>
+<h3><span class="mw-headline" id="consensus.nBIP65Enabled">consensus.nBIP65Enabled</span></h3>
+<p>consensus.nBIP65Enabled = true; // 000000000000000004c2b624ed5d7756c508d90fd0da2c7c679febfa6c4735f0
+</p>
+<h3><span class="mw-headline" id="consensus.nBIP66Enabled">consensus.nBIP66Enabled</span></h3>
+<p>consensus.nBIP66Enabled = true;
+</p>
+<h3><span class="mw-headline" id="consensus.nSegwitEnabled">consensus.nSegwitEnabled</span></h3>
+<p>consensus.nSegwitEnabled = true;
+</p>
+<h3><span class="mw-headline" id="consensus.nCSVEnabled">consensus.nCSVEnabled</span></h3>
+<p>consensus.nCSVEnabled = true;
+</p>
+<h3><span class="mw-headline" id="consensus.powLimit">consensus.powLimit</span></h3>
+<p>consensus.powLimit = uint256S("00000fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff");
+</p>
+<h3><span class="mw-headline" id="consensus.nPowTargetTimespan">consensus.nPowTargetTimespan</span></h3>
+<p>consensus.nPowTargetTimespan = 2016 * 60; // 1.4 days
+</p>
+<h3><span class="mw-headline" id="consensus.nPowTargetSpacing">consensus.nPowTargetSpacing</span></h3>
+<p>consensus.nPowTargetSpacing = 1 * 60;
+</p>
+<h3><span class="mw-headline" id="consensus.fPowAllowMinDifficultyBlocks">consensus.fPowAllowMinDifficultyBlocks</span></h3>
+<p>consensus.fPowAllowMinDifficultyBlocks = false;
+</p>
+<h3><span class="mw-headline" id="consensus.fPowNoRetargeting">consensus.fPowNoRetargeting</span></h3>
+<p>consensus.fPowNoRetargeting = false;
+</p>
+<h3><span class="mw-headline" id="consensus.nRuleChangeActivationThreshold">consensus.nRuleChangeActivationThreshold</span></h3>
+<p>consensus.nRuleChangeActivationThreshold = 1916; // 95% of 2016
+</p>
+<h3><span class="mw-headline" id="consensus.nMinerConfirmationWindow">consensus.nMinerConfirmationWindow</span></h3>
+<p>consensus.nMinerConfirmationWindow = 2016; // nPowTargetTimespan / nPowTargetSpacing
+</p>
+<h3><span class="mw-headline" id="consensus.vDeployments">consensus.vDeployments</span></h3>
+<p>consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].bit = 28;
+</p><p>consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].nStartTime = 1199145601; // January 1, 2008
+</p><p>consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].nTimeout = 1230767999; // December 31, 2008
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="consensus.nMinimumChainWork">consensus.nMinimumChainWork</span></h3>
+<p>// The best chain should have at least this much work.
+</p><p>consensus.nMinimumChainWork = uint256S("0x00");
+</p>
+<h3><span class="mw-headline" id="consensus.defaultAssumeValid">consensus.defaultAssumeValid</span></h3>
+<p>// By default assume that the signatures in ancestors of this block are valid.
+</p><p>consensus.defaultAssumeValid = uint256S("0x00");
+</p>
+<h3><span class="mw-headline" id="pchMessageStart">pchMessageStart</span></h3>
+<p>pchMessageStart[0] = 0x52;
+</p><p>pchMessageStart[1] = 0x41;
+</p><p>pchMessageStart[2] = 0x56;
+</p><p>pchMessageStart[3] = 0x4e;
+</p>
+<h3><span class="mw-headline" id="nDefaultPort">nDefaultPort</span></h3>
+<p>nDefaultPort = 8767;
+</p>
+<h3><span class="mw-headline" id="nPruneAfterHeight">nPruneAfterHeight</span></h3>
+<p>nPruneAfterHeight = 100000;
+</p>
+<h3><span class="mw-headline" id="genesis">genesis</span></h3>
+<p>genesis = CreateGenesisBlock(1514999494, 25023712, 0x1e00ffff, 4, 5000 * COIN); 
+</p>
+<pre>static CBlock CreateGenesisBlock(uint32_t nTime, uint32_t nNonce, uint32_t nBits, int32_t nVersion, const CAmount&amp; genesisReward)
+{
+   const char* pszTimestamp = "The Times 03/Jan/2018 Bitcoin is name of the game for new generation of firms";
+   const CScript genesisOutputScript = CScript() &lt;&lt; ParseHex("04678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f") &lt;&lt; OP_CHECKSIG;
+   return CreateGenesisBlock(pszTimestamp, genesisOutputScript, nTime, nNonce, nBits, nVersion, genesisReward);
+}
+</pre>
+<h3><span class="mw-headline" id="consensus.hashGenesisBlock">consensus.hashGenesisBlock</span></h3>
+<p>consensus.hashGenesisBlock = genesis.GetHash();        
+</p><p>assert(consensus.hashGenesisBlock == uint256S("0x0000006b444bc2f2ffe627be9d9e7e7a0730000870ef6eb6da46c8eae389df90"));
+</p><p>assert(genesis.hashMerkleRoot == uint256S("0x28ff00a867739a352523808d301f504bc4547699398d70faf2266a8bae5f3516"));
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="vSeeds.emplace_back">vSeeds.emplace_back</span></h3>
+<p>vSeeds.emplace_back("seed-raven.ravencoin.org", false); 
+</p><p>vSeeds.emplace_back("seed-raven.bitactivate.com", false);
+</p>
+<h3><span class="mw-headline" id="base58Prefixes">base58Prefixes</span></h3>
+<p>base58Prefixes[PUBKEY_ADDRESS] = std::vector&lt;unsigned char&gt;(1,60);
+</p><p>base58Prefixes[SCRIPT_ADDRESS] = std::vector&lt;unsigned char&gt;(1,122);
+</p><p>base58Prefixes[SECRET_KEY] =     std::vector&lt;unsigned char&gt;(1,128);
+</p><p>base58Prefixes[EXT_PUBLIC_KEY] = {0x04, 0x88, 0xB2, 0x1E};
+</p><p>base58Prefixes[EXT_SECRET_KEY] = {0x04, 0x88, 0xAD, 0xE4};
+</p>
+<h3><span class="mw-headline" id="bech32_hrp">bech32_hrp</span></h3>
+<p>bech32_hrp = "rc";
+</p>
+<h3><span class="mw-headline" id="vFixedSeeds">vFixedSeeds</span></h3>
+<p>vFixedSeeds = std::vector&lt;SeedSpec6&gt;(pnSeed6_main, pnSeed6_main + ARRAYLEN(pnSeed6_main));
+</p>
+<h3><span class="mw-headline" id="fDefaultConsistencyChecks">fDefaultConsistencyChecks</span></h3>
+<p>fDefaultConsistencyChecks = false;
+</p>
+<h3><span class="mw-headline" id="fRequireStandard">fRequireStandard</span></h3>
+<p>fRequireStandard = true;
+</p>
+<h3><span class="mw-headline" id="fMineBlocksOnDemand">fMineBlocksOnDemand</span></h3>
+<p>fMineBlocksOnDemand = false;
+</p>
+<h3><span class="mw-headline" id="fMiningRequiresPeers">fMiningRequiresPeers</span></h3>
+<p>fMiningRequiresPeers = true;
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180610190103
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.016 seconds
+Real time usage: 0.017 seconds
+Preprocessor visited node count: 123/1000000
+Preprocessor generated node count: 128/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:61-0!canonical and timestamp 20180610190103 and revision id 955
+ -->
+</div>					<div class="printfooter">
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Chainparams&amp;oldid=955">https://raven.wiki/w/index.php?title=Chainparams&amp;oldid=955</a>’					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Chainparams" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Chainparams" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Chainparams" title="View the content page [c]" accesskey="c">Page</a></span></li>
+							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Chainparams&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Chainparams">Read</a></span></li>
+							<li id="ca-viewsource"><span><a href="/w/index.php?title=Chainparams&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Chainparams&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Ravencoin Wiki" title="Search Ravencoin Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Ravencoin_Wiki"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Code"><a href="/wiki/Code">Code</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
+			<h3 id='p-News-label'>News</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
+			<h3 id='p-Wiki-label'>Wiki</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-Contributing-here"><a href="/wiki/Contributing_to_the_wiki">Contributing here</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Chainparams" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Chainparams" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Chainparams&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Chainparams&amp;oldid=955" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Chainparams&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 May 2018, at 19:37.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Ravencoin_Wiki:About" title="Ravencoin Wiki:About">About Ravencoin Wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Ravencoin_Wiki:General_disclaimer" title="Ravencoin Wiki:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=Chainparams&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.016","walltime":"0.017","ppvisitednodes":{"value":123,"limit":1000000},"ppgeneratednodes":{"value":128,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180610190103","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":259});});</script>
+	</body>
+</html>
