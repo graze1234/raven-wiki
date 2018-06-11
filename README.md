@@ -6,8 +6,6 @@ Wiki is run on a standard mediawiki installation, with MobileFrontend, Youtube a
 
 # Custom settings in addition to standard LocalSettings.php #
 
-$wgLogo = "/w/images/Raven_black_sm.png";
-
 $wgGroupPermissions['*']['edit'] = false;
 
 $wgGroupPermissions['*']['move'] = false;
