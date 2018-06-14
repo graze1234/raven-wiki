@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Ravencoin Wiki: Exchange How To</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Exchange_How_To","wgTitle":"Exchange How To","wgCurRevisionId":1181,"wgRevisionId":1181,"wgArticleId":46,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Exchange_How_To","wgRelevantArticleId":46,"wgRequestId":"Wx1-pNTjckkAAFZDapMAAAAp","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Exchange_How_To","wgTitle":"Exchange How To","wgCurRevisionId":1181,"wgRevisionId":1181,"wgArticleId":46,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Exchange_How_To","wgRelevantArticleId":46,"wgRequestId":"WyLIZtTjckkAAIL--98AAAAn","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -752,7 +752,7 @@ Best Regards
 <p><a rel="nofollow" class="external free" href="https://www.cryptopia.co.nz/Paytopia">https://www.cryptopia.co.nz/Paytopia</a>
 </p><p>Just choose the option that suits your needs the best, and fill in all the required details. Administrators will review the coin/code and begin the listing process as soon as possible. If for any reason the listing is rejected due to incompatibility, or failing the code review, the full listing price will be immediately refunded to your account.
 </p><p>If you have further technical queries, please write an email with the specifics that can be looked at and answered directly by a member of our Wallet team:
-</p><p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8ae9e5e3e4fdebe6e6effef9cae9f8f3fafee5fae3eba4e9e5a4e4f0">[email&#160;protected]</a>
+</p><p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e88b8781869f8984848d9c9ba88b9a91989c87988189c68b87c68692">[email&#160;protected]</a>
 </p>
 </td></tr>
 <tr>
@@ -3069,11 +3069,11 @@ Happiness Hero
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20180610175243
+Cached time: 20180614190107
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 0.128 seconds
-Real time usage: 0.131 seconds
+CPU time usage: 0.084 seconds
+Real time usage: 0.109 seconds
 Preprocessor visited node count: 32/1000000
 Preprocessor generated node count: 86/1000000
 Post‐expand include size: 26/2097152 bytes
@@ -3086,7 +3086,7 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:46-0!canonical and timestamp 20180610175243 and revision id 1181
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:46-0!canonical and timestamp 20180614190107 and revision id 1181
  -->
 </div>					<div class="printfooter">
 						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Exchange_How_To&amp;oldid=1181">https://raven.wiki/w/index.php?title=Exchange_How_To&amp;oldid=1181</a>’					</div>
@@ -3202,6 +3202,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.131","ppvisitednodes":{"value":32,"limit":1000000},"ppgeneratednodes":{"value":86,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180610175243","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":504});});</script>
+		<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.084","walltime":"0.109","ppvisitednodes":{"value":32,"limit":1000000},"ppgeneratednodes":{"value":86,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180614190107","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":268});});</script>
 	</body>
 </html>

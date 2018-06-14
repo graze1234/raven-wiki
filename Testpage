@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Testpage - Ravencoin Wiki</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Testpage","wgTitle":"Testpage","wgCurRevisionId":1114,"wgRevisionId":1114,"wgArticleId":35,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Testpage","wgRelevantArticleId":35,"wgRequestId":"Wx1-sNTjckkAAE2e7WIAAAAT","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Testpage","wgTitle":"Testpage","wgCurRevisionId":1114,"wgRevisionId":1114,"wgArticleId":35,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Testpage","wgRelevantArticleId":35,"wgRequestId":"WyLIc9TjckkAACdxo64AAAAW","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -85,11 +85,11 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 <!-- 
 NewPP limit report
-Cached time: 20180610190120
+Cached time: 20180614190124
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 0.020 seconds
-Real time usage: 0.021 seconds
+CPU time usage: 0.008 seconds
+Real time usage: 0.019 seconds
 Preprocessor visited node count: 14/1000000
 Preprocessor generated node count: 50/1000000
 Post‐expand include size: 2182/2097152 bytes
@@ -99,12 +99,12 @@ Expensive parser function count: 0/100
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%    5.975      1 -total
- 64.18%    3.835      1 Template:MainPage_Summary
- 33.05%    1.975      1 Template:MainPage_Topics
+100.00%    4.711      1 -total
+ 57.51%    2.709      1 Template:MainPage_Summary
+ 39.63%    1.867      1 Template:MainPage_Topics
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:35-0!canonical and timestamp 20180610190120 and revision id 1114
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:35-0!canonical and timestamp 20180614190124 and revision id 1114
  -->
 </div>					<div class="printfooter">
 						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Testpage&amp;oldid=1114">https://raven.wiki/w/index.php?title=Testpage&amp;oldid=1114</a>’					</div>
@@ -220,6 +220,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.020","walltime":"0.021","ppvisitednodes":{"value":14,"limit":1000000},"ppgeneratednodes":{"value":50,"limit":1000000},"postexpandincludesize":{"value":2182,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    5.975      1 -total"," 64.18%    3.835      1 Template:MainPage_Summary"," 33.05%    1.975      1 Template:MainPage_Topics"]},"cachereport":{"timestamp":"20180610190120","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":277});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.008","walltime":"0.019","ppvisitednodes":{"value":14,"limit":1000000},"ppgeneratednodes":{"value":50,"limit":1000000},"postexpandincludesize":{"value":2182,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    4.711      1 -total"," 57.51%    2.709      1 Template:MainPage_Summary"," 39.63%    1.867      1 Template:MainPage_Topics"]},"cachereport":{"timestamp":"20180614190124","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":306});});</script>
 	</body>
 </html>
