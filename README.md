@@ -1,7 +1,7 @@
 # raven-wiki
 html back ups of the raven.wiki domain
 
-##file list copied:
+##file list copied
 
 https://raven.wiki/wiki/AMD
 
