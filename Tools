@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en-GB" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ravencoin Wiki: Tools</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tools","wgTitle":"Tools","wgCurRevisionId":1195,"wgRevisionId":1195,"wgArticleId":30,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tools","wgRelevantArticleId":30,"wgRequestId":"WzxCfdTjckkAABDD1fcAAAAO","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0"/>
+<meta name="google-site-verification" content=""/>
+<meta name="keywords" content="explorers, stats, projects"/>
+<meta name="description" content="Ravencoin Wiki page with links to various tools including Blockchain Explorers, Mining Software, Charting websites and other Ravencoin Projects."/>
+<meta name="twitter:description" content="Ravencoin Wiki page with links to various tools including Blockchain Explorers, Mining Software, Charting websites and other Ravencoin Projects."/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Ravencoin Wiki (en-gb)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://raven.wiki/w/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="Ravencoin Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta property="og:title" content="Ravencoin Wiki: Tools"/>
+<meta property="og:description" content="Ravencoin Wiki page with links to various tools including Blockchain Explorers, Mining Software, Charting websites and other Ravencoin Projects."/>
+<script type="application/ld+json">{"@context" : "http://schema.org","name":"Ravencoin Wiki: Tools","headline":"Ravencoin Wiki: Tools","description":"Ravencoin Wiki page with links to various tools including Blockchain Explorers, Mining Software, Charting websites and other Ravencoin Projects.",}</script>
+<meta property="fb:app_id" content=""/>
+
+<meta property="fb:admins" content=""/>
+
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tools rootpage-Tools skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en-GB">Tools</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Ravencoin Wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output">
+<div id="toc" class="toc"><div class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#General"><span class="tocnumber">1</span> <span class="toctext">General</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Portfolio_trackers"><span class="tocnumber">2</span> <span class="toctext">Portfolio trackers</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Explorers"><span class="tocnumber">3</span> <span class="toctext">Explorers</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#GPU_mining_software"><span class="tocnumber">4</span> <span class="toctext">GPU mining software</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#GPU_hash_rates"><span class="tocnumber">5</span> <span class="toctext">GPU hash rates</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Wallets"><span class="tocnumber">6</span> <span class="toctext">Wallets</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Profit_Calculator"><span class="tocnumber">7</span> <span class="toctext">Profit Calculator</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Charts"><span class="tocnumber">8</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Analysis"><span class="tocnumber">9</span> <span class="toctext">Analysis</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="General">General</span></h2>
+<table class="wikitable">
+<tr>
+<th> Link
+</th>
+<th> Description
+</th>
+<th> Maintained by
+</th></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://rvnstats.info">Rvnstats.info</a>
+</td>
+<td> Ravencoin stats page, very useful site showing mining and pool stats.
+</td>
+<td> teh_director#8063
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NKsWx5sSG90GjbbwZaOav6D_bAOdnlBjPBAjJtZzXr4&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650">Ravencoin timeline</a>
+</td>
+<td> Timeline of Ravencoin launch and development events.
+</td>
+<td> unknown - possibly contactable via Chatturga#4827
+</td></tr></table>
+<p><i> the "maintained by" name refers to usernames on Discord </i>
+</p>
+<h2><span class="mw-headline" id="Portfolio_trackers">Portfolio trackers</span></h2>
+<p><a rel="nofollow" class="external text" href="http://blockfolio.com/">Blockfolio</a> - prices available from both Crypto-Bridge and CryptoHub.
+</p><p><a rel="nofollow" class="external text" href="https://getdelta.io/#features">Getdelta</a> - portfolio tracker that includes RVN.
+</p><p><a rel="nofollow" class="external text" href="https://cointracking.info">Cointracking.info</a> -  portfolio tracker that includes RVN.
+</p><p>HODL app - <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/hodl-real-time-cryptocurrency/id1253668876?mt=8">iOS</a> and <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=com.github.hintofbasil.hodl">Android</a> (<a rel="nofollow" class="external text" href="https://github.com/hintofbasil/Hodl">Github</a>)
+</p>
+<h2><span class="mw-headline" id="Explorers">Explorers</span></h2>
+<table class="wikitable">
+<tr>
+<th> Link
+</th>
+<th> Explorer Type
+</th>
+<th> Maintained by
+</th></tr>
+<tr>
+<td> <a rel="nofollow" class="external free" href="https://ravencoin.network/">https://ravencoin.network/</a>
+</td>
+<td> Insight.
+</td>
+<td> Under#7846
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external free" href="https://checkraven.com/">https://checkraven.com/</a>
+</td>
+<td> Insight.
+</td>
+<td> Xannicus#9172
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external free" href="http://exp.virtopia.ca/">http://exp.virtopia.ca/</a>
+</td>
+<td> Insight.
+</td>
+<td> Charlie#2132
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external free" href="https://rvn.traysi.org/">https://rvn.traysi.org/</a>
+</td>
+<td> Insight.
+</td>
+<td> traysi#9529
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external free" href="https://rvn.hash4.life/">https://rvn.hash4.life/</a>
+</td>
+<td> Iquidis.
+</td>
+<td> Hash4Life#2414
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external free" href="http://rvnhodl.com/">http://rvnhodl.com/</a>
+</td>
+<td> Iquidis.
+</td>
+<td> j4ys0n#3189
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://rvn.starpool.fun/">http://rvn.starpool.fun</a>
+</td>
+<td> Iquidis.
+</td>
+<td> StarPool.fun - 0.1 FEE#3559
+</td></tr></table>
+<p><i> the "maintained by" name refers to usernames on Discord </i>
+</p>
+<h2><span class="mw-headline" id="GPU_mining_software">GPU mining software</span></h2>
+<p>Open source miners are available on our <a href="/wiki/Mining" title="Mining">Mining page</a>.
+</p><p><a href="/wiki/Mining#Nvidia_miners" title="Mining">Nvidia miners on Mining page</a>
+</p><p><a href="/wiki/Mining#AMD_miners" title="Mining">AMD miners on Mining page</a>
+</p>
+<h2><span class="mw-headline" id="GPU_hash_rates">GPU hash rates</span></h2>
+<p>Check out <b><a href="/wiki/FAQ#What_hash_rate_should_I_be_getting_for_my_cards.3F" title="FAQ">FAQ hashrate</a></b>
+</p>
+<h2><span class="mw-headline" id="Wallets">Wallets</span></h2>
+<p><a href="/wiki/Wallets" title="Wallets">Wallets</a>
+</p>
+<h2><span class="mw-headline" id="Profit_Calculator">Profit Calculator</span></h2>
+<p><a rel="nofollow" class="external text" href="https://whattomine.com/coins/234-rvn-x16r">whattomine.com</a> Ravencoin calculator.
+</p><p><a rel="nofollow" class="external text" href="http://ravencalc.xyz">Ravencalc.xyz</a> - A very useful coin profit calculator - it estimate how many coins you can do per day depending on your hashrate.
+</p><p><a rel="nofollow" class="external text" href="https://www.coincalculators.io/coin.aspx?crypto=ravencoin-mining-calculator">CoinCalculators.io</a>
+</p><p>Excel sheet for calculating how many coins pr MH/s <a rel="nofollow" class="external text" href="https://cdn.discordapp.com/attachments/405866260379992064/419588490247012363/RavenCoinHashrateCalculatorDatasheet.xlsx">Seal Clubber's xlsx</a>
+</p>
+<pre>((hashrate*10^6)*5000*60*60*24)/(netdiff*(2^32)) = average coins pr day
+</pre>
+<h2><span class="mw-headline" id="Charts">Charts</span></h2>
+<p><a rel="nofollow" class="external free" href="https://coinmarketcap.com/currencies/ravencoin/">https://coinmarketcap.com/currencies/ravencoin/</a>
+</p><p><a rel="nofollow" class="external free" href="https://www.livecoinwatch.com/price/Ravencoin-RVN">https://www.livecoinwatch.com/price/Ravencoin-RVN</a>
+</p><p><a rel="nofollow" class="external free" href="https://cryptocoincharts.info/coins/show/rvn">https://cryptocoincharts.info/coins/show/rvn</a>
+</p><p><a rel="nofollow" class="external free" href="https://coincodex.com/crypto/ravencoin/">https://coincodex.com/crypto/ravencoin/</a>
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Analysis">Analysis</span></h2>
+<p><a rel="nofollow" class="external text" href="https://datnoid.com/ravencoin/review">Datnoid</a> review of Ravencoin.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180703210434
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.016 seconds
+Real time usage: 0.019 seconds
+Preprocessor visited node count: 43/1000000
+Preprocessor generated node count: 96/1000000
+Post‐expand include size: 26/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:30-0!canonical and timestamp 20180703210434 and revision id 1195
+ -->
+</div>					<div class="printfooter">
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Tools&amp;oldid=1195">https://raven.wiki/w/index.php?title=Tools&amp;oldid=1195</a>’					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tools" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tools" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Tools" title="View the content page [c]" accesskey="c">Page</a></span></li>
+							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Tools&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Tools">Read</a></span></li>
+							<li id="ca-viewsource"><span><a href="/w/index.php?title=Tools&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tools&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Ravencoin Wiki" title="Search Ravencoin Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Ravencoin_Wiki"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Code"><a href="/wiki/Code">Code</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
+			<h3 id='p-News-label'>News</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
+			<h3 id='p-Wiki-label'>Wiki</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-Contributing-here"><a href="/wiki/Contributing_to_the_wiki">Contributing here</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tools" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tools" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Tools&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Tools&amp;oldid=1195" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tools&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 June 2018, at 05:31.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Ravencoin_Wiki:About" title="Ravencoin Wiki:About">About Ravencoin Wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Ravencoin_Wiki:General_disclaimer" title="Ravencoin Wiki:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=Tools&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.016","walltime":"0.019","ppvisitednodes":{"value":43,"limit":1000000},"ppgeneratednodes":{"value":96,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180703210434","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":280});});</script>
+	</body>
+</html>
