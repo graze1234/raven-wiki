@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Ravencoin Wiki: Troubleshooting</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Troubleshoot","wgTitle":"Troubleshoot","wgCurRevisionId":1057,"wgRevisionId":1057,"wgArticleId":44,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Troubleshoot","wgRelevantArticleId":44,"wgRequestId":"WzxCfdTjckkAAAb3wvIAAAAe","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Troubleshoot","wgTitle":"Troubleshoot","wgCurRevisionId":1233,"wgRevisionId":1233,"wgArticleId":44,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Troubleshoot","wgRelevantArticleId":44,"wgRequestId":"W1i7vdTjckkAAIuuqPwAAAAU","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -74,20 +74,21 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <li class="toclevel-3 tocsection-15"><a href="#Naming_you_Rig_on_the_pool"><span class="tocnumber">2.1.3</span> <span class="toctext">Naming you Rig on the pool</span></a></li>
 <li class="toclevel-3 tocsection-16"><a href="#Suprnova_gives_error_on_launch"><span class="tocnumber">2.1.4</span> <span class="toctext">Suprnova gives error on launch</span></a></li>
 <li class="toclevel-3 tocsection-17"><a href="#Hash_rate_is_changing.2Flow"><span class="tocnumber">2.1.5</span> <span class="toctext">Hash rate is changing/low</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Getting_a_lot_of_.22rejected.22_shares"><span class="tocnumber">2.1.6</span> <span class="toctext">Getting a lot of "rejected" shares</span></a></li>
 </ul>
 </li>
-<li class="toclevel-2 tocsection-18"><a href="#Nevermore_.2F_ccminer"><span class="tocnumber">2.2</span> <span class="toctext">Nevermore / ccminer</span></a>
+<li class="toclevel-2 tocsection-19"><a href="#Nevermore_.2F_ccminer"><span class="tocnumber">2.2</span> <span class="toctext">Nevermore / ccminer</span></a>
 <ul>
-<li class="toclevel-3 tocsection-19"><a href="#Crash_on_startup"><span class="tocnumber">2.2.1</span> <span class="toctext">Crash on startup</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Crash_on_startup"><span class="tocnumber">2.2.1</span> <span class="toctext">Crash on startup</span></a></li>
 </ul>
 </li>
-<li class="toclevel-2 tocsection-20"><a href="#Sgminer_.2F_Avermore"><span class="tocnumber">2.3</span> <span class="toctext">Sgminer / Avermore</span></a>
+<li class="toclevel-2 tocsection-21"><a href="#Sgminer_.2F_Avermore"><span class="tocnumber">2.3</span> <span class="toctext">Sgminer / Avermore</span></a>
 <ul>
-<li class="toclevel-3 tocsection-21"><a href="#Crash_on_startup_2"><span class="tocnumber">2.3.1</span> <span class="toctext">Crash on startup</span></a></li>
-<li class="toclevel-3 tocsection-22"><a href="#Long_startup_time"><span class="tocnumber">2.3.2</span> <span class="toctext">Long startup time</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Crash_on_startup_2"><span class="tocnumber">2.3.1</span> <span class="toctext">Crash on startup</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Long_startup_time"><span class="tocnumber">2.3.2</span> <span class="toctext">Long startup time</span></a></li>
 </ul>
 </li>
-<li class="toclevel-2 tocsection-23"><a href="#General_tips_and_tricks"><span class="tocnumber">2.4</span> <span class="toctext">General tips and tricks</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#General_tips_and_tricks"><span class="tocnumber">2.4</span> <span class="toctext">General tips and tricks</span></a></li>
 </ul>
 </li>
 </ul>
@@ -185,6 +186,12 @@ pause
 <h4><span class="mw-headline" id="Hash_rate_is_changing.2Flow">Hash rate is changing/low</span></h4>
 <p>This is normal as the x16r algo is changing 16 times in each block, determined by the last 16 bytes of the last block. We need to look at a 2-3 hour averages at least to get a better average hash rate to compare, try adding ' -N 600 ' at the end of your bat file, it increases the average reporting time (default is 30).
 </p>
+<h4><span class="mw-headline" id="Getting_a_lot_of_.22rejected.22_shares">Getting a lot of "rejected" shares</span></h4>
+<p>A rejected share means 2 possibilities: 
+</p><p>1. The submitted share was invalid (bad hash of good data). This is caused by a GPU error on your end.
+</p><p>2. The submitted share was stale (good hash of bad data).  This is caused by latency or lost data over the network between you and the pool.
+</p><p>If you're tweaking your GPU a lot (customizing power/frequency/voltage/etc.) then try backing down a bit and see if you get less errors. You should also check to make sure connected to the closest pool possible (e.g., don't connect to a pool in Europe if you live in the USA).
+</p>
 <h3><span class="mw-headline" id="Nevermore_.2F_ccminer">Nevermore / ccminer</span></h3>
 <p>Symptoms:
 </p>
@@ -215,13 +222,13 @@ pause
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20180703190129
+Cached time: 20180725180141
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 0.024 seconds
-Real time usage: 0.027 seconds
-Preprocessor visited node count: 99/1000000
-Preprocessor generated node count: 152/1000000
+CPU time usage: 0.020 seconds
+Real time usage: 0.028 seconds
+Preprocessor visited node count: 103/1000000
+Preprocessor generated node count: 156/1000000
 Post‐expand include size: 26/2097152 bytes
 Template argument size: 0/2097152 bytes
 Highest expansion depth: 2/40
@@ -232,10 +239,10 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:44-0!canonical and timestamp 20180703190129 and revision id 1057
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:44-0!canonical and timestamp 20180725180141 and revision id 1233
  -->
 </div>					<div class="printfooter">
-						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Troubleshoot&amp;oldid=1057">https://raven.wiki/w/index.php?title=Troubleshoot&amp;oldid=1057</a>’					</div>
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Troubleshoot&amp;oldid=1233">https://raven.wiki/w/index.php?title=Troubleshoot&amp;oldid=1233</a>’					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -303,7 +310,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Code"><a href="/wiki/Code">Code</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Code"><a href="/wiki/Code">Code</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
@@ -327,14 +334,14 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Troubleshoot" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Troubleshoot" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Troubleshoot&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Troubleshoot&amp;oldid=1057" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Troubleshoot&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Troubleshoot" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Troubleshoot" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Troubleshoot&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Troubleshoot&amp;oldid=1233" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Troubleshoot&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 9 May 2018, at 18:15.</li>
+											<li id="footer-info-lastmod"> This page was last modified on 8 July 2018, at 18:17.</li>
 									</ul>
 							<ul id="footer-places">
 											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
@@ -348,6 +355,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.024","walltime":"0.027","ppvisitednodes":{"value":99,"limit":1000000},"ppgeneratednodes":{"value":152,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180703190129","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":318});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.020","walltime":"0.028","ppvisitednodes":{"value":103,"limit":1000000},"ppgeneratednodes":{"value":156,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180725180141","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":653});});</script>
 	</body>
 </html>

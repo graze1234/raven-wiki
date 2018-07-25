@@ -25,6 +25,8 @@ https://raven.wiki/wiki/Exchanges
 
 https://raven.wiki/wiki/FAQ
 
+https://raven.wiki/wiki/Fenton_Files:_April_2018_-_June_2018
+
 https://raven.wiki/wiki/Fenton_Files:_start_-_March_2018
 
 https://raven.wiki/wiki/Jaxx_status
@@ -59,6 +61,8 @@ https://raven.wiki/wiki/Replacing-a-ledger-with-a-better-one
 
 https://raven.wiki/wiki/Road_ahead
 
+https://raven.wiki/wiki/Testnet
+
 https://raven.wiki/wiki/Testpage
 
 https://raven.wiki/wiki/The_Fenton_Files
@@ -75,7 +79,7 @@ https://raven.wiki/wiki/Wallets
 
 
 ## wget used
-wget -i /path/to/above/filelist.txt -N /where/to/save/raven-wiki/
+wget -i /path/to/above/filelist.txt -P /where/to/save/raven-wiki/
 
 
 

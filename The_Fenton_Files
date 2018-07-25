@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Ravencoin Wiki: Fenton Files</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Fenton_Files","wgTitle":"The Fenton Files","wgCurRevisionId":1182,"wgRevisionId":1182,"wgArticleId":23,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_Fenton_Files","wgRelevantArticleId":23,"wgRequestId":"WzxCe9TjckkAAAdBFxwAAAAj","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Fenton_Files","wgTitle":"The Fenton Files","wgCurRevisionId":1236,"wgRevisionId":1236,"wgArticleId":23,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_Fenton_Files","wgRelevantArticleId":23,"wgRequestId":"W1i7udTjckkAAIjXcxcAAAAE","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -50,703 +50,114 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </p>
 <div id="toc" class="toc"><div class="toctitle"><h2>Contents</h2></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#9_June_2018_-_Discord_2"><span class="tocnumber">1</span> <span class="toctext">9 June 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#27_May_2018_-_Twitter"><span class="tocnumber">2</span> <span class="toctext">27 May 2018 - Twitter</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#27_May_2018_-_Discord_2"><span class="tocnumber">3</span> <span class="toctext">27 May 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#26_May_2018_-_Discord_2"><span class="tocnumber">4</span> <span class="toctext">26 May 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#23_May_2018_-_Discord_2"><span class="tocnumber">5</span> <span class="toctext">23 May 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#20_May_2018_-_Discord_2"><span class="tocnumber">6</span> <span class="toctext">20 May 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#11_May_2018_-_Twitter"><span class="tocnumber">7</span> <span class="toctext">11 May 2018 - Twitter</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#6_May_2018_-_Telegram"><span class="tocnumber">8</span> <span class="toctext">6 May 2018 - Telegram</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#5_May_2018_-_Discord_2"><span class="tocnumber">9</span> <span class="toctext">5 May 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="#2_May_2018_-_Discord_2"><span class="tocnumber">10</span> <span class="toctext">2 May 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-11"><a href="#27_Apr_2018_-_Telegram"><span class="tocnumber">11</span> <span class="toctext">27 Apr 2018 - Telegram</span></a></li>
-<li class="toclevel-1 tocsection-12"><a href="#27_Apr_2018_-_Discord_2"><span class="tocnumber">12</span> <span class="toctext">27 Apr 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-13"><a href="#20_Apr_2018_-_Discord_2"><span class="tocnumber">13</span> <span class="toctext">20 Apr 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-14"><a href="#16_Apr_2018_-_Discord_2"><span class="tocnumber">14</span> <span class="toctext">16 Apr 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-15"><a href="#15_Apr_2018_-_Discord_2"><span class="tocnumber">15</span> <span class="toctext">15 Apr 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-16"><a href="#12_Apr_2018_-_Discord_2"><span class="tocnumber">16</span> <span class="toctext">12 Apr 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-17"><a href="#12_Apr_2018_-_Discord_2_2"><span class="tocnumber">17</span> <span class="toctext">12 Apr 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-18"><a href="#8_Apr_2018_-_Discord_2"><span class="tocnumber">18</span> <span class="toctext">8 Apr 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-19"><a href="#7_Apr_2018_-_Telegram"><span class="tocnumber">19</span> <span class="toctext">7 Apr 2018 - Telegram</span></a></li>
-<li class="toclevel-1 tocsection-20"><a href="#5_Apr_2018_-_Telegram"><span class="tocnumber">20</span> <span class="toctext">5 Apr 2018 - Telegram</span></a></li>
-<li class="toclevel-1 tocsection-21"><a href="#5_Apr_2018_-_Discord_2"><span class="tocnumber">21</span> <span class="toctext">5 Apr 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-22"><a href="#4_Apr_2018_-_Discord_2"><span class="tocnumber">22</span> <span class="toctext">4 Apr 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-23"><a href="#4_Apr_2018_-_Telegram"><span class="tocnumber">23</span> <span class="toctext">4 Apr 2018 - Telegram</span></a></li>
-<li class="toclevel-1 tocsection-24"><a href="#4_Apr_2018_-_Discord_2_2"><span class="tocnumber">24</span> <span class="toctext">4 Apr 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-25"><a href="#3_Apr_2018_-_Discord_2"><span class="tocnumber">25</span> <span class="toctext">3 Apr 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-26"><a href="#2_Apr_2018_-_Discord_2"><span class="tocnumber">26</span> <span class="toctext">2 Apr 2018 - Discord 2</span></a></li>
-<li class="toclevel-1 tocsection-27"><a href="#Older_Posts"><span class="tocnumber">27</span> <span class="toctext">Older Posts</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#11_July_2018_-_Discord_2"><span class="tocnumber">1</span> <span class="toctext">11 July 2018 - Discord 2</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#11_July_2018_-_Discord_2_2"><span class="tocnumber">2</span> <span class="toctext">11 July 2018 - Discord 2</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#3_July_2018_-_Discord_2"><span class="tocnumber">3</span> <span class="toctext">3 July 2018 - Discord 2</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#2nd_July_2018_-_Discord_2"><span class="tocnumber">4</span> <span class="toctext">2nd July 2018 - Discord 2</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Older_Posts"><span class="tocnumber">5</span> <span class="toctext">Older Posts</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="9_June_2018_-_Discord_2">9 June 2018 - Discord 2</span></h2>
-<p>WE NEED MORE EXPERT AMBASSADORS
-</p><p>A great way to make new contacts, have some fun, learn a lot and help the project and others is to teach people 
-</p><p>There is PLENTY of content out there to build a knowledge base about RVN and its code and it’s use cases
-</p><p>For example you could run through Tron’s presentation or the million things I’ve posted and make your own presentation 
-</p><p>Everything I say about rvn or token securities is open source — you can make your own power point or articles or videos or a speech etc.  
-</p><p>Host a meetup or gather a few folks and practice — this is whet Andreas used to to — smiley   There’s only one Andreas but speaking is very rewarding and is especially important to making contacts — now is great timing as these topics are hot news 
-</p><p>It’s not for everyone and takes skill and practice — but it can sharpen crypto skills 
-</p><p>Also — if you do this — be careful of over promising — it’s best to talk the tech and concepts — I don’t recommend talking about it as much from an investment angle and make sure people understand risks 
-</p><p>Anyway — if you want to do this LMK and I can try to help 
-</p><p>Honestly there are lots of people who could be much better at being a public face of RVN than I could — especially with a little planning and practice
+<h2><span class="mw-headline" id="11_July_2018_-_Discord_2">11 July 2018 - Discord 2</span></h2>
+<p>I think Tzero hasn’t announced exactly how they will make listing decisions — there will be lots of factors 
+</p><p>Rvn could be appealing to any exchange because it has high interest and volume and is not a security and also its code base is based on Bitcoin so well understood 
+</p><p>Rvn is an especially natural fit for exchanges focusing on securities tokens
 </p>
-<h2><span class="mw-headline" id="27_May_2018_-_Twitter">27 May 2018 - Twitter</span></h2>
-<p>The US Securites Act of 1933, The Securities Exchange Act of 1934, the Investment Advisors Act of 1940 Act etc represent large and complex legal requirements which securities tokens WONT change -
-</p><p>For example they still will be required to be truthful in comms, all kinds of compliance, they will still have to be restricted in movement after certain types of excempt offerings like Reg A etc. or accredited investors Reg D etc
-</p><p>but it WILL solve for many layers of things not required by law which have accumulated over the years
-</p><p>right now when you own stocks you have to trust the issuer AND you have to trust DTCC, Cede &amp; Co., brokers, transfer agents, registrars and clearing firms/ custodians - with tokenized securities toibonlt need to trust the issuer
-</p><p>“Who the heck is Cede &amp; Co. &amp; DTCC and why do I need to trust them?” Glad you asked — this is the central party who controls the ledger now - it can’t be done by issuers (who we already trust)
-</p><p>The current system requires sharing of information by brokers who DO NOT TRUST each other -this is why they need to trust someone (or a blockchain) to run that ledger for them
-</p><p>This is classic Byzantine Generals dilemma - please don’t assume it’s easy or that a trusted issuer could run the ledger- they can’t - only way it’s worked is with a 3rd party - this party (not the issuer!) Can be replaced by a blockchain
+<h2><span class="mw-headline" id="11_July_2018_-_Discord_2_2">11 July 2018 - Discord 2</span></h2>
+<p>From @Chatturga
+</p><p>Hello, everyone.  I bring exciting news about the asset layer! Assuming that everything goes smoothly, the binaries to test the asset layer on testnet will be available for download on July 30th.  Additionally, the target date for mainnet release has been tentatively set for October 31st.  These dates give the community time to find any issues and for PR's to be processed - with October 31st also being the 1 year anniversary of the first Medium article about Ravencoin.
 </p>
-<h2><span class="mw-headline" id="27_May_2018_-_Discord_2">27 May 2018 - Discord 2</span></h2>
-<p>Thanks for the questions —
-Lots to unpack 
-</p><p>A lot of common questions can be answered and bunched together — but this is best explained by backing up a second with overall ideas and philosophy— then trying to be more specific &amp; answering anything else I can 
-</p><p>1) basic roots first 
-At its core every effort with this project has been to the cypherpunk roots expressed by the cypherpunk manifesto — I’ve been really lucky to learn from some of the best cypherpunks in the world -  as someone who’s studied value and assets and securities my whole life I find the shared incentives in open source to be the most important development in human interactions in perhaps hundreds of years - it’s as significant as the creation of trusts or corporations 
-I’ve also been lucky enough to have been in economics for a long time — what Bitcoin did was combine an amazing open source project with FOSS values and the epitome of cypherpunk values — AND combined with ECONOMIC incentives and a new form of money (that actually works!) AND a new invention called the blockchain — it’s completely amazing 
-So an effort was made with this project to follow those values&#160;; as simple as they are / working toward decentralization, leaderless, hardened technology&#160;:  a very secure blockchain with lots of mining nodes and a wide and diverse community- working to be as open as possible and to have consensus based on solid rules on a strong network of informed and diversely motivated participants
+<h2><span class="mw-headline" id="3_July_2018_-_Discord_2">3 July 2018 - Discord 2</span></h2>
+<p>Have I mentioned that this is Game of Thrones?
+</p><p>GAME OF THRONES!
+</p><p>This space is very treacherous and risky - there is a ton of uncertainty.
+</p><p>A coin claiming they will “beat Bitcoin” is not credible — neither is it credible to say Bitcoin has a 100% chance of being both global money and the rails for all tokens with zero exceptions.
+</p><p>There are a few possible outcomes:
+</p><p>1) Bitcoin becomes the only chain, all projects become sidechains on Bitcoin - RVN and ALL other coins/ projects die completely 
+(possible but unlikely / not certain enough to bet on 100%)
+</p><p>2) Bitcoin dies, other coin or coins / projects serve that need (unlikely) 
+</p><p>3) Bitcoin becomes important money and important chain for tokens but other projects survive and serve large or niche markets 
+3a Raven is one of these survivors 
+3b it isn’t 
+(This is the most likely scenario imho of the 3 — even if I felt an 80% chance of option 1 then it would still be prudent to support other coins in case BTC fails or in case any can develop a niche which serves one area better than BTC)
 </p>
 <hr />
-<p>This is part of what’s amazing about the technology of blockchains&#160;: it’s power comes from the people and flows back to the people -  the people who participate give a network its strength — and this network is VERY strong -/ I saw Tron and RavenDev the other day and they estimated— get this - that it would take 45,000 of the TOP END gpus to turn hostile on the existing network OR someone would have to buy 90,000 of the top end gpus to attack the coin 
-[The questions with comparisons to verge are laughable and not sensible - verge did not have a 51% attack but it also had a massive security flaw in that it used MULTIPLE algos - not one algo like Raven (Ravencoin algo X16R cycles through 16 algos bur is still ONE algo only mineable by the same type of computer configuration) 
-Bitcoin Gold was also attacked but this is doable by ASICS - raven is not (so far) 
-</p><p>Does that mean raven doesn’t have risks?  Hell no!  This is GAME OF THRONES my friends - to have a blockchain have ANY use it MUST. Be secure - we have to guard against everything and be constantly vigilant to the slightest threat - no matter how unlikely.   A security flaw completely ruins a project — is not an environment to rush things or spend time marketing or fundraising -  it’s not about features first security later or this mentality of “just throw our project on Eth cause everyone else does”.   No way.  For security to work it’s got to be a strong network that’s really hard to co-opt or change.   That means no powerful people as much as possible and it means not having central points of failure.
+<p>So if option 3 occurred and raven survived then it could be used in even a “small” niche of the possibly deca trillion dollar token market and end up being very important.
+</p><p>Cross chain atomic swaps and lots of other things will make cooperation between projects make sense — LTC is a good example - the project has never tried to be at odds with Bitcoin.
+</p><p>Bitcoin was always going to do tokens — that a HQ co like Blockstream is working on this is exciting and validated the entire idea.
+Just a month ago all the best “experts” were saying that tokens couldn’t be put on Bitcoin or a fork of Bitcoin — this is specifically why I always used Bitcoin not raven in the periscope video examples on security tokens.
+</p><p>When we did these demos everyone laughed — well now the smartest devs in the space are doing what we’ve been working on for a while as well (Blockstream has worked on this a long time too)
+</p><p>It will be great if both Bitcoin and Raven serve markets in tokens successfully - there are certainly plenty of ways that can work — I also think other projects like ada and eos will have a good chance of surviving and several platforms  will thrive for different reasons.
+</p><p>Anyway — being that this is Game of Thrones and in the grand timeline of global money and blockchains - we are early in season 1 ... it’s a good time to be supportive of all projects and focus on building great tech rather than “beating” someone.
+Also — most importantly — Blockstream is NOT a competitor of Raven - Blockstream is a company with investors and some top devs and products etc. - Ravencoin is an idea and some code / software which generates a scare digital asset.
+</p><p>So back to the Blockstream announcement 
+</p><p>...If this is Game of Thrones here we are over at Raven Tower okay — and Adam Back is like the Maester from Fort Block — he just moved in and says he wants to fight white walkers with the weapon he’s been working on —
+</p><p>Okay I could go on&#160;:joy:...
+</p><p>But seriously, Blockstream is not an enemy to this project - that’s absurd - they are awesome people and high quality cypherpunks and some of the smartest people in the industry. 
+</p><p>The “competitor” isn’t Blockstream it’s Bitcoin (for tokens!) — obviously Bitcoin is the strongest chain and it’s very unlikely raven would replace it — that was never the goal, point or idea (at least from my personal POV or imho)-  the better competitor is ETH who actually has serious weaknesses. 
+</p><p>Goal as I’ve always personally seen it is to work on this specific use case on a PROTOCOL level to see if it develops advantages overall — it has had some since day one — 
+</p><p>Just build good stuff and keep focusing 
+</p><p>If you want to attack someone ETH is a better target but even those folks are pretty cool — better to hope the rising tide lifts all boats!!
 </p>
 <hr />
-<p>Risks to raven include:
-51% attack:  ANY real pow coin has this risk - biggest risk to raven is that large Eth miners turned adversarial toward raven - fortunately most Eth miners appear motivated toward a fair network - however the fact that large GPU miners do exist is a risk 
-Centralized parties:  since it’s still in alpha / pre alpha — the only way to develop is to have some sort of vision and discuss ideas then put them into implementation — sometimes one person can do that - the evolution of this project has been as a team because the network was launched first to build on — that’s unusual but has worked very well — we already have this huge strong network while we were working on the design and code
+<p>Yeah no one should care so much what I say — centralized authorities are bad 
+</p><p>I love this coin and project and community — this is why I’ve given what I think is a fair share of free work to the project — but my activity shouldn’t be so relevant (and neither should anyone else’s)
 </p>
 <hr />
-<p>So anyway — security is obviously of the utmost importance — it’s not just number one it’s number one and worth more than features #2 - 20
-</p><p>That means copying all we can from the most secure coin: Bitcoin 
-</p><p>So - no premine, no ICO, fairly mined, no leader, we need to prioritize nodes (yes regular nodes!) and mining nodes 
-</p><p>We of course copied the code of Bitcoin — this is because it’s the most secure — by far. 
-</p><p>This is a mission critical coin and failure is not an option.  As a community if we ever EVER sacrifice anything which adds security risks we lose — the entire project would be worthless.   No feature, no person is worth risking security wherever possible 
-</p><p>So that means keeping the code decentralized - encouraging other implementations, being extremely cautious with ALL hard forks  (even the planned one!)
-</p><p>It also means being cautious to make sure the chain and tx count can be downloaded etc
+<p>I don’t see it as competition and even if so it would be silly to claim this chain is stronger than Bitcoin - imho far smarter way to look at things is the way LTC and to a lesser extent cardano does: we are all in the same ecosystem
 </p>
 <hr />
-<p>Another benefit is the ethos of Bitcoin which is all about security first — cypherpunks don’t give a __ if Lightning Network takes three years or ten years or never — we are not risking our f—ing Bitcoin for ANYTHING — not because some clown says nodes aren’t important — not to make it cheaper to buy a sandwich or anything else — SECURITY RISKS ARE NEVER AN OPTION — yes you need a chain that is useful - but it’s always security first 
-</p><p>So what’s all this have to do with the questions?  The philosophy and ethos are important 
-Think of this as a little sibling of Bitcoin - but being that this is Game of Thrones(!) and crazy tech that sibling has damn good chance of dying — this coin could easily be killed off or die just like 500 shitcoins and this could easily end up worth zero. 
-</p><p>Sorry if that sounds scary or harsh - but that’s reality. 
-If you are in one of the hundreds of centralized money raising projects such as ICOs people might tell you what you want to hear but that doesn’t make it true - this space is indeed Game of Thrones - a person might stab you or sleep with you or pretend to be an employee to get your private keys, soldiers and cops may raid your friends homes just for using this tech in certain oppressive regimes — there is an army of highly skilled hackers like dire wolves outside your door - any one of them would gleefully empty all your crypto without a second thought — a few of them would kill your mom - straight up — if you’ve got more than 2 Bitcoin in networth — that’s a scary and sad fact - but a fact it is
-So if someone is telling you their coin is going to survive they are probably the first one whose going to get slaughtered when the white walkers come — you know the guy listening to the High Sparrow may fly high for a while — but eventually you know his heads getting chopped also — at least you hope this -
-(ICO promoters are the high sparrow, his followers the gullible buyers - chop heads is bad projects going under)
-</p><p>but after all this is game of thrones — sometimes the good guys die and the bad guys win — so anyone who tells you otherwise is stupid or lying. 
-</p><p>So - yeah - Security is important 
-</p><p>That informs the whole rest of the conversation 
-</p><p>This is why there is not a structured messaging and a line between the open source project and any business activities 
-</p><p>So hopefully that answers a lot of questions:  anything related to decisions or processes with centralization or a security risk are avoided 
-</p><p>— this also is a good time to answer
-2).  Questions about tZero 
-Lots of questions about this — a few important points 
-- The coin is about WAY more than a company and even way more than tokenized securities — it’s for ALL assets: game tokens, all kinds of things which could be invented etc
-- within the one narrow use case of tokenized securities many of us who are most active in design architecture and development also coincidentally happen to be involved in the tokenized securities world 
-- so this informs a lot of options and also I happen to talk about this a lot and it’s associated with raven 
-- clearly raven is a natural fit for tZero and the projects are complimentary- it’s natural that the two fit together - hopefully tZero lists raven and if raven works for token securities then they’d be a fit for tZero 
-Definitely these decisions are made separately - this is why tZero launched on ERC20 and will almost certainly support multiple protocols 
-So - though there is overlap, and common supporters, there is no coordination between these projects on development (not that this would be a bad thing or conflict of interest even if there was — we all have an interest in making both projects work) since they they are complimentary they will hopefully work together
+<p>I’ve supported raven as best I can and will continue to — I’ve done about 15 speeches and a hundred tweets and 12 interviews and I’ve received death threats and nearly daily criticisms and accusations of being a scammer / pumper because of being such a vocal supporter — I’ve spent hundreds of thousands of dollars of my own money on support of raven — I’ve taken time from my family to fly to meet devs and I’ve spent hundreds of hours on everything from writing and research to design to chatting in forums or answering questions.
+</p><p>I receive zero pay and zero special coins or bonus for any work or commentary I do on Raven —
+Every hour I spend on Raven is uncompensated and I have to skip other paying work to do - 
+</p><p>If people think it’s not enough or can do better then by all means hopefully they can step up and be spokespeople also — I offered to help others do so a while ago &amp; will make more ppt etc when I can
 </p>
 <hr />
-<p>3/3  so this all comes to the third major category of question: economics 
-</p><p>This one is informed by the whole thin on cypherpunks and security I said above:
-</p><p>Security first
-As part of that the design and dev team knows that the coin must have value to be secure and work 
-</p><p>The community knows this and hopefully puts every effort toward security and action and decisions like securing the network 
-(If you want to help the network security: Turn on more nodes now!!  Mine on every PC 
-you have and tell everyone you can to do the same)
-</p><p>So that’s economics:   Why will the coin have value?
-Motivational part:  Because we are an army of Ravens and crows on the wall — we are the Nights Watch and together we have incentive to make this work - together like an army of pecking Birds we will chip away with our GPUs and stick together as a community and make his work!  Ra ra yay!!
-</p><p>The truth:  A zombie apocalypse might kill us even if we are as honest kind and worthy as Ned Stark
-</p><p>How much will it be worth?  Hell if I know. 
-</p><p>Let’s enjoy the game 
-</p><p>/ end
-</p><p><br />
+<p>Asset layer test net should be out in July
 </p>
 <hr />
-<p><br />
+<p>Blockstream moving into this is great news for the overall ecosystem
 </p>
-<h2><span class="mw-headline" id="26_May_2018_-_Discord_2">26 May 2018 - Discord 2</span></h2>
-<p>&lt;name&gt; polymath should definitely put their services on the Ravencoin network
-</p><p>It’s not hard - they can use solidity through RSK which would make the whole polymath platform work on Raven
-</p>
-<hr />
-<p>&lt;name&gt; right now suppose it cost $90 million to do a 51% attack on ravencoin—  that means it’s not cost effective to attack
-</p><p>However if Apple issued a token for all their stock on the Ravencoin network then that’s worth $500 billion —- so now it becomes worth it for someone to spend that $90 million to attack the network so they can double spend Apple 
-</p><p>Does that clarify?
-</p><p>So we have to hope that value if the token and economics and all mining aligned to give enough security 
-</p><p>As the network grows it’s of course more secure and the ratios are not as much a problem
-</p>
-<hr />
-<p>&lt;name&gt; first step is to figure out what a 51% attack would cost
-Next is to figure value of assets on the network
-</p><p>Once it passes a certain point (like Bitcoin) a 51% attack becomes so logically challenging that the value doesn’t matter as much
-</p>
-<hr />
-<p>I’d say deflationary when looking at long term supply 
-</p><p>It’s identical to Bitcoin so whatever people say Bitcoin is — which is usually referred to as deflationary
-</p>
-<hr />
-<p>&lt;name&gt; tZero and raven are separate / this isn’t corporate project but the goal and mission has a lot of synergies so it would be natural to have the projects work together 
-If raven is successful then it will be a part of a lot of major exchanges
-</p>
-<hr />
-<p>Optimism is great but these types of projects are experimental and many things can cause them to fail 
-</p><p>ICOs, scams and centralized projects have a strong motivation to blow smoke and make it seem they will definitely succeed - doesn’t mean they will
-&lt;name&gt; for sure - but that seems slightly different
-</p>
-<hr />
-<p>Any SEC questions are better directed to the company site
-</p><p>Same for specifics on the token offering
-</p><p>I’m a board member not a company exec -/ I can speak about the big picture mission, goal the team etc on tZero
-</p>
-<hr />
-<p>If your wondering if raven will be listed on tZero crytpo or the asset layer will be used for securities tokens which trade on the exchange -  both are very likely
-</p>
-<hr />
-<p>&lt;name&gt; “utility” tokens are typically centralized closed source scam coins and ICOs which use the word “utility” to pretend they have use so they are not a security 
-</p><p>Ravencoin is an open source decentralized coin without an ICO which is definitely not a security so doesn’t need to pretend it has utility — but actually does have utility and use 
-</p><p>The chain is extremely strong - the code is ridiculously secure and the asset layer adds real, not pretend use cases
-&lt;name&gt; the security of raven is better than Eth and it can handle scaling better - the protocol also allows voting and basic one way messaging and lots of other features described in the white paper
-</p>
-<hr />
-<p>If so it won’t be raven for sure - that’s not the purpose
-</p><p>Raven is extremely likely to trade on tZero and so are raven tokens
-</p><p>&lt;name&gt; people who say “this can be done with a database” are absolutely wrong on this topic and frankly don’t know what on earth they are talking about - it can’t be done on a dbase— I’ve made tons of videos explaining this
-</p>
-<hr />
-<p>&lt;name&gt; think of it like Kraken — it’s an exchange with lots of tokens — difference with tZero is that they will be securities tokens
-</p>
-<hr />
-<p>There might be some regulatory issues going direct but plan is to have usd / fiat as well as crypto - worse case (I think) it will be two separate sections of the exchange (like grad and Coinbase)
-</p>
-<hr />
-<p>If people are wondering if tZero will support and list raven:
-</p><p>The ceo is a raven holder 
-</p><p>I’m a board member 
-</p><p>Tron’s an advisor
-</p><p>The owner of tZero is the largest raven supporter 
-</p><p>A majority of employees own and support raven 
-</p><p>The missions are exactly aligned 
-</p><p><br />
-... so yes, there is a good chance it will be listed
-</p>
-<hr />
-<p>It doesn’t work that way — this isn’t a corporate project — there is a separation.
-</p><p>Raven is it’s own open source project
-</p><p>People involved wear overlapping but also separate and distinct hats
-</p>
-<hr />
-<p>No it’s perfect
-</p><p>I hope to issue assets on Raven
-</p><p>Securities tokens
-</p>
-<hr />
-<p>The people supporting the open source project of Ravencoin support a protocol which allows secure and easy creation of tokens — that’s it.
-It’s more than pow vs pos — it’s about what the best platform is
-</p>
-<hr />
-<p>Not sure yet - probably strong - I love Monero and fluffy is a good friend and also supports rvn - I’m of the mind that any good quality project is welcome — securities alone is a $10 trillion market
-</p>
-<hr />
-<p>It’s a race multiple projects can win — there is room for a dozen projects like raven or Eth
-</p>
-<hr />
-<p>It’s not so much about a currency — but what platform makes it work
-And whichever ones work sort of become defacto currencies
-</p><p><br />
-</p>
-<h2><span class="mw-headline" id="23_May_2018_-_Discord_2">23 May 2018 - Discord 2</span></h2>
-<p>Clearly there is huge overlap of interest, mission and people who support tZero and who support Ravencoin — its a natural fit and convos around tZero and raven often overlap 
-I’m on the board of tZero, Tron is an advisor and pretty much the whole management holds raven including the chair and overstock who owns one of the largest holdings
-</p>
-<hr />
-<p>Yes so expect a big change on GitHub in 2 weeks
-The code so far will be released in alpha version
-After further coding and work it will be ready to deploy on test Net within 2-3 months 
-</p><p>this will Place the fully functional and live asset layer after that
-</p>
-<hr />
-<p>The alpha of asset layer code will be published for early review within two weeks
-</p><p><br />
-</p>
-<h2><span class="mw-headline" id="20_May_2018_-_Discord_2">20 May 2018 - Discord 2</span></h2>
-<p>There is no official “raven team” this is open source and anyone can develop anything on it 
-</p><p>There’s no “official” group who can or would reach out to corporations and it wouldn’t make sense to do so in the name of an open source idea
-</p><p>The way Ravencoin works is much better than a centralized ICO&#160;:  anyone can build anything on it — so someone reading now can decide to make a business that helps companies list - advisors could help companies list on Raven like they do with Eth etc — its much stronger that way and more likely to lead to wider use
-</p>
-<hr />
-<p>I think exchanges will increasingly add tokens and once they are regulated will add securities tokens - it’s likely going to be too large a market to ignore
-</p>
-<hr />
-<p>Tokens should be able to be issued on Raven in 6 months and what happens after this is up to the markets and the community
-</p>
-<hr />
-<p>Well there are no promises — looking at it as an investment is very risky
-</p><p><br />
-</p>
-<h2><span class="mw-headline" id="11_May_2018_-_Twitter">11 May 2018 - Twitter</span></h2>
-<p>Honary twitter post - <a href="/wiki/Replacing-a-ledger-with-a-better-one" title="Replacing-a-ledger-with-a-better-one">Replacing a ledger with a better one</a>
-</p>
-<h2><span class="mw-headline" id="6_May_2018_-_Telegram">6 May 2018 - Telegram</span></h2>
-<p><i>(Talking about fair launch)</i>
-</p><p>Bruce Fenton:
-That’s false — the network had 4500 miners by the time of the BitcoinTalk announcement 
-</p><p>This whole idea that something is only fair once it’s posted on every forum on the Internet is preposterous -/ this is open source and a community effort — anyone who wanted to post on Bitcoin Talk could -  I personally didn’t post because I wasn’t aware of the Ann section and find BitcoinTalk in general to be a very low quality forum 
-</p><p>The accusations that this was somehow shady are doubly preposterous to anyone who actually understands math.  
-</p><p>There were 70 miners within a day and 1200 within 4 days or so —- if you claim that me or anyone else purposely delayed the announcement in one stupid forum for financial gain that’s utterly ludicrous.  
-</p><p>Work out the numbers:  less than 1/3 of a percent of the coins were mined in that period — do you really think that me and the devs and Patrick Byrne and all the other people who put years of time and millions of dollars into this sat on the sidelines plotting so we could get a mining advantage on 9 days worth of coins worth less than $2k at the time?
-</p><p>This about it it.  Follow the money and motivation 
-</p><p>It’s a stupid accusation
-</p>
-<hr />
-<p>Bruce Fenton:
-It wasn’t fair to non English speakers either
-</p>
-<hr />
-<p>Bruce Fenton:
-Or people without computers
-</p>
-<hr />
-<p>Bruce Fenton:
-The launch was announced MONTHS ahead of time - posted on medium, posted on twitter — announced at four major public events and posted publicly 
-</p><p>THIS is why it grew so fast — obviously if 4500 people mined then that means far more than that found out about it
-</p>
-<h2><span class="mw-headline" id="5_May_2018_-_Discord_2">5 May 2018 - Discord 2</span></h2>
-<p><a href="/wiki/The_road_ahead" title="The road ahead">The road ahead</a>
-</p>
-<h2><span class="mw-headline" id="2_May_2018_-_Discord_2">2 May 2018 - Discord 2</span></h2>
-<p>Do you think we could raise a 1 million RVN bounty for someone to get RSK / Solidity working on the Ravencoin chain?
-</p><p>It would be a great complement to the upcoming code changes
-</p>
-<h2><span class="mw-headline" id="27_Apr_2018_-_Telegram">27 Apr 2018 - Telegram</span></h2>
-<p>Bruce Fenton:
-One benefit to exchanges is that Ravencoin is not a security — its one of the very few fairly mined coins with no ICO.
-</p>
-<h2><span class="mw-headline" id="27_Apr_2018_-_Discord_2">27 Apr 2018 - Discord 2</span></h2>
-<p>Money isn’t a problem for this project - it’s well funded
-</p>
-<h2><span class="mw-headline" id="20_Apr_2018_-_Discord_2">20 Apr 2018 - Discord 2</span></h2>
-<p><i>(Talking about a Twitter <a rel="nofollow" class="external text" href="https://twitter.com/brucefenton/status/987340686327345152?s=19">live stream</a>)</i>
-</p><p>I used Bitcoin (and Counterparty) as an example because it’s simple and lets people learn without being distracted by other issues. 
-</p><p>For people to believe in Ravencoin they first have to believe that this is possible.   This demo shows that you can indeed tokenize a security.  
-</p><p>Using Bitcoin eliminates many objections from Bitcoin maximalists.   If I did the demo with Rvn then people likely go off topic on the algo or assume raven itself is an ICO or something like that.  
-</p><p>This way it’s simple and proves the basic concept. 
-</p><p>Once people get that securities CAN be tokenized then we can educate them about why this specific solution might work and what advantages and disadvantages it has.  
-</p><p>Ravencoin is based partly on Counterparty and uses the codebase of Bitcoin — will add more features and eliminate some of the drawbacks Counterparty has.
-</p>
-<h2><span class="mw-headline" id="16_Apr_2018_-_Discord_2">16 Apr 2018 - Discord 2</span></h2>
-<p>Potential Loss of private keys is a massive drawback of crypto -- but it's the same for Bitcoin or any digital asset -- people will need to have systems to secure keys or will want to trust 3rd parties to manage them for them
-</p>
-<hr />
-<p>asset creators will be able to control how many tokens are 
-</p>
-<hr />
-<p>I'm not sure how much of a policy they have just that the whole company is very supportive of Ravencoin -- so lots of family and friends of Overstock and Medici are early and strong supporters
-</p>
-<hr />
-<p>Medici employees devs and allows employees to work on this
-</p>
-<hr />
-<p>Overstock owns Medici which I am on the board of
-</p>
-<hr />
-<p>Yes it's true the ceo of Overstock is a huge  supporter -- no doubt about it.
-</p>
-<h2><span class="mw-headline" id="15_Apr_2018_-_Discord_2">15 Apr 2018 - Discord 2</span></h2>
-<p>Biggest roadblocks is adoption and unforeseen technical hurdles - so biggest things a non dev can do is master the story and share it far and wide -- tell friends, tell devs, get people involved. 
-</p><p>This can change the world -- people need to be freed ton control their own wealth and that means not just cash but stocks as well.   This technology can do it.
-</p>
-<hr />
-<p>Some advantages of tokenized securities I just posted on twitter
-Anyone really interested in this project should definitely read up on how DTCC and Cede and co works
-</p>
-<hr />
-<p>Oskt/ medic / tZero is often misunderstood 
-</p><p>Ostk owns Medici /- I am on the board of Medici --- Medici is a big supporter of this project 
-</p><p>TZero is mutually acquainted but a separate thing -
-</p>
-<hr />
-<p>Ravencoin is Bitcoin but with commits approved based on preference of the blockchain serving as the rails for assets instead of cash or digital gold.
-</p>
-<hr />
-<p>Well no one should be anything but proud to be involved in this.   There are very few projects which are fairly launched and fairly mined.   We all got together and built something pretty cool very quickly
-</p>
-<hr />
-<p>The common question of why we need this is because we think this way might work - that's all really
-yes there will be a Ravencoin annual meeting
-Mid October
-</p>
-<hr />
-<p>A blockchain can change the way gaming works.  This seems silly to people who focus on monetary aspects like Bitcoin --- but it's an entirely different thing. In game economies are real and have real value - these virtual items will have even more value if they become platform independent.   This benefits the creators and sellers of these game assets as well --  one drawback is potential speculation -- game developers should note that adding liquidity adds profit speculators who can harm game dynamics (bots, farmers, for profit players) -- this could be dealt with several ways
-</p>
-<hr />
-<p>Crypto is a great equalizer.  With a project like this anyone can participate and code is judged on merit alone. 
-</p><p>I bet a lot of devs will end up being anon
-</p>
-<h2><span class="mw-headline" id="12_Apr_2018_-_Discord_2">12 Apr 2018 - Discord 2</span></h2>
-<p>Idea:  take the concepts from the paper and recent interviews w Tron etc and make them into a really well done PowerPoint / keynote 
-</p><p>This would be open source and could be used by any community member to explain the project and concepts 
-</p><p>First really key step is the text and outline to assure accuracy above all else.   
-</p><p>Once that part is set and the text is good we can put it into a good format, add graphics and simple explanatory animations 
-</p><p>Can also have a FAQ section 
-</p><p>I'd be happy to help anyone on this -- we should be able to use a section of github to place the explanatory text so it can be edited and updated over time
-</p><p><br />
-</p>
-<h2><span class="mw-headline" id="12_Apr_2018_-_Discord_2_2">12 Apr 2018 - Discord 2</span></h2>
-<p>It's possible that this community has built the largest and strongest decentralized network anyone has ever built in such a short time.
-</p><p>Does anyone know another which compares?   In terms of miners, nodes &amp; other community metrics we have grown very fast.  Very few coins have a stronger network -- both Bitcoin and Eth took years to reach what you built in less than 100 days.   All 100% organic with no marketing and no central control.   It's incredible.    The future is bright.
-</p>
-<hr />
-<p>No one can beat the power of an open source community.
-</p>
-<h2><span class="mw-headline" id="8_Apr_2018_-_Discord_2">8 Apr 2018 - Discord 2</span></h2>
-<p>Ideally lots of companies and people will build on top of this protocol
-</p>
-<hr />
-<p>Partnerships have some challenges 
-</p><p>There isn't a way to make partnerships between the idea called Ravencoin &amp; any organization because there isn't any organization or person able to make a partnership or speak on behalf of Ravencoin or sign agreements etc.   
-</p><p>It's a true open source project with no leaders or central control. 
-</p><p>This makes things like partnerships impossible in the sense of how they are done by centralized coins.  
-</p><p>Ravencoin dev is like Bitcoin: there is no way for "Bitcoin" to sign a partnership-- even Bitcoin Core (which isn't really a thing) can't sign anything. 
-</p><p>In Ravencoin everyone owns it and everyone can act as an individual and sign what they want. 
-</p><p>Ravencoin is a community project entirely built and controlled by the community the only "central" items are the name itself and all that represents is an idea that the community generally is behind.  
-</p><p>The bad news with this structure is that it is weird, chaotic, hard to understand and hard to get used to... especially for people new to open source.
-</p><p>"No leaders" sounds like some sort of new age techno babble -- but it's true -- for a real decentralized open source project like this there really is no central structure that can enter into deals etc. 
-</p><p>This type of structure is so unusual these days that most people who got into crypto within the last 2 years have never seen a real open source project. 
-</p><p>The good news is that this structure enables everyone an equal playing field in building.  No one is working to enrich some select group who received awards or raised money.    Everyone who wants to participate can in whatever way they want 
-</p>
-<h2><span class="mw-headline" id="7_Apr_2018_-_Telegram">7 Apr 2018 - Telegram</span></h2>
-<p>Tron:
-Two more devs added to the team this week.  One more next week.
-</p>
-<h2><span class="mw-headline" id="5_Apr_2018_-_Telegram">5 Apr 2018 - Telegram</span></h2>
-<p>Bruce Fenton:
-The scheduled hard fork upgrade will be around 7-8 months from now -- depends how long coding and testing take and how many people contribute to development and testing. 
-This hard fork will make the code changes which will allow the issuance of tokens
-</p>
-<hr />
-<p>Bruce Fenton:
-This project is open source so there is no one to pay for any marketing type of services.   If you read the papers and believe in the project then you can build businesses on this or drive your own economic interests
-</p>
-<h2><span class="mw-headline" id="5_Apr_2018_-_Discord_2">5 Apr 2018 - Discord 2</span></h2>
-<p>It's great for people who want to do more  -- if you are a hard working C++ dev you could end up having a massive effect on the code.
-</p>
-<hr />
-<p>Someone asked if Ravencoin could "support ___effort" 
-</p><p>The answer to every one of these questions is the same -- no because "Ravencoin" is not a centralized entity able to issue press releases or sign agreements or "support" anything --- it's just the name of the idea and code that a community is mining, developing or discussing.
-Individual people are all that can act in a decentralized open source system -- nothing is fully decentralized but this is the aim we strive for. 
-Ravencoin has no ability to support actions or do anything because it's not an entity  -- it's the name of an idea and code that the miners, developers and other community members generally agree on the purpose and structure of. 
-That sounds unusual or idealistic or phony to many - I get it, but it's actually the best way to develop
-</p>
-<hr />
-<p>The main code is on a great track -- one huge area of opportunity is getting volunteer devs to work on second layer projects 
-</p><p>RSK would be an awesome on
-LN another 
-These don't need permission from anyone for someone to work on -/ devs can all communicate
-</p>
-<hr />
-<p>We need RSK &amp; Solidity devs -- that capability can be worked on alongside the planned upgrade fork -- it would add a lot of capabilities to this protocol
-</p>
-<h2><span class="mw-headline" id="4_Apr_2018_-_Discord_2">4 Apr 2018 - Discord 2</span></h2>
-<p>Ravencoin's only marketing department is the community-- competing against a sea of scamcoins &amp; ICOs w/ billions in ad budgets we are in an open source canoe canoe together.   
-</p><p>The protocol can't do press releases or similar BS --however it IS great to get the word out on what the tech &amp; science is.
-</p><p>There isn't anything to sell- imho it's a big mistake to discuss price so early which is why I never do.
-</p><p>But it DOES make a lot of sense to share this info and explain it to people- more people will learn about it &amp; contribute.
-</p><p>The metrics of this are entirely different from something like an ICO- with Ravencoin we don't share info to sell something but we can share for the sake of computer science.
-</p><p>The white paper isn't a marketing document designed to get money from people it's an actual real white paper: a technical scientific document open for peer review.  The purpose of the document is to create discussion, generate criticism; identify security &amp; functionality holes and to invite contributors.  That's it.  There is zero mention of price.  Imho this is a much better way to build great tech.  If you build great tech it may have value.
-</p><p>The diversity &amp; strength of the community &amp; dev is a good example of how open source can be more effective than corporate projects.
-</p><p>This protocol &amp; idea is worth sharing --  there's such a sea of scams and ICOs out there that a "white paper" seems like a sales document because the term has been stolen by scammers to be used for marketing documents.  That's not ideal  -- it reduces discussion of a technical computer science paper
-</p><p>Perhaps one thing we can do is share the concepts in this paper and the main bullet points / ideas behind it -- this identifies a lot of use cases:
-</p><p>Game tokens for items you can move from game to game, securities tokens with dividends, message services etc etc -- all of this is new tech creating new possibilities &amp; solutions. 
-</p><p>Sharing ideas gets even more great community members &amp; contributors
-</p>
-<hr />
-<p>so the devs are a combination of people - most are in Utah because Medici a while back allowed employees to work on open source &amp; this project became popularly locally in SLC --  so Tron Black @Tron (who came up with most of the tech ideas), Jesse Empey @RavencoinDev and @cade  are in SLC -- most of the mining devs tend to live around NH because that's where we did the first meetups &amp; announcements
-</p>
-<h2><span class="mw-headline" id="4_Apr_2018_-_Telegram">4 Apr 2018 - Telegram</span></h2>
-<p>Bruce Fenton:
-This project is open source so there is no one to pay for any marketing type of services.   If you read the papers and believe in the project then you can build businesses on this or drive your own economic interests
-</p>
-<hr />
-<p>Bruce Fenton:
-The scheduled hard fork upgrade will be around 7-8 months from now -- depends how long coding and testing take and how many people contribute to development and testing. 
-</p><p>This hard fork will make the code changes which will allow the issuance of tokens
-</p>
-<h2><span class="mw-headline" id="4_Apr_2018_-_Discord_2_2">4 Apr 2018 - Discord 2</span></h2>
-<p>@everyone Volunteers wanted:  Volunteer to serve as liaison to exchanges.  Ravencoin is receiving a LOT of requests and interest from exchanges.  Unfortunately most request that an "official" representative contact them. Since this is decentralized and open source there is no official and there is no one "authorized" to deal with exchanges. 
-</p><p>If someone from the community wants to volunteer to serve this role they can. 
-Should be knowledgeable about tech/ dev and exchanges and able to help exchanges with tech issues, integration etc.
-</p>
-<h2><span class="mw-headline" id="3_Apr_2018_-_Discord_2">3 Apr 2018 - Discord 2</span></h2>
-<p>Note on exchanges:  since this project is open source there is no central party to speak with exchanges.  ICOs and centralized corporate coins typically have marketers and others who serve this role.  
-</p><p>Since this coin had no premine or set aside the economics are different as there is no insider looking to dump presale coins or something because they don't exist.  
-</p><p>All exchange activity so far has been community driven.  There is no official party with an authority to deal with exchanges-/ that doesn't mean no one has the power --- it means everyone has the power.   This project belongs 100% to the community-- it was created by a community and remains that. 
-</p><p>So anyone wishing to list this coin or do any other economic activity - go for it.  The project literally belongs to you as much as anyone if you are reading this.
-</p>
-<hr />
-<p>Securities tokens with multiple share classes 
-</p><p>Game items that can be removed from a game and printed onto a paper wallet 
-</p><p>Activist tokens which can be divisible and with built in messaging - so you can split a coin in to 10 and give it to 10 friends who will all receive whatever message 
-</p><p>The possibilities are endless
-</p>
-<h2><span class="mw-headline" id="2_Apr_2018_-_Discord_2">2 Apr 2018 - Discord 2</span></h2>
-<p>Discord channels, like other aspects of Ravencoin, don't have a centralized authority or controller.
-</p><p>ICOs, scam-coins and centralized corporate coins have controlled and managed chat channels run by paid marketing employees. 
-</p><p>Ravencoin is different. It's not run by a central team or person who tells people what to say or so. 
-</p><p>Anyone can set up a chat, there is no "official" anything other than the Git and website. 
-</p><p>If a majority of the community prefers one admin / mod style they can migrate to any banned.  If various groups from who have competing ideas or preferences then multiple groups can form.
-</p>
-<hr />
-<p>Many people are so used to centralized scam coins that they don't know what to think when they see a real open source coin.
-</p><p>The internet is messy.   The opposite of control is chaos.  So some chaos is inevitable.   But it doesn't affect the protocol in any way.
-</p>
-<hr />
-<p>This is as intended
-</p>
-<hr />
-<p>It will all even out and work well
-</p>
-<hr />
-<p>Have faith in the wisdom of crowds
-</p>
-<hr />
-<p>Does Bitcoin have an official chat?
-</p>
-<hr />
-<p>It's hard to have no one in charge and seems chaotic to not have control.   Many corporate coins have antiseptic and controlled chats which regularly censor criticism.
-</p>
-<hr />
-<p>the only thing official is the code and website.
-</p><p>The roadmap and white paper is an implementation that a group of devs supports --
-</p>
-<hr />
-<p>Yes -- but KYC/ AML isn't part of the protocol
-</p>
-<hr />
-<p>Ravencoin will allow easy creation of assets such as tokens
-</p>
-<hr />
-<p>Anyone can post a new ANN
-</p>
-<hr />
-<p>There's no "core" really
-</p>
-<hr />
-<p>you seem to think I have some special powers -- it's your coin as much as it is mjne.
-</p>
-<hr />
-<p>Well if so then that's even more reason to not do it. &#160;:smiley: the "core team" is anyone who wants to be.
-</p><p>This isn't hand waiving -- it's the structure of a real decentralized open source project.
-</p><p>There are no leaders or authorities.   Only merit and individuals choosing who to follow and what code to run
-</p>
-<hr />
-<p>I choose to support this project because it's decentralized
-</p>
-<hr />
-<p>There are 1000 corporate coins who have very neat and clean comms channels: everyone agrees, a few people decide on a message and the people are fed a line.
-</p>
-<hr />
-<p>Anyone can create these tools
-</p>
-<hr />
-<p>There is no central authority over Bitcoin comms
-It's impossible
-</p>
-<hr />
-<p>Ravencoin is YOUR coin.  It is the people's coin.  A real open source and decentralized project.
-</p>
-<hr />
-<p>The decentralized nature enables this coin to do WAY more than a centralized corporate coin or ICO can do. 
-</p><p>Look at the results!!
-</p><p>Look what you badasses have built in less than 3 months!
-</p><p>NO ONE can duplicate this.  IBM has spent $4.5 billion on its internal blockchain and we beat them in EVERY metric that matters:  better code, stronger network, bigger community etc etc.
-</p><p>Why?  Because people can smell authenticity a mile a way.  Then know that  the hundreds of scam coins don't actually belong to them.   This coin does. 
-</p><p>Your efforts in Ravencoin are building what you wish - the strength of this project will not depend on 20 marketers or lawyers in some ivory tower office but the efforts of the thousands of people who've put in time, resources and sweat to build this this. 
-</p><p>With this grassroots decentralization we have some drawbacks but overall massive advantages. 
-</p><p>This is why we will prevail.
-</p>
-<hr />
-<p>We are likely the fastest growing network in history of crypto.   We are also a top 10 of fairly mined coins in 3 months.
-Decentralization works.
-</p>
-<hr />
-<p>The wisdom of this crowd is stronger than any 100 people
-</p>
-<hr />
-<p>Together we can do amazing things.   Wish not for leaders or control.   Instead make the changes you want and ask for help.
-</p>
-<hr />
-<p>No one has any power that you don't also have.
-If you want something to happen don't wait for permission.  You have it.  Just do it. 
-</p>
-<hr />
-<p>Tuesday will be a Roadmap and an expanded paper based on a combo of the original Medium article and the roadmap
-</p>
-<hr />
-<p>there are drawbacks to a decentralized system like this -- but advantages as well.   No one does or should have control
-</p>
-<hr />
-<p>some advantages Ravencoin will have to token issuers over Eth:
-</p><p>- more secure chain
-</p><p>- more censorship resistant 
-</p><p>- more decentralized 
-</p><p>- simpler / more elegant 
-</p><p>- native in the protocol 
-</p><p>- will allow dividends 
-</p><p>- will allow messaging
-</p><p>It's the next gen
-</p>
-<hr />
-<p>Ravencoin plans to integrate RSK --
-</p><p>Advantage is shorter block time and that it's native to the protocol -- but for smart contracts RSK will eneable solidity to work on the Ravencoin blockchain
-</p>
-<hr />
-<p>ASIC resistance and a wider and more fair distribution is another advantage of Ravencoin.
-</p><p>By this time period in Bitcoin's history the coin had less than a dozen miners.  We have thousands
-This is one of the most widely distributed coins if not THE most
-</p>
-<hr />
-<p>the protocol won't be ready to issue tokens on for 7-8 months or so.  But the network is already very strong and will have a lot of appeal 
-Securities tokens are one of the key use cases and reasons Ravencoin was created
-</p><p>Securities tokens are my main focus
-</p><p>I think everything will be tokenized
-</p>
-<hr />
-<p>I was a stockbroker for almost 20 years so have been interested in securities tokens since I came into Bitcoin 6 years ago
-</p>
-<hr />
-<p>Especially interesting is small companies who can't now go public on old markets but will be able to using Ravencoin
-</p><p>And also conventional asset management
-</p>
-<hr />
-<p>Many exciting areas
-</p>
-<hr />
-<p>SEC regs are misunderstood by almost everyone in the space
-</p>
-<hr />
-<p>Things like lawyers  will be the market not part of the protocol
-</p>
-<hr />
-<p>Ravencoin opens up not just new doors to securities but entirely new types of aligning interests.   For example co-ops
-</p>
-<hr />
-<p>Ravencoin will enable users to issue STOs
-</p>
-<hr />
-<p>Not a smart contract but native to the protocol
-</p>
-<hr />
-<p>Sure real estate or any asset anyone wants
-To issue
-</p><p>Game currency.   Securities.
-</p><p>Also unique assets
-</p>
-<hr />
-<p>yes with any offering issuers will still need a legal team and offering management (not from the protocol but the market)
-</p>
-<hr />
-<p>not a SDK but native abilities within the protocol itself
-</p>
-<hr />
-<p>So user will be able to issue:
-100,000 token shares of Janes Startup
-</p><p>17 Platinum Swords of Power
-</p><p>1 Mona Lisa Token
-</p><p>Etc
-</p>
-<hr />
-<p>that's exactly something my company is working on
-Chainstone Labs plans to be one of the first users of Ravencoin
-</p>
-<hr />
-<p>You won't get dividends for holding rvn
-It will be paid by token issuers to token holders
-</p>
 <hr />
-<p>Rvn willl be burned for users to issue or name tokens
+<p>It’s a $40 trillion market
 </p>
 <hr />
-<p>The assets will be on the rvn chain
+<p>Personally I see it as very different
 </p>
 <hr />
-<p>The assets will be using Ravencoin chain as rails
-&lt;name removed&gt; I founded Atlantic Financial, a Registered Investment advisor and also own chainstone labs
-And Satoshi Roundtable
+<p>Raven is open source
+If you want to compete with a company you can
+Or use the code and software how you choose
 </p>
-<hr />
-<p>Right holders have to trust each issuer if they claim there is an asset backing it
-</p>
-<hr />
-<p>No no
-Only for physical assets
-</p><p>Real world
-</p>
-<hr />
-<p>Virtual items like digital currency, utility and game currency or items would stay digital
-</p>
-<hr />
-<p>Providers of legal and KYC services willl be able to easily integrate with rvn
-</p>
-<hr />
-<p>Ravencoin doesn't compete with Polymath - it's a separate type of thing
-</p>
-<hr />
-<p>Poly has said they are chain agnostic so can use rvn
-</p>
-<hr />
-<p>Unlike Eth, Ravencoin was specifically built for the purpose of issuing tokens
-</p>
-<hr />
-<p>Using RSK solidly Ravencoin will be able to do everything Eth can do
-</p>
-<hr />
-<p>the published policy is to change the algo to break asics if they are created
-</p>
-<hr />
-<p>no asics DECREASE security because they increase centralization
-</p>
-<hr />
-<p>Asics make mining less distributed
-</p>
-<hr />
-<p>actually they make a 51% attack easier because asics tend to concentrate mining in the hands of a small number of giant miners with data centers 
-</p><p>Bitcoin can be 51% attacked by compromising 4 people or so.   Ravencoin you'd need to compromise an army of Ravens with their gpus
-</p><p>&lt;name removed&gt; users acquire rvn and use that to create assets or pay dividend
-</p>
-<hr />
-<p>once someone issues a token they can do what they want with it:  give it away, sell it, run an ICO or STO, put it in a game or whatever they choose
-</p>
-<hr />
-<p>To be clear: the Ravencoin protocol will support RSK / solidity but ALSO have a native capability built in which makes it easier for many use cases
-</p><p>And has more capabilities like messaging and dividends
-</p>
-<hr />
-<p>&lt;name removed&gt; once someone issues a token they can do what they want with it:  give it away, sell it, run an ICO or STO, put it in a game or whatever they choose
+<h2><span class="mw-headline" id="2nd_July_2018_-_Discord_2">2nd July 2018 - Discord 2</span></h2>
+<p>I have over 150,000 social media followers and announced Raven to over 2000 conference attendees at crypto conferences including Miami BTC and Texas Bitcoin Conference 
+It was posted by many others aside from me and retweeted and reposted by many others 
+</p><p>We had 4500 miners within a week and the network grew so fast that solo mining and cpu rigs were obsolete within two weeks
+</p><p>To claim that no one was on the network and that some secret miner dominated the mining is preposterous and easily provably false 
+</p><p>In the very earliest days the network was widely distributed — the three largest miners (Overstock / Medici and three parties I don’t know who they are) each never reached more than 10-15% of hash power —- and that was only for a short few weeks or so in the earlier days 
+</p><p>Since then the math can easily show that for anyone to have significant network power they would have to spend a significant amount on GPU rigs — the math &amp; metrics behind this are trivial for anyone with a basic understanding of mining and crypto 
+</p><p>It is simply impossible to have had a special advantage on the launch - all anyone could have possibly done is what early miners did:: take a big risk on early equipment-/ 
+</p><p>No one had any advantage whatsoever and there was absolutely no premine or set aside or insta mine at all 
+</p><p>This is what is great about this tech - a blockchain is provable
+I guess at the ravencoin annual meeting we can ask early miners to raise hands
 </p>
 <hr />
-<p>To be clear: the Ravencoin protocol will support RSK / solidity but ALSO have a native capability built in which makes it easier for many use cases
-</p><p>And has more capabilities like messaging and dividends
+<p>Blockstream is a company — raven is a protocol
+</p><p>We are not competing with Blockstream
 </p>
 <h2><span class="mw-headline" id="Older_Posts">Older Posts</span></h2>
-<p><a href="/wiki/Fenton_Files:_start_-_March_2018" title="Fenton Files: start - March 2018">Fenton Files: start - March 2018</a>
+<p><a href="/wiki/Fenton_Files:_April_2018_-_June_2018" title="Fenton Files: April 2018 - June 2018">Fenton Files: April 2018 - June 2018</a>
+</p><p><a href="/wiki/Fenton_Files:_start_-_March_2018" title="Fenton Files: start - March 2018">Fenton Files: start - March 2018</a>
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20180703175308
+Cached time: 20180724203232
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 0.028 seconds
-Real time usage: 0.042 seconds
-Preprocessor visited node count: 115/1000000
-Preprocessor generated node count: 168/1000000
+CPU time usage: 0.020 seconds
+Real time usage: 0.028 seconds
+Preprocessor visited node count: 27/1000000
+Preprocessor generated node count: 80/1000000
 Post‐expand include size: 26/2097152 bytes
 Template argument size: 0/2097152 bytes
 Highest expansion depth: 2/40
@@ -757,10 +168,10 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:23-0!canonical and timestamp 20180703175308 and revision id 1182
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:23-0!canonical and timestamp 20180724203232 and revision id 1236
  -->
 </div>					<div class="printfooter">
-						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=The_Fenton_Files&amp;oldid=1182">https://raven.wiki/w/index.php?title=The_Fenton_Files&amp;oldid=1182</a>’					</div>
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=The_Fenton_Files&amp;oldid=1236">https://raven.wiki/w/index.php?title=The_Fenton_Files&amp;oldid=1236</a>’					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -828,7 +239,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Code"><a href="/wiki/Code">Code</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Code"><a href="/wiki/Code">Code</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
@@ -852,14 +263,14 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Fenton_Files" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Fenton_Files" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=The_Fenton_Files&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=The_Fenton_Files&amp;oldid=1182" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=The_Fenton_Files&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Fenton_Files" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Fenton_Files" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=The_Fenton_Files&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=The_Fenton_Files&amp;oldid=1236" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=The_Fenton_Files&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 9 June 2018, at 14:36.</li>
+											<li id="footer-info-lastmod"> This page was last modified on 15 July 2018, at 14:23.</li>
 									</ul>
 							<ul id="footer-places">
 											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
@@ -873,6 +284,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.028","walltime":"0.042","ppvisitednodes":{"value":115,"limit":1000000},"ppgeneratednodes":{"value":168,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180703175308","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":248});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.020","walltime":"0.028","ppvisitednodes":{"value":27,"limit":1000000},"ppgeneratednodes":{"value":80,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180724203232","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":733});});</script>
 	</body>
 </html>

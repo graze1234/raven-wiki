@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en-GB" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ravencoin Wiki: Testnet</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Testnet","wgTitle":"Testnet","wgCurRevisionId":1245,"wgRevisionId":1245,"wgArticleId":71,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Testnet","wgRelevantArticleId":71,"wgRequestId":"W1i7t9TjckkAAGNaRnMAAAAa","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0"/>
+<meta name="google-site-verification" content=""/>
+<meta name="keywords" content="ravencoin testnet"/>
+<meta name="description" content="Ravencoin Wiki Details on the upcoming Testnet activation of Assets protocol"/>
+<meta name="twitter:description" content="Ravencoin Wiki Details on the upcoming Testnet activation of Assets protocol"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Ravencoin Wiki (en-gb)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://raven.wiki/w/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="Ravencoin Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta property="og:title" content="Ravencoin Wiki: Testnet"/>
+<meta property="og:description" content="Ravencoin Wiki Details on the upcoming Testnet activation of Assets protocol"/>
+<script type="application/ld+json">{"@context" : "http://schema.org","name":"Ravencoin Wiki: Testnet","headline":"Ravencoin Wiki: Testnet","description":"Ravencoin Wiki Details on the upcoming Testnet activation of Assets protocol",}</script>
+<meta property="fb:app_id" content=""/>
+
+<meta property="fb:admins" content=""/>
+
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Testnet rootpage-Testnet skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en-GB">Testnet</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Ravencoin Wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output">
+<p><b>Ravencoin</b> was launched on January 3, 2018, as a free, open source platform forked from the Bitcoin codebase.  Since that time, Ravencoin has operated as a fully functional network based on the Bitcoin UTXO model.  All coins have been fairly mined by a decentralized network of miners using the ASIC-resistant X16r algorithm.
+</p><p><br />
+Since the launch, developers have been actively working to add additional asset creation functionality to the Ravencoin core wallet client, as contemplated by Phase 2 (asset support) of the Ravencoin <a rel="nofollow" class="external text" href="https://github.com/RavenProject/Ravencoin/tree/master/roadmap">roadmap</a>. 
+</p><p><br />
+The Ravencoin community is now able to run the current core Ravencoin client in <b>testnet mode</b>, in order to generate addresses that will be able to receive <b>testnet RVN</b>.
+On July 30, new asset layer features will be added to the core wallet client for use on Ravencoin’s test network.  These features are expected to include additional capabilities that will facilitate the native creation, issuance and transfer of asset tokens.  A revised version of the core client software will be made available for download on <a rel="nofollow" class="external text" href="https://github.com/RavenProject/Ravencoin/releases">GitHub</a>.  This will allow for rigorous community testing of the native asset layer functionality — including the creation and issuance of testnet assets — in contemplation of the anticipated launch of this functionality on the mainnet in October.
+</p><p><br />
+This testnet network will be a completely independent secondary blockchain for testing purposes only, in which all tokens will have no intrinsic value and will not be traded on exchanges. The purpose of a testnet is to test features and functionality before introducing those features and functionality to the main blockchain.  It is a playground to experiment and test different features with almost no cost to transact or mine blocks.  During this testing phase, the Ravencoin blockchain itself will continue to maintain the same operation and functionality it has today.
+</p><p><br />
+To run your current wallet in testnet mode: 
+</p>
+<ol><li> First shutdown your current full client wallet.</li>
+<li> Create a shortcut to your raven-qt.exe with this in the target field: <br /> <pre>"C:\Users&lt;username&gt;\Path\to\executable\raven-qt.exe" –testnet</pre></li>
+<li> Open the wallet by clicking on the shortcut you just made, and let the blockchain sync fully</li></ol>
+<p><br />
+</p><p>Don't worry, this will not interfere with your regular Raven wallet, just make sure both wallets are not running at the same time. For those who are technically inclined, running in testnet mode does not overwrite any of the blockchain data or wallet files of Ravencoin’s main network.   Instead, it will create a subfolder named testnet3 inside your data folder where all testnet related data and wallets reside.  <b>If you would prefer to err on the side of caution, consider running your testnet wallet on a different computer.</b>
+</p><p><br />
+There are currently a couple of tools available to assist you with testnet testing. 
+</p>
+<ul><li>A fully functional block explorer for testnet Ravencoin is available at <a rel="nofollow" class="external free" href="https://testnet.ravencoin.network/">https://testnet.ravencoin.network/</a>.  </li>
+<li>A faucet which will issue you 5000 free <b>testnet Ravencoin</b> per click, is also available at <a rel="nofollow" class="external free" href="https://testnet.ravencoin.network/">https://testnet.ravencoin.network/</a></li></ul>
+<p><br />
+After this testing period, it is anticipated that the community will consider adoption of the new asset-aware code.  Activation will occur through the <b>BIP9</b> consensus mechanism.  More information on the activation process can be found <a rel="nofollow" class="external text" href="https://docs.google.com/document/d/1RxRokp_P9Iu7eqKdfR7wj2D7bqMwqnd_l3R1yjq633k/">here</a>
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180725113828
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.008 seconds
+Real time usage: 0.011 seconds
+Preprocessor visited node count: 12/1000000
+Preprocessor generated node count: 82/1000000
+Post‐expand include size: 26/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:71-0!canonical and timestamp 20180725113828 and revision id 1245
+ -->
+</div>					<div class="printfooter">
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Testnet&amp;oldid=1245">https://raven.wiki/w/index.php?title=Testnet&amp;oldid=1245</a>’					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Testnet" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Testnet" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Testnet" title="View the content page [c]" accesskey="c">Page</a></span></li>
+							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Testnet&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Testnet">Read</a></span></li>
+							<li id="ca-viewsource"><span><a href="/w/index.php?title=Testnet&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Testnet&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Ravencoin Wiki" title="Search Ravencoin Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Ravencoin_Wiki"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Code"><a href="/wiki/Code">Code</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
+			<h3 id='p-News-label'>News</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
+			<h3 id='p-Wiki-label'>Wiki</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-Contributing-here"><a href="/wiki/Contributing_to_the_wiki">Contributing here</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Testnet" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Testnet" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Testnet&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Testnet&amp;oldid=1245" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Testnet&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 July 2018, at 04:58.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Ravencoin_Wiki:About" title="Ravencoin Wiki:About">About Ravencoin Wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Ravencoin_Wiki:General_disclaimer" title="Ravencoin Wiki:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=Testnet&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.008","walltime":"0.011","ppvisitednodes":{"value":12,"limit":1000000},"ppgeneratednodes":{"value":82,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180725113828","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":313});});</script>
+	</body>
+</html>
