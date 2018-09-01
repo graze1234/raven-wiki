@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Chainparams - Ravencoin Wiki</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chainparams","wgTitle":"Chainparams","wgCurRevisionId":955,"wgRevisionId":955,"wgArticleId":61,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chainparams","wgRelevantArticleId":61,"wgRequestId":"W1i7lNTjckkAAFpV660AAAAM","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chainparams","wgTitle":"Chainparams","wgCurRevisionId":955,"wgRevisionId":955,"wgArticleId":61,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chainparams","wgRelevantArticleId":61,"wgRequestId":"W4ou49TjckkAABfi7pkAAABU","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -191,11 +191,11 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20180725003535
+Cached time: 20180831150040
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 0.020 seconds
-Real time usage: 0.029 seconds
+CPU time usage: 0.016 seconds
+Real time usage: 0.021 seconds
 Preprocessor visited node count: 123/1000000
 Preprocessor generated node count: 128/1000000
 Post‐expand include size: 0/2097152 bytes
@@ -208,7 +208,7 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:61-0!canonical and timestamp 20180725003535 and revision id 955
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:61-0!canonical and timestamp 20180831150040 and revision id 955
  -->
 </div>					<div class="printfooter">
 						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Chainparams&amp;oldid=955">https://raven.wiki/w/index.php?title=Chainparams&amp;oldid=955</a>’					</div>
@@ -279,7 +279,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Code"><a href="/wiki/Code">Code</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
@@ -287,7 +287,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
+						<li id="n-Forks-and-updates"><a href="/wiki/Forks_and_updates">Forks and updates</a></li><li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
@@ -324,6 +324,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.020","walltime":"0.029","ppvisitednodes":{"value":123,"limit":1000000},"ppgeneratednodes":{"value":128,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180725003535","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":370});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.016","walltime":"0.021","ppvisitednodes":{"value":123,"limit":1000000},"ppgeneratednodes":{"value":128,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180831150040","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":241});});</script>
 	</body>
 </html>

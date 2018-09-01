@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Ravencoin Wiki: Best Practice</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Best_practices","wgTitle":"Best practices","wgCurRevisionId":1147,"wgRevisionId":1147,"wgArticleId":51,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Best_practices","wgRelevantArticleId":51,"wgRequestId":"W1i7ktTjckkAAGNZlOAAAAAS","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Best_practices","wgTitle":"Best practices","wgCurRevisionId":1311,"wgRevisionId":1311,"wgArticleId":51,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Best_practices","wgRelevantArticleId":51,"wgRequestId":"W4ou4dTjckkAABfg0V8AAABS","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -59,11 +59,12 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <li class="toclevel-2 tocsection-4"><a href="#Cold_storage"><span class="tocnumber">1.3</span> <span class="toctext">Cold storage</span></a></li>
 <li class="toclevel-2 tocsection-5"><a href="#Paper_wallet"><span class="tocnumber">1.4</span> <span class="toctext">Paper wallet</span></a></li>
 <li class="toclevel-2 tocsection-6"><a href="#Backups"><span class="tocnumber">1.5</span> <span class="toctext">Backups</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#How_to_Safely_Upgrade_your_Wallet_if_there_is_an_Update_or_Fork"><span class="tocnumber">1.6</span> <span class="toctext">How to Safely Upgrade your Wallet if there is an Update or Fork</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-7"><a href="#Private_keys"><span class="tocnumber">2</span> <span class="toctext">Private keys</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#Miners_and_other_apps"><span class="tocnumber">3</span> <span class="toctext">Miners and other apps</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#Links.2C_Guides_and_other_helpful_tips"><span class="tocnumber">4</span> <span class="toctext">Links, Guides and other helpful tips</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Private_keys"><span class="tocnumber">2</span> <span class="toctext">Private keys</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Miners_and_other_apps"><span class="tocnumber">3</span> <span class="toctext">Miners and other apps</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Links.2C_Guides_and_other_helpful_tips"><span class="tocnumber">4</span> <span class="toctext">Links, Guides and other helpful tips</span></a></li>
 </ul>
 </div>
 
@@ -144,6 +145,9 @@ Use different USB sticks for Hot wallet and Cold wallet backups. Especially cold
 </p><p>Some prefer to encrypt the disks or folder, this can be advantageous if you do not have a trusted place to store your USB sticks. Just keep the passphrase to the same standards as the USB sticks, minimum two copies in two different locations.
 </p><p>Consider how relatives and or our children can get access in the future should the worst thing happen.
 </p>
+<h3><span class="mw-headline" id="How_to_Safely_Upgrade_your_Wallet_if_there_is_an_Update_or_Fork">How to Safely Upgrade your Wallet if there is an Update or Fork</span></h3>
+<p>The Ravencoin Core wallet is based on the Bitcoin Core wallet, so <a rel="nofollow" class="external text" href="https://coinguides.org/updating-wallet-bitcoin-litecoin-dash">this guide on how to safely updgrade the Bitcoin Core wallet also applies to Ravencoin Core</a>.  Be sure to follow the backup instructions and always <a rel="nofollow" class="external text" href="https://github.com/RavenProject/Ravencoin/releases">download the latest Ravencoin Core wallet from the official Github repository</a>.
+</p>
 <h2><span class="mw-headline" id="Private_keys">Private keys</span></h2>
 <p>A private key is what control the funds, and make them spendable on its correlating public key.
 We do not reuse a key pair (public and private key) after the private key has been swiped/imported on a networked computer, ie do not reuse a paper wallet after the private key has been used.
@@ -165,13 +169,13 @@ Quote from OhGodAPet - Think of it this way - until you DO learn and understand,
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20180725075356
+Cached time: 20180831202817
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 0.016 seconds
-Real time usage: 0.021 seconds
-Preprocessor visited node count: 43/1000000
-Preprocessor generated node count: 96/1000000
+CPU time usage: 0.024 seconds
+Real time usage: 0.026 seconds
+Preprocessor visited node count: 47/1000000
+Preprocessor generated node count: 100/1000000
 Post‐expand include size: 26/2097152 bytes
 Template argument size: 0/2097152 bytes
 Highest expansion depth: 2/40
@@ -182,10 +186,10 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:51-0!canonical and timestamp 20180725075356 and revision id 1147
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:51-0!canonical and timestamp 20180831202817 and revision id 1311
  -->
 </div>					<div class="printfooter">
-						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Best_practices&amp;oldid=1147">https://raven.wiki/w/index.php?title=Best_practices&amp;oldid=1147</a>’					</div>
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Best_practices&amp;oldid=1311">https://raven.wiki/w/index.php?title=Best_practices&amp;oldid=1311</a>’					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -253,7 +257,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Code"><a href="/wiki/Code">Code</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
@@ -261,7 +265,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
+						<li id="n-Forks-and-updates"><a href="/wiki/Forks_and_updates">Forks and updates</a></li><li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
@@ -277,14 +281,14 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Best_practices" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Best_practices" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Best_practices&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Best_practices&amp;oldid=1147" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Best_practices&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Best_practices" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Best_practices" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Best_practices&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Best_practices&amp;oldid=1311" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Best_practices&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 21 May 2018, at 22:38.</li>
+											<li id="footer-info-lastmod"> This page was last modified on 18 August 2018, at 17:49.</li>
 									</ul>
 							<ul id="footer-places">
 											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
@@ -298,6 +302,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.016","walltime":"0.021","ppvisitednodes":{"value":43,"limit":1000000},"ppgeneratednodes":{"value":96,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180725075357","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":758});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.024","walltime":"0.026","ppvisitednodes":{"value":47,"limit":1000000},"ppgeneratednodes":{"value":100,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180831202817","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":298});});</script>
 	</body>
 </html>

@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Ravencoin Wiki: Exchange How To</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Exchange_How_To","wgTitle":"Exchange How To","wgCurRevisionId":1212,"wgRevisionId":1212,"wgArticleId":46,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Exchange_How_To","wgRelevantArticleId":46,"wgRequestId":"W1i7nNTjckkAAHGo3yQAAAAD","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Exchange_How_To","wgTitle":"Exchange How To","wgCurRevisionId":1361,"wgRevisionId":1361,"wgArticleId":46,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Exchange_How_To","wgRelevantArticleId":46,"wgRequestId":"W4ou6NTjckkAABfRjh0AAABF","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -83,6 +83,27 @@ Ravencoins popularity is also driven by where it can be traded. Typically it is 
 <td style="text-align: center;"> 10
 </td>
 <td style="text-align: center;">
+</td></tr>
+<tr>
+<td style="text-align: center;"> July
+</td>
+<td style="text-align: center;"> 10
+</td>
+<td style="text-align: center;">
+</td></tr>
+<tr>
+<td style="text-align: center;"> August
+</td>
+<td style="text-align: center;"> 14
+</td>
+<td style="text-align: center;"> Cryptopia, Bittrex, Upbit, safe.trade
+</td></tr>
+<tr>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
+</td>
+<td style="text-align: center;">
 </td></tr></table>
 <p><br />
 This page shall provide information and guidelines how to bring the ravencoin to an exchange.
@@ -103,12 +124,7 @@ is important process to get Ravencoin recognised by a larger public.
 </div>
 
 <h2><span class="mw-headline" id="Is_Ravencoin_a_security">Is Ravencoin a security</span></h2>
-<p>Securities are much more controlled and legislated. An important question will be if Ravencoin is a security or not. 
-For this there is a test which can be found here: <a rel="nofollow" class="external free" href="https://www.coinist.io/the-howey-test-the-sec-and-ico/">https://www.coinist.io/the-howey-test-the-sec-and-ico/</a>
-Ravencoin is passing the test and is NOT a security. The website provides some good insights, which might help answering some
-questions asked in the exchange application. Currently there is no legal assessment of Ravencoins security state.
-</p><p>However we are currently trying to get a legal assessment in place. If You are working work security assessments and can
-support please contact @haxmat#0554 and @blackjesus#1918 on discord.
+<p>Some exchanges require a legal assessment addressing whether RVN is a security under U.S law before accepting an application for listing.  An article on this issue has been compiled by @K27#1391 and is available here:  <a rel="nofollow" class="external free" href="https://docs.google.com/document/d/1Se_GqusXcobgdVGwa8x55oQjJfTFHkHUQTxuqPcOmbA">https://docs.google.com/document/d/1Se_GqusXcobgdVGwa8x55oQjJfTFHkHUQTxuqPcOmbA</a>.  This can be used for exchanges requesting a legal memorandum in the application process.
 </p>
 <h2><span class="mw-headline" id="What_is_Ravencoin">What is Ravencoin</span></h2>
 <p>Ravencoin was first announced in October of 2017 at MIT. In the months leading to the official launch on January 3rd 2018, Ravencoin gained support at several conferences and colleges. Self-described as "...a use case specific blockchain designed to carry statements of truth about who owns what asset" Ravencoin's naming pays homage to the ravens of the fictional world of Westeros. In the two months after its launch, Ravencoin has seen an exponential groundswell of community support, including the support of the larger mining community. Ravencoin is the first coin to leverage the ASIC resistant x16r algorithm and is a completely Proof of Work(PoW) coin. No ICO was undertaken, and neither was a pre-mine utilized. Ravencoin has attracted many individuals to the community and project due to its fair and grassroots hallmarks of the original Bitcoin launch. Ravencoin differs however from Bitcoin with an increased block reward size, and a faster block time, features which developers have alluded to setting the groundwork for Ethereum style asset transfers and tokens.
@@ -194,15 +210,15 @@ Overstock.com has been investing time and developers to contribute to the projec
 </td>
 <td style="text-align: center;"> Binance
 </td>
-<td style="text-align: center;">
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://www.binance.com">https://www.binance.com</a>
 </td>
 <td style="text-align: center;">
 </td>
 <td style="text-align: center;">
 </td>
-<td> Currently there is a coin page for RVN under <a rel="nofollow" class="external free" href="https://info.binance.com/en/currencies/ravencoin">https://info.binance.com/en/currencies/ravencoin</a>
+<td> RVN was in the community vote not long ago several coins have been added some time after
 </td></tr>
-<tr>
+<tr bgcolor="lightgreen">
 <td style="text-align: center;"> 2
 </td>
 <td style="text-align: center;"> Upbit
@@ -211,7 +227,7 @@ Overstock.com has been investing time and developers to contribute to the projec
 </td>
 <td style="text-align: center;">
 </td>
-<td style="text-align: center;">
+<td style="text-align: center;"> Live
 </td>
 <td>
 </td></tr>
@@ -227,6 +243,8 @@ Overstock.com has been investing time and developers to contribute to the projec
 <td style="text-align: center;"> Contacted
 </td>
 <td> 20180511: Initiated, Legal opinion is required by huobi by a top 20 law firm to confirm rvn is not a security
+<p>20180805: Followed up with complementing info (@UserJonPizza#4510)
+</p>
 </td></tr>
 <tr>
 <td style="text-align: center;"> 4
@@ -267,7 +285,7 @@ Overstock.com has been investing time and developers to contribute to the projec
 </td>
 <td>
 </td></tr>
-<tr bgcolor="lightyellow">
+<tr bgcolor="lightgreen">
 <td style="text-align: center;"> 7
 </td>
 <td style="text-align: center;"> Bittrex
@@ -276,9 +294,9 @@ Overstock.com has been investing time and developers to contribute to the projec
 </td>
 <td style="text-align: center;"> @haxmat#0554
 </td>
-<td style="text-align: center;"> Contacted
+<td style="text-align: center;"> Live
 </td>
-<td> Bittrex seems to have contacted core developers
+<td> 20180813: Live
 </td></tr>
 <tr bgcolor="lightyellow">
 <td style="text-align: center;"> 8
@@ -784,7 +802,7 @@ Best Regards
 </td>
 <td>
 </td></tr>
-<tr>
+<tr bgcolor="lightgreen">
 <td style="text-align: center;"> 42
 </td>
 <td style="text-align: center;"> Cryptopia
@@ -793,14 +811,9 @@ Best Regards
 </td>
 <td style="text-align: center;"> @KryptoRoan#9849
 </td>
-<td style="text-align: center;">
+<td style="text-align: center;"> Live
 </td>
-<td> All coin listings on Cryptopia must be applied for via this page:
-<p><a rel="nofollow" class="external free" href="https://www.cryptopia.co.nz/Paytopia">https://www.cryptopia.co.nz/Paytopia</a>
-</p><p>Just choose the option that suits your needs the best, and fill in all the required details. Administrators will review the coin/code and begin the listing process as soon as possible. If for any reason the listing is rejected due to incompatibility, or failing the code review, the full listing price will be immediately refunded to your account.
-</p><p>If you have further technical queries, please write an email with the specifics that can be looked at and answered directly by a member of our Wallet team:
-</p><p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0e6d616760796f62626b7a7d4e6d7c777e7a617e676f206d61206074">[email&#160;protected]</a>
-</p>
+<td> 20180802: Live
 </td></tr>
 <tr>
 <td style="text-align: center;"> 43
@@ -1114,18 +1127,18 @@ Best Regards
 </td>
 <td>
 </td></tr>
-<tr>
+<tr bgcolor="lightyellow">
 <td style="text-align: center;"> 67
 </td>
 <td style="text-align: center;"> OTCBTC
 </td>
-<td style="text-align: center;">
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://otcbtc.com/">https://otcbtc.com/</a>
+</td>
+<td style="text-align: center;"> @UserJonPizza#4510
 </td>
 <td style="text-align: center;">
 </td>
-<td style="text-align: center;">
-</td>
-<td>
+<td> 20180805: OTCBTC requires a fee to get listed there. Said it depends on the coin.
 </td></tr>
 <tr bgcolor="lightyellow">
 <td style="text-align: center;"> 68
@@ -1786,7 +1799,7 @@ Best Regards
 </td>
 <td style="text-align: center;">
 </td>
-<td style="text-align: center;">
+<td style="text-align: center;"> EtherDelta is all ERC-20
 </td>
 <td>
 </td></tr>
@@ -3137,16 +3150,29 @@ Happiness Hero
 <td style="text-align: center;"> Live
 </td>
 <td> Mobile Ex RVN/ETH
+</td></tr>
+<tr>
+<td style="text-align: center;"> n/a
+</td>
+<td style="text-align: center;"> Shiftshape
+</td>
+<td style="text-align: center;"> <a rel="nofollow" class="external free" href="https://shapeshift.io/">https://shapeshift.io/</a>
+</td>
+<td style="text-align: center;"> @haxmat#0554
+</td>
+<td style="text-align: center;"> Contacted
+</td>
+<td> Shapeshift uses Bittrex (or Binance) for their pairings, so we have to be on it before they can include RVN.
 </td></tr></table>
 <p>If You want to add information, please reach out to us on discord.
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20180724194615
+Cached time: 20180831205835
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 0.096 seconds
-Real time usage: 0.119 seconds
+CPU time usage: 0.080 seconds
+Real time usage: 0.101 seconds
 Preprocessor visited node count: 32/1000000
 Preprocessor generated node count: 86/1000000
 Post‐expand include size: 26/2097152 bytes
@@ -3159,10 +3185,10 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:46-0!canonical and timestamp 20180724194615 and revision id 1212
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:46-0!canonical and timestamp 20180831205834 and revision id 1361
  -->
 </div>					<div class="printfooter">
-						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Exchange_How_To&amp;oldid=1212">https://raven.wiki/w/index.php?title=Exchange_How_To&amp;oldid=1212</a>’					</div>
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Exchange_How_To&amp;oldid=1361">https://raven.wiki/w/index.php?title=Exchange_How_To&amp;oldid=1361</a>’					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -3230,7 +3256,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Code"><a href="/wiki/Code">Code</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
@@ -3238,7 +3264,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
+						<li id="n-Forks-and-updates"><a href="/wiki/Forks_and_updates">Forks and updates</a></li><li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
@@ -3254,14 +3280,14 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Exchange_How_To" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Exchange_How_To" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Exchange_How_To&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Exchange_How_To&amp;oldid=1212" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Exchange_How_To&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Exchange_How_To" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Exchange_How_To" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Exchange_How_To&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Exchange_How_To&amp;oldid=1361" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Exchange_How_To&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 30 June 2018, at 19:41.</li>
+											<li id="footer-info-lastmod"> This page was last modified on 30 August 2018, at 22:26.</li>
 									</ul>
 							<ul id="footer-places">
 											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
@@ -3275,6 +3301,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.096","walltime":"0.119","ppvisitednodes":{"value":32,"limit":1000000},"ppgeneratednodes":{"value":86,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180724194615","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":321});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.080","walltime":"0.101","ppvisitednodes":{"value":32,"limit":1000000},"ppgeneratednodes":{"value":86,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180831205835","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":252});});</script>
 	</body>
 </html>

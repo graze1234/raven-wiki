@@ -2,9 +2,9 @@
 <html class="client-nojs" lang="en-GB" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Ravencoin Wiki: Marketing</title>
+<title>Ravencoin Forks and updates</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Marketing","wgTitle":"Marketing","wgCurRevisionId":1176,"wgRevisionId":1176,"wgArticleId":29,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Marketing","wgRelevantArticleId":29,"wgRequestId":"W4ou8tTjckkAABeu4wkAAAAi","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Forks_and_updates","wgTitle":"Forks and updates","wgCurRevisionId":1339,"wgRevisionId":1339,"wgArticleId":75,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Forks_and_updates","wgRelevantArticleId":75,"wgRequestId":"W4ou79TjckkAABfmnroAAABY","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -14,30 +14,30 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
 <meta name="generator" content="MediaWiki 1.30.0"/>
 <meta name="google-site-verification" content=""/>
-<meta name="keywords" content="Ravencoin marketing"/>
-<meta name="description" content="High-level branding information."/>
-<meta name="twitter:description" content="High-level branding information."/>
+<meta name="keywords" content="Ravencoin, wiki, updates"/>
+<meta name="description" content="Ravencoin Wiki - information about planned Forks and Updates"/>
+<meta name="twitter:description" content="Ravencoin Wiki - information about planned Forks and Updates"/>
 <link rel="shortcut icon" href="/favicon.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Ravencoin Wiki (en-gb)"/>
 <link rel="EditURI" type="application/rsd+xml" href="https://raven.wiki/w/api.php?action=rsd"/>
 <link rel="alternate" type="application/atom+xml" title="Ravencoin Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<meta property="og:title" content="Ravencoin Wiki: Marketing"/>
-<meta property="og:description" content="High-level branding information."/>
-<script type="application/ld+json">{"@context" : "http://schema.org","name":"Ravencoin Wiki: Marketing","headline":"Ravencoin Wiki: Marketing","description":"High-level branding information.",}</script>
+<meta property="og:title" content="Ravencoin Forks and updates"/>
+<meta property="og:description" content="Ravencoin Wiki - information about planned Forks and Updates"/>
+<script type="application/ld+json">{"@context" : "http://schema.org","name":"Ravencoin Forks and updates","headline":"Ravencoin Forks and updates","description":"Ravencoin Wiki - information about planned Forks and Updates",}</script>
 <meta property="fb:app_id" content=""/>
 
 <meta property="fb:admins" content=""/>
 
 <!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Marketing rootpage-Marketing skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Forks_and_updates rootpage-Forks_and_updates skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
 		<div id="mw-head-base" class="noprint"></div>
 		<div id="content" class="mw-body" role="main">
 			<a id="top"></a>
 
 						<div class="mw-indicators mw-body-content">
 </div>
-			<h1 id="firstHeading" class="firstHeading" lang="en-GB">Marketing</h1>
+			<h1 id="firstHeading" class="firstHeading" lang="en-GB">Forks and updates</h1>
 									<div id="bodyContent" class="mw-body-content">
 									<div id="siteSub" class="noprint">From Ravencoin Wiki</div>
 								<div id="contentSub"></div>
@@ -45,27 +45,27 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
 				</div>
 				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output">
-<h2><span class="mw-headline" id="Simple_style_.2F_branding">Simple style / branding</span></h2>
-<p><b>Ravencoin Font</b>: Nimbus Sans Light - <a rel="nofollow" class="external text" href="https://www.urwpp.de/en/shop/?fontshop=datei:show_charmap;map_func:20;fontbel:W;fs_dir:1;fname:Nimbus%20Sans%20Light;fontnummer:n019002t;charsetIds:,1,2,;">font info</a> - <a rel="nofollow" class="external text" href="https://drive.google.com/file/d/1kauS3fXc4jf85W7R_u4dm5iLPghuqeIA/view?usp=sharing">font download</a>
-</p><p><b>Colour profile</b>: #394182 #EF5339 #F69333
-</p><p><b>Kerning</b>: (Auto)
-</p><p><b>Tracking</b>: 130 
-</p><p><b>Text</b>: Ravencoin rather than RavenCoin
-</p><p><b>Images</b>: 
-<a rel="nofollow" class="external text" href="https://github.com/underdarkskies/Ravencoin-Marketing?files=1">Github repository</a>
+<h3><span class="mw-headline" id="20_Aug_2018">20 Aug 2018</span></h3>
+<p>The Ravencoin v2.0.4 wallet binaries are now available and can be downloaded at <a rel="nofollow" class="external free" href="https://github.com/RavenProject/Ravencoin/releases/tag/v2.0.4">https://github.com/RavenProject/Ravencoin/releases/tag/v2.0.4</a>
+</p><p>This update will enable the Dark Gravity Wave difficulty adjustment for mining, contains the code for the asset layer that will begin activation on October 31st, and it fixes a few bugs found after v2.0.3 was released.
+</p><p>IMPORTANT! The DGW adjustment will activate on block 338778, which will result in a hard-fork of the Ravencoin chain. Please apply the v2.0.4 binary updates as soon as possible in order to ensure that your wallets are on the correct chain after the fork. Anyone not using the new software upon the activation at block 338778 will be "forked off" and will remain on the counterfeit blockchain.
 </p>
-<h3><span class="mw-headline" id="Other_resources">Other resources</span></h3>
-<p>There is a marketing group on Discord - if you're interested in helping please feel free to get in touch there.
-</p><p><a rel="nofollow" class="external free" href="https://discord.gg/CXkJcC3">https://discord.gg/CXkJcC3</a>
-</p><p>Initial <a rel="nofollow" class="external text" href="https://github.com/MSFTserver/Raven-Branding-Kit">Msftserver</a> Raven Branding Kit
-</p><p>NEW <a rel="nofollow" class="external text" href="https://github.com/underdarkskies/Ravencoin-Marketing">Marketing-Kit</a> by Under
+<h4><span class="mw-headline" id="To_upgrade:">To upgrade:</span></h4>
+<p>1. Shut down your wallet....waiting to make sure it has shutdown...
+</p><p>2. Back up your wallet.dat file - it's always good practice to have this securely backed up.
+</p><p>3. Download the installer or raven-qt executables for your OS from the github link above, run the installer or replace the raven-qt executables on your system.
+</p><p>Open up raven-qt again as before and check the version help &gt; about.
+</p><p>For a more detailed steps <a rel="nofollow" class="external free" href="https://coinguides.org/updating-wallet-bitcoin-litecoin-dash/">https://coinguides.org/updating-wallet-bitcoin-litecoin-dash/</a> is a good starting point. 
+</p><p><br />
+</p><p><br />
+</p><p>Exchange and Mining pool contact status:<a href="/wiki/Exchange_notifications" title="Exchange notifications">Exchange_notifications</a>
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20180901025752
+Cached time: 20180831145832
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 0.016 seconds
+CPU time usage: 0.012 seconds
 Real time usage: 0.014 seconds
 Preprocessor visited node count: 15/1000000
 Preprocessor generated node count: 68/1000000
@@ -79,10 +79,10 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:29-0!canonical and timestamp 20180901025752 and revision id 1176
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:75-0!canonical and timestamp 20180831145832 and revision id 1339
  -->
 </div>					<div class="printfooter">
-						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Marketing&amp;oldid=1176">https://raven.wiki/w/index.php?title=Marketing&amp;oldid=1176</a>’					</div>
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Forks_and_updates&amp;oldid=1339">https://raven.wiki/w/index.php?title=Forks_and_updates&amp;oldid=1339</a>’					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -93,14 +93,14 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Marketing" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Marketing" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Forks+and+updates" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Forks+and+updates" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Marketing" title="View the content page [c]" accesskey="c">Page</a></span></li>
-							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Marketing&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Forks_and_updates" title="View the content page [c]" accesskey="c">Page</a></span></li>
+							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Forks_and_updates&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
 						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
@@ -118,9 +118,9 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-														<li id="ca-view" class="selected"><span><a href="/wiki/Marketing">Read</a></span></li>
-							<li id="ca-viewsource"><span><a href="/w/index.php?title=Marketing&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
-							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Marketing&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Forks_and_updates">Read</a></span></li>
+							<li id="ca-viewsource"><span><a href="/w/index.php?title=Forks_and_updates&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Forks_and_updates&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
 						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
@@ -174,20 +174,20 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Marketing" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Marketing" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Marketing&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Marketing&amp;oldid=1176" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Marketing&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Forks_and_updates" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Forks_and_updates" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Forks_and_updates&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Forks_and_updates&amp;oldid=1339" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Forks_and_updates&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 5 June 2018, at 09:15.</li>
+											<li id="footer-info-lastmod"> This page was last modified on 21 August 2018, at 19:04.</li>
 									</ul>
 							<ul id="footer-places">
 											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
 											<li id="footer-places-about"><a href="/wiki/Ravencoin_Wiki:About" title="Ravencoin Wiki:About">About Ravencoin Wiki</a></li>
 											<li id="footer-places-disclaimer"><a href="/wiki/Ravencoin_Wiki:General_disclaimer" title="Ravencoin Wiki:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=Marketing&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=Forks_and_updates&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 									</ul>
 										<ul id="footer-icons" class="noprint">
 											<li id="footer-poweredbyico">
@@ -195,6 +195,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.016","walltime":"0.014","ppvisitednodes":{"value":15,"limit":1000000},"ppgeneratednodes":{"value":68,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180901025752","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":229});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.012","walltime":"0.014","ppvisitednodes":{"value":15,"limit":1000000},"ppgeneratednodes":{"value":68,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180831145832","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":277});});</script>
 	</body>
 </html>

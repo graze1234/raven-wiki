@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en-GB" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Exchange notifications - Ravencoin Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Exchange_notifications","wgTitle":"Exchange notifications","wgCurRevisionId":1358,"wgRevisionId":1358,"wgArticleId":74,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Exchange_notifications","wgRelevantArticleId":74,"wgRequestId":"W4ou6tTjckkAABfqgegAAABc","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Ravencoin Wiki (en-gb)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://raven.wiki/w/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="Ravencoin Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Exchange_notifications rootpage-Exchange_notifications skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en-GB">Exchange notifications</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Ravencoin Wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="toc" class="toc"><div class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#DGW_338778_hardfork_-_exchange_and_pool_notification_status"><span class="tocnumber">1</span> <span class="toctext">DGW 338778 hardfork - exchange and pool notification status</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Exchanges"><span class="tocnumber">1.1</span> <span class="toctext">Exchanges</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Pools"><span class="tocnumber">1.2</span> <span class="toctext">Pools</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Asset_Fork_-_TODO_if_needed_Oct_2018"><span class="tocnumber">2</span> <span class="toctext">Asset Fork - TODO if needed Oct 2018</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="DGW_338778_hardfork_-_exchange_and_pool_notification_status">DGW 338778 hardfork - exchange and pool notification status</span></h2>
+<h3><span class="mw-headline" id="Exchanges">Exchanges</span></h3>
+<table class="wikitable">
+<tr>
+<th> Exchange
+</th>
+<th> URL
+</th>
+<th> Contact Owner
+</th>
+<th> Contact form / process
+</th>
+<th> Status
+</th></tr>
+<tr>
+<td> Upbit
+</td>
+<td> <a rel="nofollow" class="external free" href="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-RVN">https://upbit.com/exchange?code=CRIX.UPBIT.BTC-RVN</a>
+</td>
+<td> Support
+</td>
+<td> Will update with Bittrex
+</td>
+<td> n/a
+</td></tr>
+<tr>
+<td> Bittrex
+</td>
+<td> <a rel="nofollow" class="external free" href="https://bittrex.com/Market/Index?MarketName=BTC-RVN">https://bittrex.com/Market/Index?MarketName=BTC-RVN</a>
+</td>
+<td> Support
+</td>
+<td> Create a support ticket with support.bittrex.com; select wallet maintenance
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Crypto-Bridge
+</td>
+<td> <a rel="nofollow" class="external free" href="https://wallet.crypto-bridge.org/market/BRIDGE.RVN_BRIDGE.BTC">https://wallet.crypto-bridge.org/market/BRIDGE.RVN_BRIDGE.BTC</a>
+</td>
+<td> @sherlock-holmes#7421
+</td>
+<td> Discord message
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Nanex
+</td>
+<td> <a rel="nofollow" class="external free" href="https://nanex.co/">https://nanex.co/</a>
+</td>
+<td> @jaydubs#1337
+</td>
+<td> Discord message
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> QBTC
+</td>
+<td> <a rel="nofollow" class="external free" href="https://www.qbtc.com/trade">https://www.qbtc.com/trade</a>
+</td>
+<td> Support
+</td>
+<td> Email support
+</td>
+<td> Pending
+</td></tr>
+<tr>
+<td> CryptoHub
+</td>
+<td> <a rel="nofollow" class="external free" href="https://cryptohub.online/market/RVN/">https://cryptohub.online/market/RVN/</a>
+</td>
+<td> Support
+</td>
+<td> Email support
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> BarterDEX
+</td>
+<td> <a rel="nofollow" class="external free" href="https://www.atomicexplorer.com/#/coins">https://www.atomicexplorer.com/#/coins</a>
+</td>
+<td> Support
+</td>
+<td> Email support
+</td>
+<td> Contacted
+</td></tr>
+<tr>
+<td> IDCM
+</td>
+<td> <a rel="nofollow" class="external free" href="https://www.idcm.io/trading/RVN_BTC">https://www.idcm.io/trading/RVN_BTC</a>
+</td>
+<td> @hedgedhog#0007
+</td>
+<td> Discord message
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Cryptopia
+</td>
+<td> <a rel="nofollow" class="external free" href="https://www.cryptopia.co.nz/">https://www.cryptopia.co.nz/</a>
+</td>
+<td> Support
+</td>
+<td> Submit support ticket at support.cryptopia.co.nz
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Graviex
+</td>
+<td> <a rel="nofollow" class="external free" href="https://graviex.net/markets/rvnbtc">https://graviex.net/markets/rvnbtc</a>
+</td>
+<td> Support
+</td>
+<td> Email <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e1929491918e9395a186938097888499cf828e8ccf">[email&#160;protected]</a>  NOTE: they will only accept emails from the email address that submitted the listing application
+</td>
+<td> Updated
+</td></tr>
+</table>
+<h3><span class="mw-headline" id="Pools">Pools</span></h3>
+<table class="wikitable">
+<tr>
+<th> Pool
+</th>
+<th> Contact
+</th>
+<th> Contact method
+</th>
+<th> Status
+</th></tr>
+<tr>
+<td> Bsod
+</td>
+<td> bsod.pw
+</td>
+<td> Discord
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Coinblockers
+</td>
+<td> Jules
+</td>
+<td> Discord
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Cryptopool.party
+</td>
+<td> Crowetic
+</td>
+<td> Discord
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Hash4.life
+</td>
+<td> Hash4life
+</td>
+<td> Discord
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Icemining.ca
+</td>
+<td> Icemining.ca CA
+</td>
+<td> Discord
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Minepool
+</td>
+<td> Shiz
+</td>
+<td> Discord
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Minermore
+</td>
+<td> Traysi
+</td>
+<td> Discord
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Omegapool
+</td>
+<td> Omegapool.cc
+</td>
+<td> Telegram
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> PickAxePro
+</td>
+<td> Jefke
+</td>
+<td> Discord
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Ravenminer
+</td>
+<td> birdman
+</td>
+<td> Discord
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Rush Hour Mining
+</td>
+<td> ETS/RushHourMining.com
+</td>
+<td> Discord
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Suprnova.cc
+</td>
+<td> Ocminer
+</td>
+<td> Discord
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Virtopia
+</td>
+<td> Charlie
+</td>
+<td> Discord
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Yiimp.eu
+</td>
+<td> Tpruvot
+</td>
+<td> Email
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> RavencoinWorld
+</td>
+<td> Ivan - Ravencoin.world
+</td>
+<td> Discord
+</td>
+<td> Updated
+</td></tr>
+<tr>
+<td> Easymine
+</td>
+<td> nzsquirrel
+</td>
+<td> Pool website
+</td>
+<td> Updated
+</td></tr></table>
+<h2><span class="mw-headline" id="Asset_Fork_-_TODO_if_needed_Oct_2018">Asset Fork - TODO if needed Oct 2018</span></h2>
+<p><i>copy table above ... etc for future</i>
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180831170900
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.020 seconds
+Real time usage: 0.035 seconds
+Preprocessor visited node count: 14/1000000
+Preprocessor generated node count: 20/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:74-0!canonical and timestamp 20180831170900 and revision id 1358
+ -->
+</div>					<div class="printfooter">
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Exchange_notifications&amp;oldid=1358">https://raven.wiki/w/index.php?title=Exchange_notifications&amp;oldid=1358</a>’					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Exchange+notifications" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Exchange+notifications" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Exchange_notifications" title="View the content page [c]" accesskey="c">Page</a></span></li>
+							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Exchange_notifications&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Exchange_notifications">Read</a></span></li>
+							<li id="ca-viewsource"><span><a href="/w/index.php?title=Exchange_notifications&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Exchange_notifications&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Ravencoin Wiki" title="Search Ravencoin Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Ravencoin_Wiki"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
+			<h3 id='p-News-label'>News</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Forks-and-updates"><a href="/wiki/Forks_and_updates">Forks and updates</a></li><li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
+			<h3 id='p-Wiki-label'>Wiki</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-Contributing-here"><a href="/wiki/Contributing_to_the_wiki">Contributing here</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Exchange_notifications" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Exchange_notifications" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Exchange_notifications&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Exchange_notifications&amp;oldid=1358" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Exchange_notifications&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 August 2018, at 19:11.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Ravencoin_Wiki:About" title="Ravencoin Wiki:About">About Ravencoin Wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Ravencoin_Wiki:General_disclaimer" title="Ravencoin Wiki:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=Exchange_notifications&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.020","walltime":"0.035","ppvisitednodes":{"value":14,"limit":1000000},"ppgeneratednodes":{"value":20,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180831170900","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":816});});</script>
+	</body>
+</html>
