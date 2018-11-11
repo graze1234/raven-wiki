@@ -2,21 +2,32 @@
 <html class="client-nojs" lang="en-GB" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>RaspberryPi - Ravencoin Wiki</title>
+<title>Ravencoin Wiki: Raspberry Pi</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"RaspberryPi","wgTitle":"RaspberryPi","wgCurRevisionId":1234,"wgRevisionId":1234,"wgArticleId":58,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"RaspberryPi","wgRelevantArticleId":58,"wgRequestId":"W4ou9tTjckkAABe5Lo0AAAAt","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"RaspberryPi","wgTitle":"RaspberryPi","wgCurRevisionId":1600,"wgRevisionId":1600,"wgArticleId":58,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"RaspberryPi","wgRelevantArticleId":58,"wgRequestId":"W@hX0VKlU1sAADKTq6oAAAAD","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
-});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
 <meta name="generator" content="MediaWiki 1.30.0"/>
+<meta name="google-site-verification" content=""/>
+<meta name="keywords" content="Raspberry Pi full node"/>
+<meta name="description" content="Building a Ravencoin full node on Raspberry Pi"/>
+<meta name="twitter:description" content="Building a Ravencoin full node on Raspberry Pi"/>
 <link rel="shortcut icon" href="/favicon.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Ravencoin Wiki (en-gb)"/>
 <link rel="EditURI" type="application/rsd+xml" href="https://raven.wiki/w/api.php?action=rsd"/>
 <link rel="alternate" type="application/atom+xml" title="Ravencoin Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<meta property="og:title" content="Ravencoin Wiki: Raspberry Pi"/>
+<meta property="og:description" content="Building a Ravencoin full node on Raspberry Pi"/>
+<script type="application/ld+json">{"@context" : "http://schema.org","name":"Ravencoin Wiki: Raspberry Pi","headline":"Ravencoin Wiki: Raspberry Pi","description":"Building a Ravencoin full node on Raspberry Pi",}</script>
+<meta property="fb:app_id" content=""/>
+
+<meta property="fb:admins" content=""/>
+
 <!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
 </head>
 <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-RaspberryPi rootpage-RaspberryPi skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
@@ -33,20 +44,115 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 												<div id="jump-to-nav" class="mw-jump">
 					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
 				</div>
-				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><a rel="nofollow" class="external free" href="https://github.com/RavenProject/Ravencoin/blob/master/doc/build-rasberrypi.md">https://github.com/RavenProject/Ravencoin/blob/master/doc/build-rasberrypi.md</a>
+				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output">
+<div class="floatright"><img src="https&#58;//raven.wiki/w/images/raven-pi.jpg" /><br />By [@]Pathfinder#0001</div>
+<p><i>By Jeroz - Oct 27th, 2018</i>
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#General_Introduction"><span class="tocnumber">1</span> <span class="toctext">General Introduction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Before_you_start"><span class="tocnumber">2</span> <span class="toctext">Before you start</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Raspberry_Pi_hardware"><span class="tocnumber">3</span> <span class="toctext">Raspberry Pi hardware</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Setting_up_Pi_hardware_and_OS_software"><span class="tocnumber">4</span> <span class="toctext">Setting up Pi hardware and OS software</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Setting_up_the_Ravencoin_node_-_The_quick_way"><span class="tocnumber">5</span> <span class="toctext">Setting up the Ravencoin node - The quick way</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Connections_and_Security"><span class="tocnumber">6</span> <span class="toctext">Connections and Security</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Final_checks"><span class="tocnumber">7</span> <span class="toctext">Final checks</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#What_do_to_after_a_reboot"><span class="tocnumber">8</span> <span class="toctext">What do to after a reboot</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="General_Introduction">General Introduction</span></h2>
+<p>I will walk you through the steps to set up a full Ravencoin node on a Raspberry Pi running within your home network. A Raspberry Pi node is one of the cheapest options for a Ravencoin node (under $75) and consumes around 3 Watt when running the node and no peripherals are attached to it. The guide runs you through buying and installing hardware, setting up the operating system (<a rel="nofollow" class="external text" href="https://www.raspberrypi.org/downloads/noobs/">using NOOBS</a>), installing the node, and setting up security. Setting up security is highly recommended because you are opening a port to the outside world and you want to make sure it is only used for Ravencoin. Also, as there is no working Raspberry Pi graphical user interface for the Raven Core wallet, you will have to set it up through commands in the terminal. For each step, I will try to explain what you are doing and provide command lines that you need to execute. I will provide links that 1) don't require you to compile the node (which takes about 2 hours if it doesn't crash halfway), and 2) a direct download of 1.8GB of the blockchain, so you don't have to download it from other nodes in the network. These steps likely save you days in getting the node up and running.
+</p><p>My resources for setting up this guide were my previous experiences in working with Bash (linux command line language) and:
+</p>
+<ol><li><a rel="nofollow" class="external free" href="https://www.raspberrypi.org/documentation/">https://www.raspberrypi.org/documentation/</a></li>
+<li><a rel="nofollow" class="external free" href="https://medium.com/@meeDamian/bitcoin-full-node-on-rbp3-revised-88bb7c8ef1d1">https://medium.com/@meeDamian/bitcoin-full-node-on-rbp3-revised-88bb7c8ef1d1</a></li></ol>
+<h2><span class="mw-headline" id="Before_you_start">Before you start</span></h2>
+<p>Before you start, you will need:
+</p>
+<ul><li> A working internet connection; via an UTP cable (recommended for connection stability) or WIFI.</li>
+<li> <b>A PC with an SD card reader</b></li>
+<li> A Mouse, keyboard, and monitor</li></ul>
+<h2><span class="mw-headline" id="Raspberry_Pi_hardware">Raspberry Pi hardware</span></h2>
+<p>My Pi hardware:
+</p>
+<ul><li> $54.99, <a rel="nofollow" class="external text" href="https://www.amazon.com/gp/product/B07BC7BMHY">Canakit Raspberry Pi 3 B+</a> (Pi + Case + heat sinks + power cable) <br />My reasoning for this option: I rather have everything in 1 go.</li>
+<li> $15.20, <a rel="nofollow" class="external text" href="https://www.amazon.com/gp/product/B06XFWPXYD">64 GB Samsung 64GB MicroSDXC EVO Plus Memory Card</a>. <br />Obviously I forgot to buy this initially (oops...) <br />My reasoning for this option:  I chose 64GB instead of 32 to have enough room for the future. <br /><b>Note:</b> formatting a 64GB (or larger) card takes extra steps, see below</li></ul>
+<h2><span class="mw-headline" id="Setting_up_Pi_hardware_and_OS_software">Setting up Pi hardware and OS software</span></h2>
+<ol><li> Follow the instructions that shipped with the Raspberry Pi to build it.</li>
+<li> Download the <a rel="nofollow" class="external text" href="https://www.raspberrypi.org/downloads/noobs/">OS Zip file</a> (NOOBS for beginners). </li>
+<li> The Raspberry Pi only reads FAT32 formatted partitions on the SD card. So you will need to format it using <a rel="nofollow" class="external text" href="https://www.sdcard.org/downloads/formatter_4/index.html">SD Memory Card Formatter</a> <br /><b>Note:</b> If your SD card is 64GB (or larger), it will automatically be formatted as exFAT, which is not compatible with NOOBS. You need to force your SD card to format as FAT32 to use NOOBS<a rel="nofollow" class="external autonumber" href="https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md">[1]</a>.
+<ul><li>Linux and Mac OS: The standard formatting tools built into these operating systems are able to create FAT32 partitions; they might also be labeled as FAT or MS-DOS. Simply delete the existing exFAT partition and create and format a new FAT32 primary partition.</li>
+<li>Windows: The standard formatting tools built into Windows are limited, as they only allow partitions up to 32GB to be formatted as FAT32, so to format a 64GB partition as FAT32 you need to use a third-party formatting tool. A simple tool to do this is <a rel="nofollow" class="external text" href="http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm">FAT32 Format</a>. </li></ul></li>
+<li>Extract the NOOBS zip file and copy its contents on the memory card.</li>
+<li>When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.</li>
+<li>Connect the power cable to the Raspberry Pi to let it boot. If you run into trouble, walk trough the <a rel="nofollow" class="external text" href="https://www.raspberrypi.org/learning/hardware-guide/">Raspberry Pi hardware guide</a> </li>
+<li>If you are using NOOBS and this is the first time your Raspberry Pi and SD card have been used, then you'll have to select an operating system and let it install (Choose the default: Raspbian).</li>
+<li>Don't forget to set a password for login when prompted. Otherwise it is too easy for someone else to get in.</li></ol>
+<h2><span class="mw-headline" id="Setting_up_the_Ravencoin_node_-_The_quick_way">Setting up the Ravencoin node - The quick way</span></h2>
+<p>Now that you got the OS running, it is time for the fun part: setting up the Ravencoin node. Normally, installing Ravencoin will take hours and syncing to the network will take days. However, I found some nice shortcuts for you.
+</p>
+<ol><li>Instead of the repository of the Core Ravencoin developers, <a rel="nofollow" class="external text" href="https://github.com/underdarkskies">Under</a> who is also an active developer, compiled static versions of the Ravencoin wallet/node. Static means that this version works straight out of the box for each operating system. For the Raspberry Pi, you need the <a rel="nofollow" class="external text" href="https://github.com/underdarkskies/Ravencoin/releases">ARM-linux version of Ravencoin</a>. Open a terminal and use the following code:  
+<dl><dd><pre><dl><dd>cd ~/ &#10;wget https://github.com/underdarkskies/Ravencoin/releases/download/v2.1.2/raven-2.1.2-arm-linux-gnueabihf.tar.gz &#10;tar -xvzf raven-2.1.2-arm-linux-gnueabihf.tar.gz </pre> <b>Note:</b> Under and I just saved you hours of headaches and 2 hours of compiling!</dd></dl></dd></dl></li>
+<li> There is no working Ravencoin GUI for the Raspberry Pi. So you will need to get everything working from the command line. I like to put binaries into my default local user binary location so that I can globally access them from anywhere. 
+<dl><dd><pre><dl><dd>cd raven-2.1.2/bin &#10;sudo cp ./* /usr/local/bin </pre> Two files in this directory are important:</dd></dl></dd></dl>
+<ul><li><i>ravend</i>: which is the Ravencoin deamon, a program that implements the Ravencoin protocol for remote procedure calls (RPCs). In simple terms: it will run a wallet/node as a background process and you can send instructions to it.</li>
+<li><i>raven-cli</i>: which is the command line interface for Ravencoin that you can use to send instructions to ravend.</li></ul></li>
+<li>Next up is starting the deamon (<i>ravend</i>) process to start the Ravencoin node.
+<dl><dd><pre><dl><dd>ravend &amp; </pre></dd></dl></dd></dl></li>
+<li>Ravend runs entirely in the background, so you cannot see what is happening. The process will create wallet and blockchain files in <code>~/.raven/</code>. Subsequently, it will start downloading the Ravencoin blockchain. This will take forever (<b>may take a week</b>)! So, what we are going to do is stop <i>ravend</i> after ~5 minutes and thank <a rel="nofollow" class="external text" href="https://www.youtube.com/channel/UCTGFgr_1P8jdiM1Xend0ELw/featured">Cryptoslo</a> for sharing a link that contains 1.8GB of the blockchain already. <br /><b>Disclaimer:</b> I decided to trust this source at the moment of this writing. It saves a lot of time. However, if you rather go for maximum security skip this step.
+<dl><dd><pre><dl><dd>raven-cli stop &#10;cd ~/.raven &#10;wget http://147.135.10.45/blockchains/current/Raven_blockchain.zip &#10;unzip Raven_blockchain.zip </pre></dd></dl></dd></dl></li>
+<li>Additionally, we are going to make a configuration file to set up ravencoin optimally for the raspberry pi.
+<dl><dd><pre><dl><dd>touch ~/.raven/raven.conf &#10;nano ~/.raven/raven.conf </pre> Enter the following lines, and adjust user/login settings accordingly:</dd></dl></dd>
+<dd><pre>rpcuser=rpcuser #optional &#10;rpcpassword=SETYOURPASSWORDHERE #optional &#10;rpcallowip=IP_ADDRESS_OF_HOST_YOU_ACCESS_RAVEN-CLI_FROM #optional &#10;server=1 &#10;upnp=1 &#10;dbcache=800 &#10;maxmempool=50 &#10;disablewallet=1 &#10;logips=1 &#10;maxconnections=40 &#10;prune=42000 &#10;maxuploadtarget=5000 </pre> <b>Note1:</b> It is important to set <code>server=1</code> otherwise you will not get incoming connections and <code>prune</code> lets your pi look at the last X MB of the chain. Adjust this value based on your SD size. <br /> <b>Note2</b>: Opening up the RPC port to hosts outside your local trusted network is NOT RECOMMENDED, because the rpcpassword is transmitted over the network unencrypted.<br />To  save: CTRL+O ENTER, To exit: CTRL+X.</dd></dl></li>
+<li>Now you can start start ravend again to index the blockchain that you downloaded and to download the remaining bit (which may still take a day depending on your connection).
+<dl><dd><pre><dl><dd>ravend &amp; </pre></dd></dl></dd></dl></li>
+<li> Ok, so suppose you are as impatient as I am and you want to know more about the progress of <i>ravend</i> downloading the block chain. To make this insightful we are going to make use of a little script that I found using google and slightly adapted (<a rel="nofollow" class="external text" href="https://bitcoin.stackexchange.com/users/83847/hiding-ninja">original creator</a>). It will use <i>raven-cli</i> to get information from the deamon and we will extract the most useful information from it.
+<dl><dd><pre><dl><dd>touch ~/check_status.sh &#10;nano ~/check_status.sh </pre> Enter the following lines:</dd></dl></dd>
+<dd><pre>#!/bin/bash &#10;count=$(/usr/local/bin/raven-cli getblockcount); &#10;/bin/echo "block count: $count"; &#10;hash=$(/usr/local/bin/raven-cli getblockhash $count); &#10;/bin/echo "block hash: $hash"; &#10;t=$(/usr/local/bin/raven-cli getblock "$hash" | grep '"time"' | awk '{print $2}' | sed -e 's/,$//g'); &#10;/bin/echo "block timestamp is: $t"; &#10;cur_t=$(date +%s); &#10;diff_t=$[$cur_t - $t]; &#10;/bin/echo -n "Difference is: "; &#10;/bin/echo $diff_t | /usr/bin/awk '{printf "%d days,&#160;%d:%d:%d\n",$1/(60*60*24),$1/(60*60)%24,$1%(60*60)/60,$1%60}'; </pre> To save: CTRL+O ENTER, To exit: CTRL+X. <br /> And to make it executable:</dd>
+<dd><pre> chmod +x ~/check_status.sh </pre> You can now use the script to check the blockchain download status of <i>ravend</i>. I noticed that it spits out an error if <i>ravend</i> is still indexing the blockchain (after startup) and that the first call to it is rather slow:</dd>
+<dd><pre> ~/check_status.sh </pre></dd></dl></li></ol>
+<h2><span class="mw-headline" id="Connections_and_Security">Connections and Security</span></h2>
+First, if you are connecting your Pi with the internet trough WIFI (and not an UTP cable), it is important to know that Raspbian power management turns off wifi after a couple of hours idling. Obviously, we don't want that to happen so you need to turn of WIFI power management (and ensure everything is up to date, which seems to have fixed some wifi problems I was having): <pre>sudo apt-get update &amp;&amp; sudo apt-get -y dist-upgrade &#10;sudo iwconfig wlan0 power off </pre>
+<p>Ok, now that the blockchain is downloading, we are going to work on listening ports (to contribute to the Ravencoin network) and security. 
+</p>
+<ol><li> To make sure the necessary ports are open in your Raspberry Pi: <pre>sudo iptables -A INPUT -p tcp --dport 8767 -j ACCEPT &#10;sudo iptables -A INPUT -p udp --dport 8767 -j ACCEPT</pre></li>
+<li> You also need to set port forwarding in your router. The necessary steps to do this differs per router and therefore I need to refer you to the manual of your router. Be sure to forward the port to the IP address of your Raspberry Pi and the port you are forwarding is 8767. You can find the IP address using the <code>ifconfig</code> command. It is either <code>192.168.X.X</code> or <code>10.0.X.X</code>.</li>
+<li>Next, we are going to install <i>Uncomplicated Firewall</i> (<i>ufw</i>). As mentioned in the introduction: this is highly recommended because you are opening a port to the outside world and you want to make sure it is only used for Ravencoin: <pre>sudo apt-get install ufw</pre> <b>Note:</b> <i>ufw</i> default rules allow for all outgoing connections, but block all incoming connections. <br /><br /> <b>Optional:</b> If you plan on using SSH to access your raspberry pi, make sure that ssh access is allowed (but limited): <pre>sudo ufw limit ssh</pre> <b>Optional:</b> You might want to add a few more limitations on ssh. For example if you’re planning on accessing your node from local network only. Depending on your local network: <pre>sudo ufw allow from 192.168.1.0/24 to any port 22</pre> Or <pre>sudo ufw allow from 10.0.0.0/24 to any port 22</pre> And/or if you have a dedicated static IP, for example: <pre>sudo ufw allow from 16.32.64.128 to any port 22</pre></li>
+<li> To allow Ravencoin traffic: <pre>sudo ufw allow 8767 comment 'Ravencoin'</pre> You can preview the results using: <pre>sudo ufw status verbose &#10;&#10;Example output: &#10;To                         Action      From&#10;--                         ------      ----&#10;22/tcp                     LIMIT IN    Anywhere&#10;8767                       ALLOW IN    Anywhere             # Ravencoin&#10;22/tcp (v6)                LIMIT IN    Anywhere (v6)             &#10;8767 (v6)                  ALLOW IN    Anywhere (v6)        # Ravencoin  </pre></li>
+<li> Enable Firewall: <pre>sudo ufw enable</pre></li>
+<li> To make it a bit more difficult for someone trying to brute force his way in. We are going to give timeouts when the login password was wrong 5 times using Fail2Ban: <pre>sudo apt install fail2ban</pre> To see the banlist: <pre>sudo fail2ban-client status &#10;&#10;Example output:&#10; Status|- Number of jail:    1&#10;`- Jail list:    sshd</pre></li></ol>
+<h2><span class="mw-headline" id="Final_checks">Final checks</span></h2>
+<p>Ok, time for final checks to make sure peers can connect to you. To see if the port is working you can enter your public IP address and port 8767 at <a rel="nofollow" class="external free" href="https://ping.eu/port-chk/">https://ping.eu/port-chk/</a> .
+</p><p>You can also connect to your node using a wallet on a different pc. In raven core, go to: help&gt;debug window&gt;console and type:
+</p>
+<pre>addnode YOUR_PUBLIC_IP:8767 add</pre>
+On your Raspberry Pi you can check whether you see incoming connections: <pre>netstat | grep&#160;:8767</pre>
+Output example: <pre>tcp  0  0 10.0.0.137:60954  ec2-18-202-73-87.e:8767 ESTABLISHED&#10;tcp  0  0 10.0.0.137:8767   185.212.171.218:54128   ESTABLISHED&#10;tcp  0  0 10.0.0.137:59318  ec2-34-250-168-91.:8767 ESTABLISHED&#10;tcp  0  0 10.0.0.137:33302  pool-71-121-144-13:8767 ESTABLISHED&#10;tcp  0  0 10.0.0.137:8767   62-165-213-161.po:58887 ESTABLISHED&#10;tcp  0  0 10.0.0.137:47502  075-177-011-096.re:8767 ESTABLISHED&#10;tcp  0  0 10.0.0.137:44608  ec2-52-26-83-116.u:8767 ESTABLISHED&#10;tcp  0  0 10.0.0.137:58040  ecs-114-115-175-41:8767 ESTABLISHED&#10;tcp  0  0 10.0.0.137:58112  c-73-37-220-84.hsd:8767 ESTABLISHED
+</pre>
+<p>Connections using port:8767 on the left side are incoming connections.
+</p>
+<h2><span class="mw-headline" id="What_do_to_after_a_reboot">What do to after a reboot</span></h2>
+I did not take you through steps that would make the node automatically start when you (re)boot your Raspberry Pi. In the case this does happen, execute the following commands to get everything back up: <pre> sudo iwconfig wlan0 power off &#10; ravend &amp; </pre>
+<p>If you do like to have these commands executed during startup, you can follow the example given <a rel="nofollow" class="external text" href="http://thelowercasew.com/disabling-wifi-power-management-permanently-for-raspberry-pi-3-with-raspbian-jessie">here</a>, you only need to add an extra line <code>ravend &amp;</code> in step 3.
+</p>
+<hr />
+<p>And there you go, a full node on a Raspberry Pi!&#160;:)
+</p><p>Thanks to [@]Name#8397 and [@]Mapple#3283 (Discord handles) for giving valuable feedback. And [@]Under#7846 for sharing some thoughts on the static release and configuration settings.
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20180831190141
+Cached time: 20181110200143
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 0.004 seconds
-Real time usage: 0.013 seconds
-Preprocessor visited node count: 1/1000000
-Preprocessor generated node count: 4/1000000
-Post‐expand include size: 0/2097152 bytes
+CPU time usage: 0.020 seconds
+Real time usage: 0.021 seconds
+Preprocessor visited node count: 289/1000000
+Preprocessor generated node count: 658/1000000
+Post‐expand include size: 26/2097152 bytes
 Template argument size: 0/2097152 bytes
-Highest expansion depth: 1/40
+Highest expansion depth: 2/40
 Expensive parser function count: 0/100
 -->
 <!--
@@ -54,10 +160,10 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:58-0!canonical and timestamp 20180831190141 and revision id 1234
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:58-0!canonical and timestamp 20181110200143 and revision id 1600
  -->
 </div>					<div class="printfooter">
-						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=RaspberryPi&amp;oldid=1234">https://raven.wiki/w/index.php?title=RaspberryPi&amp;oldid=1234</a>’					</div>
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=RaspberryPi&amp;oldid=1600">https://raven.wiki/w/index.php?title=RaspberryPi&amp;oldid=1600</a>’					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -75,7 +181,7 @@ Transclusion expansion time report (%,ms,calls,template)
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
 														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/RaspberryPi" title="View the content page [c]" accesskey="c">Page</a></span></li>
-							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:RaspberryPi&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:RaspberryPi" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
 						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
@@ -125,7 +231,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Assets"><a href="/wiki/Assets">Assets</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Electrum-.26-Ledger"><a href="/wiki/Electrum">Electrum &amp; Ledger</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Explorers"><a href="https://raven.wiki/wiki/Tools#Explorers" rel="nofollow">Explorers</a></li><li id="n-Exchanges"><a href="/wiki/Exchange">Exchanges</a></li><li id="n-Raven-Raspberry-node"><a href="/wiki/RaspberryPi">Raven Raspberry node</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
@@ -149,14 +255,14 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/RaspberryPi" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/RaspberryPi" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=RaspberryPi&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=RaspberryPi&amp;oldid=1234" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=RaspberryPi&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/RaspberryPi" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/RaspberryPi" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=RaspberryPi&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=RaspberryPi&amp;oldid=1600" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=RaspberryPi&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 11 July 2018, at 07:40.</li>
+											<li id="footer-info-lastmod"> This page was last modified on 6 November 2018, at 15:28.</li>
 									</ul>
 							<ul id="footer-places">
 											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
@@ -170,6 +276,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.004","walltime":"0.013","ppvisitednodes":{"value":1,"limit":1000000},"ppgeneratednodes":{"value":4,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":1,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180831190141","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":289});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.020","walltime":"0.021","ppvisitednodes":{"value":289,"limit":1000000},"ppgeneratednodes":{"value":658,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181110200143","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":272});});</script>
 	</body>
 </html>

@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Ravencoin Wiki: Pools</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pools","wgTitle":"Pools","wgCurRevisionId":1254,"wgRevisionId":1254,"wgArticleId":5,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pools","wgRelevantArticleId":5,"wgRequestId":"W4ou9NTjckkAABezkjkAAAAn","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pools","wgTitle":"Pools","wgCurRevisionId":1588,"wgRevisionId":1588,"wgArticleId":5,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pools","wgRelevantArticleId":5,"wgRequestId":"W@hX0FKlU1sAAFXGq@gAAAAd","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -50,7 +50,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </p><p><br />
 You can also find a list of Ravencoin pools on <a rel="nofollow" class="external text" href="https://miningpoolstats.stream/ravencoin">Miningpoolstats.stream</a>.
 </p><p>Small or Big pool does not matter, it will average out over time. Help the network by spreading the hash to a small or medium pool.
-</p><p>Check pool size here: <a rel="nofollow" class="external text" href="https://www.rvnstats.info/d/TcDzUYmmz/x16r-ravencoin-mining-pool-statistics-v1-3">Rvnstats Pool list</a>
+</p><p>Check pool size here: <a rel="nofollow" class="external text" href="https://poolexplorer.com/coin/3340">PoolExplorer Pool list</a>
 </p><p>A good recommendation when choosing a pool is any pool not in the top 3 highest hashrate, but any other pool with at least around 0,5% of network hash rate so the pool will hit some blocks each day. Or if we want to help build up a tiny pool, go for an even smaller one.
 </p><p>The reason we want to not go for the pools with the highest hashrate is to spread the hash and secure our network. Read up on <a rel="nofollow" class="external text" href="https://en.bitcoin.it/wiki/Majority_attack">51% attack here</a>. 
 </p><p>Choosing a pool close to our miners can improve pool hashrate.
@@ -61,27 +61,27 @@ You can also find a list of Ravencoin pools on <a rel="nofollow" class="external
 <li class="toclevel-1 tocsection-2"><a href="#Global"><span class="tocnumber">2</span> <span class="toctext"><b>Global</b></span></a>
 <ul>
 <li class="toclevel-2 tocsection-3"><a href="#MinerMore"><span class="tocnumber">2.1</span> <span class="toctext">MinerMore</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Virtopia"><span class="tocnumber">2.2</span> <span class="toctext">Virtopia</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Coinblockers.com"><span class="tocnumber">2.2</span> <span class="toctext">Coinblockers.com</span></a></li>
 <li class="toclevel-2 tocsection-5"><a href="#RavenMiner"><span class="tocnumber">2.3</span> <span class="toctext">RavenMiner</span></a></li>
 <li class="toclevel-2 tocsection-6"><a href="#Suprnova"><span class="tocnumber">2.4</span> <span class="toctext">Suprnova</span></a></li>
-<li class="toclevel-2 tocsection-7"><a href="#Coinblockers.com"><span class="tocnumber">2.5</span> <span class="toctext">Coinblockers.com</span></a></li>
-<li class="toclevel-2 tocsection-8"><a href="#Elitehash_PPS_Pools"><span class="tocnumber">2.6</span> <span class="toctext">Elitehash PPS Pools</span></a></li>
-<li class="toclevel-2 tocsection-9"><a href="#Evocation_Network"><span class="tocnumber">2.7</span> <span class="toctext">Evocation Network</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Elitehash_PPS_Pools"><span class="tocnumber">2.5</span> <span class="toctext">Elitehash PPS Pools</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Evocation_Network"><span class="tocnumber">2.6</span> <span class="toctext">Evocation Network</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#RavenCoin.World"><span class="tocnumber">2.7</span> <span class="toctext">RavenCoin.World</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Coinfoundry"><span class="tocnumber">2.8</span> <span class="toctext">Coinfoundry</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-10"><a href="#US"><span class="tocnumber">3</span> <span class="toctext"><b>US</b></span></a>
+<li class="toclevel-1 tocsection-11"><a href="#US"><span class="tocnumber">3</span> <span class="toctext"><b>US</b></span></a>
 <ul>
-<li class="toclevel-2 tocsection-11"><a href="#Cryptopool.Party"><span class="tocnumber">3.1</span> <span class="toctext">Cryptopool.Party</span></a></li>
-<li class="toclevel-2 tocsection-12"><a href="#Pickaxe.pro"><span class="tocnumber">3.2</span> <span class="toctext">Pickaxe.pro</span></a></li>
-<li class="toclevel-2 tocsection-13"><a href="#OmegaPool"><span class="tocnumber">3.3</span> <span class="toctext">OmegaPool</span></a></li>
-<li class="toclevel-2 tocsection-14"><a href="#MinePool"><span class="tocnumber">3.4</span> <span class="toctext">MinePool</span></a></li>
-<li class="toclevel-2 tocsection-15"><a href="#Hash4Life_.28yiimp.29"><span class="tocnumber">3.5</span> <span class="toctext">Hash4Life (yiimp)</span></a></li>
-<li class="toclevel-2 tocsection-16"><a href="#OminousNetwork.com"><span class="tocnumber">3.6</span> <span class="toctext">OminousNetwork.com</span></a></li>
-<li class="toclevel-2 tocsection-17"><a href="#Rushhourmining.com"><span class="tocnumber">3.7</span> <span class="toctext">Rushhourmining.com</span></a></li>
-<li class="toclevel-2 tocsection-18"><a href="#Seems-Legit.com"><span class="tocnumber">3.8</span> <span class="toctext">Seems-Legit.com</span></a></li>
-<li class="toclevel-2 tocsection-19"><a href="#Starpool.fun"><span class="tocnumber">3.9</span> <span class="toctext">Starpool.fun</span></a></li>
-<li class="toclevel-2 tocsection-20"><a href="#Notohash.club"><span class="tocnumber">3.10</span> <span class="toctext">Notohash.club</span></a></li>
-<li class="toclevel-2 tocsection-21"><a href="#MinerMore.com"><span class="tocnumber">3.11</span> <span class="toctext">MinerMore.com</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Cryptopool.Party"><span class="tocnumber">3.1</span> <span class="toctext">Cryptopool.Party</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Pickaxe.pro"><span class="tocnumber">3.2</span> <span class="toctext">Pickaxe.pro</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#OmegaPool"><span class="tocnumber">3.3</span> <span class="toctext">OmegaPool</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#MinePool"><span class="tocnumber">3.4</span> <span class="toctext">MinePool</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Hash4Life_.28yiimp.29"><span class="tocnumber">3.5</span> <span class="toctext">Hash4Life (yiimp)</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#OminousNetwork.com"><span class="tocnumber">3.6</span> <span class="toctext">OminousNetwork.com</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Rushhourmining.com"><span class="tocnumber">3.7</span> <span class="toctext">Rushhourmining.com</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Starpool.fun"><span class="tocnumber">3.8</span> <span class="toctext">Starpool.fun</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Notohash.club"><span class="tocnumber">3.9</span> <span class="toctext">Notohash.club</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#gpuhash.org"><span class="tocnumber">3.10</span> <span class="toctext">gpuhash.org</span></a></li>
 </ul>
 </li>
 <li class="toclevel-1 tocsection-22"><a href="#EU"><span class="tocnumber">4</span> <span class="toctext"><b>EU</b></span></a>
@@ -102,14 +102,33 @@ You can also find a list of Ravencoin pools on <a rel="nofollow" class="external
 </p>
 <h2><span class="mw-headline" id="Global"><b>Global</b></span></h2>
 <h3><span class="mw-headline" id="MinerMore">MinerMore</span></h3>
-<p><a rel="nofollow" class="external free" href="https://minermore.com">https://minermore.com</a> - No pool fee for Ravencoin
+<p><a rel="nofollow" class="external free" href="https://minermore.com">https://minermore.com</a> PPLNS, custom made pool.
+</p><p><b>US:</b>
 </p>
-<pre>-o stratum+tcp://pool.minermore.com:3636 -u &lt;WALLET_ADDRESS&gt; [-p &lt;OPTIONS&gt;]
+<pre>-o stratum+tcp://pool.minermore.com:4501 -u &lt;WALLET_ADDRESS&gt; -p x
 </pre>
-<h3><span class="mw-headline" id="Virtopia">Virtopia</span></h3>
-<p><a rel="nofollow" class="external free" href="http://pool.virtopia.ca/">http://pool.virtopia.ca/</a> pplns
+<p><b>EU:</b>
 </p>
-<pre>-o stratum+tcp://rvn.virtopia.ca:3333 -u WALLET -p x
+<pre>-o stratum+tcp://eu.minermore.com:4501 -u &lt;WALLET_ADDRESS&gt; -p x
+</pre>
+<p><b>China / Hong Kong:</b>
+</p>
+<pre>-o stratum+tcp://hk.minermore.com:4501 -u &lt;WALLET_ADDRESS&gt; -p x
+</pre>
+<h3><span class="mw-headline" id="Coinblockers.com">Coinblockers.com</span></h3>
+<p><a rel="nofollow" class="external free" href="https://rvn.coinblockers.com/getting_started">https://rvn.coinblockers.com/getting_started</a> PPLNT
+</p><p>Germany (EU) / London (EU) / Dallas (US) / Singapore (ASIA)
+</p><p><b>EU Stratum:</b>
+</p>
+<pre>-o stratum+tcp://rvn-eu.coinblockers.com:4449 -u yourwallet.yourname -p x,stats
+</pre>
+<p><b>US Stratum</b>
+</p>
+<pre>-o stratum+tcp://rvn-us.coinblockers.com:4449 -u yourwallet.yourname -p x,stats
+</pre>
+<p><b>Asia Stratum</b>
+</p>
+<pre>-o stratum+tcp://rvn-asia.coinblockers.com:4449 -u yourwallet.yourname -p x,stats
 </pre>
 <h3><span class="mw-headline" id="RavenMiner">RavenMiner</span></h3>
 <p><a rel="nofollow" class="external free" href="https://ravenminer.com">https://ravenminer.com</a>
@@ -130,21 +149,6 @@ Remember you need to make a user first and supply a password.
 </pre>
 <p><br />
 </p>
-<h3><span class="mw-headline" id="Coinblockers.com">Coinblockers.com</span></h3>
-<p><a rel="nofollow" class="external free" href="https://rvn.coinblockers.com/getting_started">https://rvn.coinblockers.com/getting_started</a> PPLNT
-</p><p>Germany (EU) / London (EU) / Dallas (US) / Singapore (ASIA)
-</p><p><b>EU Stratum:</b>
-</p>
-<pre>-o stratum+tcp://rvn-eu.coinblockers.com:4449 -u yourwallet.yourname -p x,stats
-</pre>
-<p><b>US Stratum</b>
-</p>
-<pre>-o stratum+tcp://rvn-us.coinblockers.com:4449 -u yourwallet.yourname -p x,stats
-</pre>
-<p><b>Asia Stratum</b>
-</p>
-<pre>-o stratum+tcp://rvn-asia.coinblockers.com:4449 -u yourwallet.yourname -p x,stats
-</pre>
 <h3><span class="mw-headline" id="Elitehash_PPS_Pools">Elitehash PPS Pools</span></h3>
 <p><b>EU Stratum:</b>
 </p><p><a rel="nofollow" class="external free" href="http://rvn-eu1.elitehash.net/">http://rvn-eu1.elitehash.net/</a>
@@ -172,6 +176,17 @@ Remember you need to make a user first and supply a password.
 <p><b>Asia</b>
 </p>
 <pre>-a x16r -o stratum+tcp://asia.evocation.network:5000 -u you_rvn_address -p x
+</pre>
+<h3><span class="mw-headline" id="RavenCoin.World">RavenCoin.World</span></h3>
+<p><a rel="nofollow" class="external free" href="https://newpool.ravencoin.world/">https://newpool.ravencoin.world/</a> - Pool fee is 1% , 0.5% is block reward for block finder, 0.5% is to support Ravencoin.World  Explorer and other applications development.
+</p>
+<pre>-o stratum+tcp://newstratum.ravencoin.world:3636 -u username.worker -p password
+</pre>
+<h3><span class="mw-headline" id="Coinfoundry">Coinfoundry</span></h3>
+<p><a rel="nofollow" class="external free" href="https://coinfoundry.org/pool/rvn">https://coinfoundry.org/pool/rvn</a>
+</p><p>Global operating pool with servers in US, EU and Asia (Singapore)
+</p>
+<pre>-o stratum+tcp://rvn.coinfoundry.org:3172 -u &lt;WALLET_ADDRESS&gt; [-p &lt;OPTIONS&gt;]
 </pre>
 <h2><span class="mw-headline" id="US"><b>US</b></span></h2>
 <h3><span class="mw-headline" id="Cryptopool.Party">Cryptopool.Party</span></h3>
@@ -221,15 +236,6 @@ Remember you need to make a user first and supply a password.
 </pre>
 <p><br />
 </p>
-<h3><span class="mw-headline" id="Seems-Legit.com">Seems-Legit.com</span></h3>
-<p><a rel="nofollow" class="external text" href="http://pool.seems-legit.com/">http://pool.seems-legit.com/ </a>
-</p>
-<pre>sgminer.exe -k x16r -o stratum+tcp://rvn.seems-legit.com:3032 -u (rvn.wallet).(worker) -p x
-</pre>
-<pre>ccminer.exe -a x16r -o stratum+tcp://rvn.seems-legit.com:3032 -u (rvn.wallet).(worker) -p x
-</pre>
-<p><br />
-</p>
 <h3><span class="mw-headline" id="Starpool.fun">Starpool.fun</span></h3>
 <p><a rel="nofollow" class="external free" href="http://starpool.fun/">http://starpool.fun/</a>
 </p>
@@ -244,10 +250,10 @@ Remember you need to make a user first and supply a password.
 </pre>
 <p><br />
 </p>
-<h3><span class="mw-headline" id="MinerMore.com">MinerMore.com</span></h3>
-<p><a rel="nofollow" class="external free" href="https://minermore.com">https://minermore.com</a>
+<h3><span class="mw-headline" id="gpuhash.org">gpuhash.org</span></h3>
+<p><a rel="nofollow" class="external free" href="http://gpuhash.org/">http://gpuhash.org/</a>
 </p>
-<pre>-o stratum+tcp://us1.minermore.com:3636 -u &lt;WALLET_ADDRESS&gt; -p c=RVN
+<pre>-o stratum+tcp://gpuhash.org:3636&gt; -u &lt;WALLET_ADDRESS&gt; -p c=RVN
 </pre>
 <h2><span class="mw-headline" id="EU"><b>EU</b></span></h2>
 <h3><span class="mw-headline" id="YiiMP.eu">YiiMP.eu</span></h3>
@@ -282,11 +288,11 @@ please supply:
 
 <!-- 
 NewPP limit report
-Cached time: 20180831100357
+Cached time: 20181110225253
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 0.020 seconds
-Real time usage: 0.027 seconds
+CPU time usage: 0.032 seconds
+Real time usage: 0.033 seconds
 Preprocessor visited node count: 115/1000000
 Preprocessor generated node count: 168/1000000
 Post‐expand include size: 26/2097152 bytes
@@ -299,10 +305,10 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:5-0!canonical and timestamp 20180831100357 and revision id 1254
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:5-0!canonical and timestamp 20181110225253 and revision id 1588
  -->
 </div>					<div class="printfooter">
-						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Pools&amp;oldid=1254">https://raven.wiki/w/index.php?title=Pools&amp;oldid=1254</a>’					</div>
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Pools&amp;oldid=1588">https://raven.wiki/w/index.php?title=Pools&amp;oldid=1588</a>’					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -370,7 +376,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Assets"><a href="/wiki/Assets">Assets</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Electrum-.26-Ledger"><a href="/wiki/Electrum">Electrum &amp; Ledger</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Explorers"><a href="https://raven.wiki/wiki/Tools#Explorers" rel="nofollow">Explorers</a></li><li id="n-Exchanges"><a href="/wiki/Exchange">Exchanges</a></li><li id="n-Raven-Raspberry-node"><a href="/wiki/RaspberryPi">Raven Raspberry node</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
@@ -394,14 +400,14 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pools" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pools" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Pools&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Pools&amp;oldid=1254" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pools&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pools" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pools" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Pools&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Pools&amp;oldid=1588" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pools&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 30 July 2018, at 16:29.</li>
+											<li id="footer-info-lastmod"> This page was last modified on 31 October 2018, at 23:14.</li>
 									</ul>
 							<ul id="footer-places">
 											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
@@ -415,6 +421,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.020","walltime":"0.027","ppvisitednodes":{"value":115,"limit":1000000},"ppgeneratednodes":{"value":168,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180831100357","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":270});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.032","walltime":"0.033","ppvisitednodes":{"value":115,"limit":1000000},"ppgeneratednodes":{"value":168,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181110225253","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":234});});</script>
 	</body>
 </html>

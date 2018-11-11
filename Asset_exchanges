@@ -2,9 +2,9 @@
 <html class="client-nojs" lang="en-GB" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Testnet-technical - Ravencoin Wiki</title>
+<title>Asset exchanges - Ravencoin Wiki</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Testnet-technical","wgTitle":"Testnet-technical","wgCurRevisionId":1275,"wgRevisionId":1275,"wgArticleId":72,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Testnet-technical","wgRelevantArticleId":72,"wgRequestId":"W@hX1VKlU1sAAFCBKxQAAAAV","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Asset_exchanges","wgTitle":"Asset exchanges","wgCurRevisionId":1660,"wgRevisionId":1660,"wgArticleId":81,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Asset_exchanges","wgRelevantArticleId":81,"wgRequestId":"W@hXwFKlU1sAADqXlwAAAAAH","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -19,97 +19,73 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <link rel="alternate" type="application/atom+xml" title="Ravencoin Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
 <!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Testnet-technical rootpage-Testnet-technical skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Asset_exchanges rootpage-Asset_exchanges skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
 		<div id="mw-head-base" class="noprint"></div>
 		<div id="content" class="mw-body" role="main">
 			<a id="top"></a>
 
 						<div class="mw-indicators mw-body-content">
 </div>
-			<h1 id="firstHeading" class="firstHeading" lang="en-GB">Testnet-technical</h1>
+			<h1 id="firstHeading" class="firstHeading" lang="en-GB">Asset exchanges</h1>
 									<div id="bodyContent" class="mw-body-content">
 									<div id="siteSub" class="noprint">From Ravencoin Wiki</div>
 								<div id="contentSub"></div>
 												<div id="jump-to-nav" class="mw-jump">
 					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
 				</div>
-				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><h2><span class="mw-headline" id="Anatomy_of_a_Ravencoin_Asset_transaction_Script">Anatomy of a Ravencoin Asset transaction Script</span></h2>
-<p>EXAMPLE HEX:c03872766e7105544553545900743ba40b00000008010122122086d85921a971bab5d727bca0feb2a3f1336c4c5bf0453cc4c0104984c8cecfeb75
-</p><p>EXAMPLE ASM:OP_RVN_ASSET 72766e 71 05 5445535459 00743ba40b000000 08 01 01 22 122086d85921a971bab5d727bca0feb2a3f1336c4c5bf0453cc4c0104984c8cecfeb OP_DROP  
+				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b> None of these sites have been truly tested, all very new....DYOR, be careful with your crypto...all the usual warnings.</b>
 </p>
+<h2><span class="mw-headline" id="Exchanges_listing_Ravencoin_blockchain_based_assets">Exchanges listing Ravencoin blockchain based assets</span></h2>
 <table class="wikitable">
 <tr>
-<th style="text-align:left;"> Description
+<th> Asset Exchange
 </th>
-<th style="text-align:left;"> Value
+<th> Owner (if known)
 </th></tr>
 <tr>
-<td>OP_RVN_ASSET </td>
-<td> c0
+<td> <a rel="nofollow" class="external free" href="https://ravencoinasset.exchange/">https://ravencoinasset.exchange/</a>
+</td>
+<td>
 </td></tr>
 <tr>
-<td>Bytelength of script(1 byte) </td>
-<td> 38
+<td> <a rel="nofollow" class="external free" href="http://ravenbid.com/">http://ravenbid.com/</a>
+</td>
+<td> goodbyecrypto#9118
 </td></tr>
 <tr>
-<td>Asset_type Header(rvn) </td>
-<td> 72766e
-</td></tr>
-<tr>
-<td>Asset_type (transfer(t)=74 or new(q)=71 or owner(o)=6f or reissue(r) =72) </td>
-<td> 74
-</td></tr>
-<tr>
-<td>Bytelength of Asset_Name(1 byte) </td>
-<td> 05
-</td></tr>
-<tr>
-<td>Asset_Name (up to 31 bytes: 30 for normal, 31 for ownership) </td>
-<td> 5445535459
-</td></tr>
-<tr>
-<td>8 Bytes of Little Endian hex: Amount of assets in satoshis </td>
-<td> 00743ba40b000000
-</td></tr>
-<tr>
-<td>Divisible by (1 byte) range(01..08) </td>
-<td> 08
-</td></tr>
-<tr>
-<td>is reissueable (1 byte) (01 yes: 00 no) </td>
-<td> 01
-</td></tr>
-<tr>
-<td>has ipfs (1 byte) (01 yes: 00 no) </td>
-<td> 01
-</td></tr>
-<tr>
-<td>ipfs Bytelength (1 byte) </td>
-<td> 22
-</td></tr>
-<tr>
-<td>IPFS hash decoded from base58 to hex </td>
-<td> 122086d85921a971bab5d727bca0feb2a3f1336c4c5bf0453cc4c0104984c8cecfeb
-</td></tr>
-<tr>
-<td>OP_DROP </td>
-<td> 75
+<td> <a rel="nofollow" class="external free" href="http://www.ravencoinassets.org/marketplace/market/">http://www.ravencoinassets.org/marketplace/market/</a>
+</td>
+<td>
 </td></tr></table>
 <p><br />
-So in this example we have an OP_RVN_ASSET with a total bytelength of 38 bytes, with a transaction type rvn<b>t</b> (asset transfer).
-</p><p>The Bytelength of the Asset_Name is 5 and the Asset_Name is TESTY. The amount of the transaction is 500.  
-</p><p>The Asset is divisible by up to 8 units(decimal places), and the Asset is marked as reissuable.  
-</p><p>The Asset has an IPFS hash, of 34 bytes in length, and the base58 encoded hash is QmXR2gRJnYHFaYvSCKEy6mPeJAsTN8ab7AvGZeNRbycnXL.
 </p>
+<h2><span class="mw-headline" id="Potentially_looking_at_listing_Ravencoin_based_assets">Potentially looking at listing Ravencoin based assets</span></h2>
+<table class="wikitable">
+<tr>
+<th> Asset Exchange
+</th>
+<th> Reason
+</th></tr>
+<tr>
+<td> <a rel="nofollow" class="external free" href="https://swiftex.co/">https://swiftex.co/</a>
+</td>
+<td> <a rel="nofollow" class="external free" href="https://twitter.com/SwiftexExchange/status/1056224390826876928?s=19">https://twitter.com/SwiftexExchange/status/1056224390826876928?s=19</a>
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external free" href="https://moondex.org/">https://moondex.org/</a>
+</td>
+<td> twitter mention - need link
+</td></tr></table>
+
 <!-- 
 NewPP limit report
-Cached time: 20181111115923
+Cached time: 20181111160829
 Cache expiry: 86400
 Dynamic content: false
 CPU time usage: 0.008 seconds
-Real time usage: 0.017 seconds
-Preprocessor visited node count: 2/1000000
-Preprocessor generated node count: 8/1000000
+Real time usage: 0.009 seconds
+Preprocessor visited node count: 7/1000000
+Preprocessor generated node count: 12/1000000
 Post‐expand include size: 0/2097152 bytes
 Template argument size: 0/2097152 bytes
 Highest expansion depth: 2/40
@@ -120,10 +96,10 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:72-0!canonical and timestamp 20181111115923 and revision id 1275
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:81-0!canonical and timestamp 20181111160829 and revision id 1660
  -->
 </div>					<div class="printfooter">
-						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Testnet-technical&amp;oldid=1275">https://raven.wiki/w/index.php?title=Testnet-technical&amp;oldid=1275</a>’					</div>
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Asset_exchanges&amp;oldid=1660">https://raven.wiki/w/index.php?title=Asset_exchanges&amp;oldid=1660</a>’					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -134,14 +110,14 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Testnet-technical" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Testnet-technical" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Asset+exchanges" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Asset+exchanges" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Testnet-technical" title="View the content page [c]" accesskey="c">Page</a></span></li>
-							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Testnet-technical&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Asset_exchanges" title="View the content page [c]" accesskey="c">Page</a></span></li>
+							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Asset_exchanges&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
 						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
@@ -159,9 +135,9 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-														<li id="ca-view" class="selected"><span><a href="/wiki/Testnet-technical">Read</a></span></li>
-							<li id="ca-viewsource"><span><a href="/w/index.php?title=Testnet-technical&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
-							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Testnet-technical&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Asset_exchanges">Read</a></span></li>
+							<li id="ca-viewsource"><span><a href="/w/index.php?title=Asset_exchanges&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Asset_exchanges&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
 						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
@@ -215,20 +191,20 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Testnet-technical" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Testnet-technical" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Testnet-technical&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Testnet-technical&amp;oldid=1275" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Testnet-technical&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Asset_exchanges" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Asset_exchanges" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Asset_exchanges&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Asset_exchanges&amp;oldid=1660" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Asset_exchanges&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 4 August 2018, at 21:02.</li>
+											<li id="footer-info-lastmod"> This page was last modified on 11 November 2018, at 17:08.</li>
 									</ul>
 							<ul id="footer-places">
 											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
 											<li id="footer-places-about"><a href="/wiki/Ravencoin_Wiki:About" title="Ravencoin Wiki:About">About Ravencoin Wiki</a></li>
 											<li id="footer-places-disclaimer"><a href="/wiki/Ravencoin_Wiki:General_disclaimer" title="Ravencoin Wiki:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=Testnet-technical&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=Asset_exchanges&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 									</ul>
 										<ul id="footer-icons" class="noprint">
 											<li id="footer-poweredbyico">
@@ -236,6 +212,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.008","walltime":"0.017","ppvisitednodes":{"value":2,"limit":1000000},"ppgeneratednodes":{"value":8,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181111115923","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":393});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.008","walltime":"0.009","ppvisitednodes":{"value":7,"limit":1000000},"ppgeneratednodes":{"value":12,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181111160829","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":472});});</script>
 	</body>
 </html>

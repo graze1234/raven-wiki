@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Ravencoin Wiki: Code</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Development","wgTitle":"Development","wgCurRevisionId":1329,"wgRevisionId":1329,"wgArticleId":60,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Development","wgRelevantArticleId":60,"wgRequestId":"W4ou59TjckkAABfuQecAAABg","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Development","wgTitle":"Development","wgCurRevisionId":1602,"wgRevisionId":1602,"wgArticleId":60,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Development","wgRelevantArticleId":60,"wgRequestId":"W@hXxVKlU1sAADqXlwQAAAAH","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -46,107 +46,157 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 				</div>
 				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output">
 <p>This section of the wiki aims to help document the development work done related to the Ravencoin network.
+</p><p>Future dev chats will be available on discord - #irc-ravencoin-dev
+</p><p>Historic dev chats on IRC, now moved to Discord.
 </p><p>Open weekly or fortnightly dev chat on IRC check <a rel="nofollow" class="external free" href="https://www.ravencointalk.org/post/ravencoin-open-developer-meeting-9816968?pid=1305079154">https://www.ravencointalk.org/post/ravencoin-open-developer-meeting-9816968?pid=1305079154</a>
 </p><p>IRC: <a rel="nofollow" class="external free" href="https://webchat.freenode.net/?channels=ravencoin-dev">https://webchat.freenode.net/?channels=ravencoin-dev</a>
 </p><p>Archive of the conversation on the 10th Aug 2018 on Reddit <a rel="nofollow" class="external free" href="https://www.reddit.com/r/Ravencoin/comments/96at36/irc_log_from_ravencoin_open_developer_meeting_aug/">https://www.reddit.com/r/Ravencoin/comments/96at36/irc_log_from_ravencoin_open_developer_meeting_aug/</a>
-</p><p>Looks like future dev chats will be available on discord.
+</p><p><br />
 </p>
 <div id="toc" class="toc"><div class="toctitle"><h2>Contents</h2></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Core_Code"><span class="tocnumber">1</span> <span class="toctext">Core Code</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#Ravencoin_platform_development"><span class="tocnumber">1</span> <span class="toctext">Ravencoin platform development</span></a>
 <ul>
-<li class="toclevel-2 tocsection-2"><a href="#Phase_1"><span class="tocnumber">1.1</span> <span class="toctext">Phase 1</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#Phase_2_-_Assets"><span class="tocnumber">1.2</span> <span class="toctext">Phase 2 - Assets</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Phase_3"><span class="tocnumber">1.3</span> <span class="toctext">Phase 3</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#Phase_4"><span class="tocnumber">1.4</span> <span class="toctext">Phase 4</span></a></li>
-<li class="toclevel-2 tocsection-6"><a href="#Phase_5"><span class="tocnumber">1.5</span> <span class="toctext">Phase 5</span></a></li>
-<li class="toclevel-2 tocsection-7"><a href="#Phase_6"><span class="tocnumber">1.6</span> <span class="toctext">Phase 6</span></a></li>
-<li class="toclevel-2 tocsection-8"><a href="#Appendix"><span class="tocnumber">1.7</span> <span class="toctext">Appendix</span></a></li>
+<li class="toclevel-2 tocsection-2"><a href="#Phase_1_-_Ravencoin_launch_.26_mining_algorithm"><span class="tocnumber">1.1</span> <span class="toctext">Phase 1 - Ravencoin launch &amp; mining algorithm</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Phase_2.264_-_Assets.2C_Subassets_.26_Unique_assets"><span class="tocnumber">1.2</span> <span class="toctext">Phase 2&amp;4 - Assets, Subassets &amp; Unique assets</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Asset_info_for_Main_Net"><span class="tocnumber">1.2.1</span> <span class="toctext">Asset info for Main Net</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Global_burn_address"><span class="tocnumber">1.2.2</span> <span class="toctext">Global burn address</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-9"><a href="#Community_Projects"><span class="tocnumber">2</span> <span class="toctext">Community Projects</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Phase_3_-_Dividends.2FRewards"><span class="tocnumber">1.3</span> <span class="toctext">Phase 3 - Dividends/Rewards</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Phase_5_-_Messaging"><span class="tocnumber">1.4</span> <span class="toctext">Phase 5 - Messaging</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Phase_6_-_Voting"><span class="tocnumber">1.5</span> <span class="toctext">Phase 6 - Voting</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Phase_7_-_Compatible_Mode"><span class="tocnumber">1.6</span> <span class="toctext">Phase 7 - Compatible Mode</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Using_the_Ravencoin_platform"><span class="tocnumber">2</span> <span class="toctext">Using the Ravencoin platform</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Asset_control"><span class="tocnumber">2.1</span> <span class="toctext">Asset control</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#IPFS_-_InterPlanetary_File_System"><span class="tocnumber">2.2</span> <span class="toctext">IPFS - InterPlanetary File System</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Other_documentation"><span class="tocnumber">2.3</span> <span class="toctext">Other documentation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Community_Projects"><span class="tocnumber">3</span> <span class="toctext">Community Projects</span></a></li>
 </ul>
 </div>
 
-<h1><span class="mw-headline" id="Core_Code">Core Code</span></h1>
-<p>Currently organized into the phases of <a rel="nofollow" class="external text" href="https://github.com/RavenProject/Ravencoin/tree/master/roadmap">the roadmap</a> - this structure will probably change as the project matures.
+<h1><span class="mw-headline" id="Ravencoin_platform_development">Ravencoin platform development</span></h1>
+<p>Currently organized and based on Tron his talk at the Ravencoin NH meetup (October 11, 2018): <a rel="nofollow" class="external autonumber" href="https://docs.google.com/presentation/d/1hMavh6kYHXBatv-36RCOWeyziypA2CRWoXNk6GDjQy8/edit#slide=id.p">[1]</a>
 </p>
-<h2><span class="mw-headline" id="Phase_1">Phase 1</span></h2>
+<h2><span class="mw-headline" id="Phase_1_-_Ravencoin_launch_.26_mining_algorithm">Phase 1 - Ravencoin launch &amp; mining algorithm</span></h2>
 <p>In addition to the X16R algorithm, most of the core code changes are in <a rel="nofollow" class="external text" href="https://github.com/RavenProject/Ravencoin/blob/master/src/chainparams.cpp">the chainparams</a> file. 
 </p><p>The details are broken down on the wiki page: <b><a href="/wiki/Chainparams" title="Chainparams">Chainparams</a></b>.
 </p><p>If you are looking to port existing Bitcoin applications to include Ravencoin - there are some useful parameters available from work done in the <a rel="nofollow" class="external text" href="https://github.com/brian112358/ledger-wallet-chrome/commit/303f5030059c805d808c83466275e078d06afbb5">Ledger integration code on GitHub</a>.
-</p><p>Summarised on the wiki page: <b><a href="/wiki/Ledger_integration" title="Ledger integration">Ledger integration</a></b>
+</p><p>Summarized on the wiki page: <b><a href="/wiki/Ledger_integration" title="Ledger integration">Ledger integration</a></b>
 </p><p>If you are looking for typical parameters needed for wallet integration - there is a summary on the <b><a href="/wiki/Wallet_integration" title="Wallet integration">Wallet integration</a></b> page.
 </p><p>It's worth mentioning, whilst we all try to keep these pages up to date, the RavenProject code on GitHub could change and these pages could become out of sync. Please validate on <a rel="nofollow" class="external free" href="https://github.com/RavenProject/Ravencoin">https://github.com/RavenProject/Ravencoin</a>.
 </p>
-<h2><span class="mw-headline" id="Phase_2_-_Assets">Phase 2 - Assets</span></h2>
+<h2><span class="mw-headline" id="Phase_2.264_-_Assets.2C_Subassets_.26_Unique_assets">Phase 2&amp;4 - Assets, Subassets &amp; Unique assets</span></h2>
 <p>Asset testnet live. Check <a href="/wiki/Testnet" title="Testnet">testnet</a> for more details, and <a href="/wiki/Testnet-technical" title="Testnet-technical">Testnet-technical</a> for details about the anatomy of a Ravencoin asset transaction script.
 </p><p>Asset FAQ written by Tron on Medium <a rel="nofollow" class="external free" href="https://medium.com/@tronblack/ravencoin-asset-faq-e0d04d460e9b">https://medium.com/@tronblack/ravencoin-asset-faq-e0d04d460e9b</a>
 </p><p>(20 Aug 2018) In addition to asset functionality being on available to test on testnet - Ravencoin is forking to include Dark Gravity Wave to protect itself against hash rate attacks - exchanges and mining pools need to upgrade as soon as possible to the latest wallet release, users as soon as they want to use their coins. <a href="/wiki/Forks_and_updates" title="Forks and updates">Forks_and_updates</a>
 </p>
-<h2><span class="mw-headline" id="Phase_3">Phase 3</span></h2>
-<p>Rewards
+<h3><span class="mw-headline" id="Asset_info_for_Main_Net">Asset info for Main Net</span></h3>
+<p>Assets (cost 500 RVN):
 </p>
-<h2><span class="mw-headline" id="Phase_4">Phase 4</span></h2>
-<p>Unique assets
+<ul><li> Burn address: <a rel="nofollow" class="external free" href="https://ravencoin.network/address/RXissueAssetXXXXXXXXXXXXXXXXXhhZGt">https://ravencoin.network/address/RXissueAssetXXXXXXXXXXXXXXXXXhhZGt</a></li>
+<li> Token name - Must be unique</li>
+<li> Number of tokens - From 1 to 21 billion</li>
+<li> How divisible? - From not divisible to 8 decimal places (0.00000001)</li>
+<li> Reissuable (yes/no)</li>
+<li> Include meta-data (agreement, company, contact, etc)</li></ul>
+<p>Subassets (cost 100 RVN):
 </p>
-<h2><span class="mw-headline" id="Phase_5">Phase 5</span></h2>
-<p>Messaging
+<ul><li> Burn address: <a rel="nofollow" class="external free" href="https://ravencoin.network/address/RXissueSubAssetXXXXXXXXXXXXXWcwhwL">https://ravencoin.network/address/RXissueSubAssetXXXXXXXXXXXXXWcwhwL</a></li>
+<li> Token name - Must be unique when combined with token</li>
+<li> Number of tokens - From 1 to 21 billion</li>
+<li> How divisible? - From not divisible to 8 decimal places (0.00000001)</li>
+<li> Reissuable (yes/no)</li></ul>
+<p>Unique Assets (cost 5 RVN) - create one-of-a-kind assets:
 </p>
-<h2><span class="mw-headline" id="Phase_6">Phase 6</span></h2>
-<p>Voting
-</p><p><br />
+<ul><li> Burn address: <a rel="nofollow" class="external free" href="https://ravencoin.network/address/RXissueUniqueAssetXXXXXXXXXXWEAe58">https://ravencoin.network/address/RXissueUniqueAssetXXXXXXXXXXWEAe58</a></li>
+<li> ART#VenusDeMilo</li>
+<li> CAR#&lt;VIN number&gt;</li>
+<li> COOLGAME#SwordOfThor</li></ul>
+<p>Reissuing an Asset (cost 100 RVN):
 </p>
-<h2><span class="mw-headline" id="Appendix">Appendix</span></h2>
-<p>From the roadmap document - RPC commands for working with assets:
+<ul><li> Burn address: <a rel="nofollow" class="external free" href="https://ravencoin.network/address/RXReissueAssetXXXXXXXXXXXXXXVEFAWu">https://ravencoin.network/address/RXReissueAssetXXXXXXXXXXXXXXVEFAWu</a></li>
+<li> Reissuing an asset lets you issue more, change decimal places, change ipfs hash, and/or change reissuability.</li></ul>
+<h3><span class="mw-headline" id="Global_burn_address">Global burn address</span></h3>
+<p>If you want to get rid of for example assets you do not want. You can send them to a global burn address:
+</p><p><a rel="nofollow" class="external free" href="https://ravencoin.network/address/RXBurnXXXXXXXXXXXXXXXXXXXXXXWUo9FV">https://ravencoin.network/address/RXBurnXXXXXXXXXXXXXXXXXXXXXXWUo9FV</a>
 </p>
-<pre>issue(to_address, asset_name, qty, units=1, reissuable=false)
+<h2><span class="mw-headline" id="Phase_3_-_Dividends.2FRewards">Phase 3 - Dividends/Rewards</span></h2>
+<p>Pay your token holders in RVN. Turn your profits into RVN and send out to all holders of your token by percentage held.
+</p><p>Dividend support can be done without modifying the protocol. We can add it to a version of the software that can be used by the payer, without requiring others to upgrade (i.e., a soft fork).
+</p><p>If you require this functionality ask in #dev channel on discord as there is a python script to get owners of assets, and someone could write code to loop through owners paying to their address.
+</p>
+<h2><span class="mw-headline" id="Phase_5_-_Messaging">Phase 5 - Messaging</span></h2>
+<p>Broadcast a message to all of your token holders.
+</p>
+<ul><li> Send information about your token.</li>
+<li> Send alerts relevant to your project.</li>
+<li> Send information about a shareholder vote.</li>
+<li> Use Raven messaging for other systems.</li></ul>
+<h2><span class="mw-headline" id="Phase_6_-_Voting">Phase 6 - Voting</span></h2>
+<p>Issue a special vote token to every holder of your token.
+</p>
+<ul><li> Send to &lt;address X&gt; to vote for X proposal</li>
+<li> Send to &lt;address Y&gt; to vote for Y proposal</li></ul>
+<p>Second tier web voting can be built on top of this protocol.
+</p>
+<h2><span class="mw-headline" id="Phase_7_-_Compatible_Mode">Phase 7 - Compatible Mode</span></h2>
+<p>Allows newly created assets to appear exactly like RVN, LTC, or Bitcoin for easy integration into exchanges, wallets, explorers, etc.
+This speeds adoption into the larger crypto ecosystem.
+</p>
+<h1><span class="mw-headline" id="Using_the_Ravencoin_platform">Using the Ravencoin platform</span></h1>
+<p><i> Current commands are as of Oct 13th, 2018. Be sure to check the QT wallet on github for up to date commands </i>
+</p>
+<h2><span class="mw-headline" id="Asset_control">Asset control</span></h2>
+<pre>issue (asset_name, qty, to_address, change_address, units, reissuable, has_ipfs, ipfs_hash)
 </pre>
 <p>Issue an asset with unique name. Unit as 1 for whole units, or 0.00000001 for satoshi-like units. Qty should be whole number. Reissuable is true/false for whether additional units can be issued by the original issuer.
 </p>
-<pre>issuefrom(from_address, to_address, qty, units, units=1, reissuable=false)
-</pre>
-<p>Issue an asset with unique name from a specific address -- allows control of which address/private_key is used to issue the asset. Unit as 1 for whole units, or 0.00000001 for satoshi-like units. Qty should be whole number. Reissuable is true/false for whether additional units can be issued by the original issuer.
-</p>
-<pre>issuemore(to_address, asset_name, qty)
-</pre>
-<p>Issue more of a specific asset. This is only allowed by the original issuer of the asset and if the reissuable flag was set to true at the time of original issuance.
-</p>
-<pre>makeuniqueasset(address, asset_name, unique_id)
+<pre>issueunique (root_name, asset_tags, ipfs_hash, to_address, change_address)
 </pre>
 <p>Creates a unique asset from a pool of assets with a specific name. Example: If the asset name is SOFTLICENSE, then this could make unique assets like SOFTLICENSE:38293 and SOFTLICENSE:48382 This would be called once per unique asset needed.
 </p>
-<pre>listassets(assets=*, verbose=false, count=MAX, start=0)
+<pre>reissue (reissue asset_name, qty, to_address, change_address, reissuable, new_unit, new_ipfs )
 </pre>
-<p>This lists assets that have already been created. It does not distinguish unique assets.
+<p>Issue more of a specific asset. This is only allowed by the original issuer of the asset and if the reissuable flag was set to true at the time of original issuance.
 </p>
-<pre>listuniqueassets(asset)
-</pre>
-<p>This lists the assets that have been made unique, and the address that owns the asset.
-</p>
-<pre>sendasset(to_address, asset, amount)
+<pre>transfer (asset_name, qty, to_address)
 </pre>
 <p>This sends assets from one asset holder to another.
 </p>
-<pre>sendassetfrom(from_address, to_address, asset, amount)
+<pre>listassets (assets, verbose, count, start)
 </pre>
-<p>This sends asset from one asset holder to another, but allows specifying which address to send from, so that if a wallet that has multiple addresses holding a given asset, the send can disambiguate the address from which to send.
+<p>This lists assets that have already been created.
 </p>
-<pre>getassettransaction(asset, txid)
+<pre>listmyassets ( asset, verbose, count, start ) 
 </pre>
-<p>This returns details for a specific asset transaction.
+<p>Lists your assets.
 </p>
-<pre>listassettransactions(asset, verbose=false, count=100, start=0)
+<pre>listassetbalancesbyaddress (address) 
 </pre>
-<p>This returns a list of transactions for a given asset.
+<p>Lists asset balance by address.
 </p>
-<pre>reward(from_address, asset, amount, except=[])
+<pre>listaddressesbyasset (asset_name) 
 </pre>
-<p>Sends RVN to holders of the the specified asset. The Raven is split pro-rata to holders of the asset. Any remainder that cannot be evenly divided to the satoshi (1/100,000,000 RVN) level will be added to the mining fee. ​except​ is a list of addresses to exclude from the distribution - used so that you could exclude treasury shares that do not participate in the reward.
+<p>Lists addresses by asset.
 </p>
-<pre>send_asset(from_address, from_asset, to_asset, amount, except=[])
+<pre>getassetdata (asset_name) 
 </pre>
-<p>Sends an asset to holders of the the specified to_asset. This can be used to send a voting token to holders of an asset. Combined with a messaging protocol explaining the vote, it could act as a distributed voting system.
+<p>Lists asset data of an asset.
+</p>
+<h2><span class="mw-headline" id="IPFS_-_InterPlanetary_File_System">IPFS - InterPlanetary File System</span></h2>
+<p>You can add a document to an asset for any purpose. Such as instructions, a low-res image of a piece of art that is represented by the token, your website, etc. 
+</p><p>Currently, there is not (yet) IPFS support directly in the Raven wallet. However, you can upload content to e.g., <a rel="nofollow" class="external free" href="https://globalupload.io/">https://globalupload.io/</a> and add the hash of the content to the asset that you are creating. 
+</p>
+<h2><span class="mw-headline" id="Other_documentation">Other documentation</span></h2>
+<p>Atomic swaps: <a rel="nofollow" class="external free" href="https://github.com/RavenProject/Ravencoin/blob/master/doc/atomicswaps.md">https://github.com/RavenProject/Ravencoin/blob/master/doc/atomicswaps.md</a>
+</p><p>Issue assets in bulk: <a rel="nofollow" class="external free" href="https://github.com/RavenProject/Ravencoin/tree/master/assets/tools">https://github.com/RavenProject/Ravencoin/tree/master/assets/tools</a>
 </p>
 <h1><span class="mw-headline" id="Community_Projects">Community Projects</span></h1>
 <p><a rel="nofollow" class="external text" href="https://github.com/brian112358/rvnnodes">Brianmct RavenNodes - forked from Bitnodes</a> - project to show all the active Ravencoin nodes
@@ -155,13 +205,13 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20180831085833
+Cached time: 20181111081222
 Cache expiry: 86400
 Dynamic content: false
 CPU time usage: 0.016 seconds
-Real time usage: 0.017 seconds
-Preprocessor visited node count: 43/1000000
-Preprocessor generated node count: 96/1000000
+Real time usage: 0.019 seconds
+Preprocessor visited node count: 63/1000000
+Preprocessor generated node count: 116/1000000
 Post‐expand include size: 26/2097152 bytes
 Template argument size: 0/2097152 bytes
 Highest expansion depth: 2/40
@@ -172,10 +222,10 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:60-0!canonical and timestamp 20180831085833 and revision id 1329
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:60-0!canonical and timestamp 20181111081222 and revision id 1602
  -->
 </div>					<div class="printfooter">
-						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Development&amp;oldid=1329">https://raven.wiki/w/index.php?title=Development&amp;oldid=1329</a>’					</div>
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Development&amp;oldid=1602">https://raven.wiki/w/index.php?title=Development&amp;oldid=1602</a>’					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -243,7 +293,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Assets"><a href="/wiki/Assets">Assets</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Electrum-.26-Ledger"><a href="/wiki/Electrum">Electrum &amp; Ledger</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Explorers"><a href="https://raven.wiki/wiki/Tools#Explorers" rel="nofollow">Explorers</a></li><li id="n-Exchanges"><a href="/wiki/Exchange">Exchanges</a></li><li id="n-Raven-Raspberry-node"><a href="/wiki/RaspberryPi">Raven Raspberry node</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
@@ -267,14 +317,14 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Development" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Development" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Development&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Development&amp;oldid=1329" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Development&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Development" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Development" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Development&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Development&amp;oldid=1602" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Development&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 20 August 2018, at 20:43.</li>
+											<li id="footer-info-lastmod"> This page was last modified on 7 November 2018, at 03:19.</li>
 									</ul>
 							<ul id="footer-places">
 											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
@@ -288,6 +338,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.016","walltime":"0.017","ppvisitednodes":{"value":43,"limit":1000000},"ppgeneratednodes":{"value":96,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180831085833","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":263});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.016","walltime":"0.019","ppvisitednodes":{"value":63,"limit":1000000},"ppgeneratednodes":{"value":116,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181111081222","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":236});});</script>
 	</body>
 </html>

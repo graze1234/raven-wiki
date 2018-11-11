@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Ravencoin Wiki: Community</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Community","wgTitle":"Community","wgCurRevisionId":1266,"wgRevisionId":1266,"wgArticleId":24,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Community","wgRelevantArticleId":24,"wgRequestId":"W4ou5dTjckkAABe-uAAAAAAz","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Community","wgTitle":"Community","wgCurRevisionId":1589,"wgRevisionId":1589,"wgArticleId":24,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Community","wgRelevantArticleId":24,"wgRequestId":"W@hXxFKlU1sAAEK0BfMAAAAL","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -76,6 +76,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <li class="toclevel-2 tocsection-13"><a href="#FaceBook_groups"><span class="tocnumber">2.6</span> <span class="toctext">FaceBook groups</span></a></li>
 <li class="toclevel-2 tocsection-14"><a href="#Marketing_resources"><span class="tocnumber">2.7</span> <span class="toctext">Marketing resources</span></a></li>
 <li class="toclevel-2 tocsection-15"><a href="#Exchange_liaison"><span class="tocnumber">2.8</span> <span class="toctext">Exchange liaison</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Ravencoin_Music"><span class="tocnumber">2.9</span> <span class="toctext">Ravencoin Music</span></a></li>
 </ul>
 </li>
 </ul>
@@ -175,6 +176,13 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <td> Ravencoin information and blog
 </td>
 <td> Clint#1808
+</td></tr>
+<tr>
+<td> <a rel="nofollow" class="external text" href="http://www.ravencoin.timeline.ovh">Ravencoin Timeline</a>
+</td>
+<td> Ravencoin Timeline
+</td>
+<td> GL29PA (on Telegram)
 </td></tr></table>
 <p><br />
 </p>
@@ -198,6 +206,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <h3><span class="mw-headline" id="International_Ravencoin_websites">International Ravencoin websites</span></h3>
 <p><a rel="nofollow" class="external text" href="http://ravencoin-france.com">Ravencoin-France.com</a>
 </p><p><a rel="nofollow" class="external text" href="http://ravencoin.online">Ravencoin.online</a> - work in progress when added
+</p><p><a rel="nofollow" class="external text" href="http://www.ravencoin.timeline.ovh">Ravencoin Timeline</a> - Ravencoin Timeline - tracking events in the development and growth of Ravencoin.
 </p>
 <h3><span class="mw-headline" id="Twitter">Twitter</span></h3>
 <p>There are several <a href="/wiki/Ravencoin_Twitter" title="Ravencoin Twitter">Ravencoin Twitter</a> accounts worth following includes both core team and community members.
@@ -228,30 +237,37 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </p><p>These were some of the early videos about Ravencoin. There's a significant amount more now. If you'd like to help list them, please register here and get in contact on Disord for write access.
 </p>
 <h3><span class="mw-headline" id="FaceBook_groups">FaceBook groups</span></h3>
-<p><a rel="nofollow" class="external free" href="https://www.facebook.com/groups/557711717954881/about/">https://www.facebook.com/groups/557711717954881/about/</a>
+<p>There are a few facebook groups for Ravencoin including:
+</p><p><a rel="nofollow" class="external free" href="https://www.facebook.com/groups/557711717954881/about/">https://www.facebook.com/groups/557711717954881/about/</a>
 </p><p><a rel="nofollow" class="external free" href="https://www.facebook.com/Ravencoinofficial/">https://www.facebook.com/Ravencoinofficial/</a>
 </p><p><a rel="nofollow" class="external free" href="https://www.facebook.com/groups/573078419736742/">https://www.facebook.com/groups/573078419736742/</a>
-</p><p><br />
+</p><p><a rel="nofollow" class="external free" href="https://www.facebook.com/groups/551322575321016/">https://www.facebook.com/groups/551322575321016/</a>
 </p>
 <h3><span class="mw-headline" id="Marketing_resources">Marketing resources</span></h3>
 <p>The <a href="/wiki/Marketing" title="Marketing">Marketing</a> page contains some community marketing resources.
 </p>
 <h3><span class="mw-headline" id="Exchange_liaison">Exchange liaison</span></h3>
 <p><a href="/wiki/Exchange_FAQ" title="Exchange FAQ">Exchange FAQ</a> for common questions asked by Exchanges.
-</p><p><a href="/wiki/Exchange_How_To" title="Exchange How To">Exchange How To</a> - working page for the group liaising with exchanges.
+</p><p><a href="/wiki/Exchange_How_To" class="mw-redirect" title="Exchange How To">Exchange How To</a> - working page for the group liaising with exchanges.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Ravencoin_Music">Ravencoin Music</span></h3>
+<p><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/X55nFy3ese0" frameborder="0" allowfullscreen></iframe>
+</p><p><br />
+<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/FjpjeruLTo4" frameborder="0" allowfullscreen></iframe>
 </p><p><br />
 </p>
 <pre>If you'd like to help edit here, please <a rel="nofollow" class="external text" href="https://raven.wiki/w/index.php?title=Special:CreateAccount&amp;returnto=RavenCoin+Wiki">register</a> and then chat with mapple#3283 on <a rel="nofollow" class="external text" href="https://discordapp.com/invite/M9hUESq">discord</a>.
 </pre>
 <!-- 
 NewPP limit report
-Cached time: 20180831123555
+Cached time: 20181111064546
 Cache expiry: 86400
 Dynamic content: false
 CPU time usage: 0.024 seconds
-Real time usage: 0.023 seconds
-Preprocessor visited node count: 130/1000000
-Preprocessor generated node count: 260/1000000
+Real time usage: 0.026 seconds
+Preprocessor visited node count: 140/1000000
+Preprocessor generated node count: 304/1000000
 Post‐expand include size: 26/2097152 bytes
 Template argument size: 0/2097152 bytes
 Highest expansion depth: 2/40
@@ -262,10 +278,10 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:24-0!canonical and timestamp 20180831123555 and revision id 1266
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:24-0!canonical and timestamp 20181111064546 and revision id 1589
  -->
 </div>					<div class="printfooter">
-						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Community&amp;oldid=1266">https://raven.wiki/w/index.php?title=Community&amp;oldid=1266</a>’					</div>
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Community&amp;oldid=1589">https://raven.wiki/w/index.php?title=Community&amp;oldid=1589</a>’					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -333,7 +349,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Exchanges"><a href="/wiki/Exchanges">Exchanges</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Assets"><a href="/wiki/Assets">Assets</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Electrum-.26-Ledger"><a href="/wiki/Electrum">Electrum &amp; Ledger</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Explorers"><a href="https://raven.wiki/wiki/Tools#Explorers" rel="nofollow">Explorers</a></li><li id="n-Exchanges"><a href="/wiki/Exchange">Exchanges</a></li><li id="n-Raven-Raspberry-node"><a href="/wiki/RaspberryPi">Raven Raspberry node</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
@@ -357,14 +373,14 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Community" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Community" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Community&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Community&amp;oldid=1266" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Community&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Community" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Community" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Community&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Community&amp;oldid=1589" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Community&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 2 August 2018, at 05:09.</li>
+											<li id="footer-info-lastmod"> This page was last modified on 1 November 2018, at 15:28.</li>
 									</ul>
 							<ul id="footer-places">
 											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
@@ -378,6 +394,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.024","walltime":"0.023","ppvisitednodes":{"value":130,"limit":1000000},"ppgeneratednodes":{"value":260,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20180831123555","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":296});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.024","walltime":"0.026","ppvisitednodes":{"value":140,"limit":1000000},"ppgeneratednodes":{"value":304,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181111064546","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":268});});</script>
 	</body>
 </html>
