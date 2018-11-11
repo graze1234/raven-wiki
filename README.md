@@ -17,9 +17,13 @@ https://raven.wiki/wiki/Community
 
 https://raven.wiki/wiki/Contributing_to_the_wiki
 
+https://raven.wiki/wiki/Development
+
 https://raven.wiki/wiki/Exchange_FAQ
 
 https://raven.wiki/wiki/Exchange_How_To
+
+https://raven.wiki/wiki/Exchange_notifications
 
 https://raven.wiki/wiki/Exchanges
 
@@ -27,7 +31,10 @@ https://raven.wiki/wiki/FAQ
 
 https://raven.wiki/wiki/Fenton_Files:_April_2018_-_June_2018
 
+
 https://raven.wiki/wiki/Fenton_Files:_start_-_March_2018
+
+https://raven.wiki/wiki/Forks_and_updates
 
 https://raven.wiki/wiki/Jaxx_status
 
@@ -49,8 +56,6 @@ https://raven.wiki/wiki/Pools
 
 https://raven.wiki/wiki/RaspberryPi
 
-https://raven.wiki/wiki/Raven_Twitter
-
 https://raven.wiki/wiki/Ravencoin_News_articles
 
 https://raven.wiki/wiki/Ravencoin_Twitter
@@ -62,6 +67,8 @@ https://raven.wiki/wiki/Replacing-a-ledger-with-a-better-one
 https://raven.wiki/wiki/Road_ahead
 
 https://raven.wiki/wiki/Testnet
+
+https://raven.wiki/wiki/Testnet-technical
 
 https://raven.wiki/wiki/Testpage
 
