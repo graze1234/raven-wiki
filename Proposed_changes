@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en-GB" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Proposed changes - Ravencoin Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Proposed_changes","wgTitle":"Proposed changes","wgCurRevisionId":1837,"wgRevisionId":1837,"wgArticleId":83,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Proposed_changes","wgRelevantArticleId":83,"wgRequestId":"XBqfRlKlU1sAAGh2BksAAAAp","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Ravencoin Wiki (en-gb)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://raven.wiki/w/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="Ravencoin Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Proposed_changes rootpage-Proposed_changes skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en-GB">Proposed changes</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Ravencoin Wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><h1><span class="mw-headline" id="Current_Layout">Current Layout</span></h1>
+<ul><li> <del><b>Main page</b>: needs to be less boring and more structured and</del>
+<ul><li> <del>Include the latest news from 'Forks and updates'</del></li>
+<li> <del>NEW: add Companies using RVN: a list showing which companies use the raven network, it gets them some easy publicity, it shows the legitimate use and growth, and we can create transparency and clarity about use cases. I think this should be on the front page as it is a good indicator for adoption.</del></li></ul></li>
+<li> <del><b>Assets</b>: -&gt; Guides</del></li>
+<li> <del><b>Testnet</b>: -&gt; development</del> (mapple) added the majority of the testnet page to development - dropped some of it as I didn't think it was still needed.</li>
+<li> <del><b>Community</b>: needs a big update</del></li>
+<li> <del><b>Development</b>: ok</del></li>
+<li> <del><b>Electrum &amp; ledger</b>: -&gt; Guides</del></li>
+<li> <b>Mining</b>: needs better structure and up to date info</li>
+<li> <del><b>Troubleshoot</b>:  -&gt; FAQ and needs better structure and up to date info <b>This needs to go to wallets and mining</b></del></li>
+<li> <b>FAQ</b>: needs better structure and up to date info</li>
+<li> <del><b>Best practises</b>: -&gt; FAQ <b>This needs to go to wallets and mining</b></del></li>
+<li> <del><b>Tools</b>: title is too vague. People look for specific things, like explorers, miners, wallets. We should focus on those as main pages</del></li>
+<li> <del><b>Explorers</b>: ok</del></li>
+<li> <del><b>Exchanges</b>: ok</del></li>
+<li> <del><b>Raspberry node</b>: Amazing! (i'm biased&#160;;)) -&gt; guides</del></li>
+<li> <del><b>Legal</b>: -&gt; Exchanges - (mapple) I think this can just be removed from main menu - there's already a link to the document in <a rel="nofollow" class="external free" href="https://raven.wiki/wiki/Exchange#Is_Ravencoin_a_security">https://raven.wiki/wiki/Exchange#Is_Ravencoin_a_security</a>.</del> (jeroz) <b>I AGREE. Done&#160;:)</b></li>
+<li> <b>Wallets</b>: needs better structure and up to date info</li>
+<li> <del><b>Marketing</b>: hardly anything in there. -&gt; FAQ</del> (mapple) copied the little bit of content to end of FAQ which still needs work.</li>
+<li> <del><b>Road ahead</b>: outdated -&gt; move the info that is still up to date to development. (mapple) I think just remove from Main menu - it's all fairly dated and available elsewhere jeroz:</del> <b>Agee, its gone</b></li>
+<li> <del><b>Fenton Files</b>: Remove/stop? I think we need to break free from a single individual. Presentations/interviews to 'in the news'. (mapple) Agree - just remove from Main menu - most interesting messages are pinned in discord anyway.</del> jeroz:<b>Agee, its gone</b> </li>
+<li> <del><b>News articles</b>: split articles written about Raven from articles written for Raven: </del>
+<ul><li> <del><b>NEW: In the News</b>: articles and videos from journalists and media etc.</del></li>
+<li> <del><b>NEW: RVN Guides</b>: Articles, youtube vids, etc such as Tron's medium articles and other How To guides.  for the community, and an  personalities who are looking into Raven.</del></li></ul></li>
+<li> <del><b>Forks and updates</b>: -&gt; Latest news should be on the main page. The rest should be available under development.</del> </li>
+<li> <del><b>Use cases</b>: A collection of use cases (More in depth on the companies, Lemonade stands, STOs, Data usage, decentralized web, etc)</del></li></ul>
+<h1><span class="mw-headline" id="Proposed_layout">Proposed layout</span></h1>
+<ul><li> <del><b>Main page</b> (intro + latest news + companies)</del></li>
+<li> <del><b>NEW: Using RVN</b>: (more in depth use cases, this needs new content) <a href="/wiki/Using_Ravencoin" title="Using Ravencoin">Using Ravencoin</a></del></li>
+<li> <del><b>NEW: In the News</b> (articles from outsiders about ravencoin) <a href="/wiki/In_the_News" title="In the News">In the News</a></del></li>
+<li> <del><b>NEW: Guides</b> (Information and guides for Ravencoin) <a href="/wiki/Guides" title="Guides">Guides</a></del></li>
+<li> <del><b>Development</b> (Blockchain updates, Roadmap Phases, etc) <a href="/wiki/Development" title="Development">Development</a></del></li>
+<li> <del><b>Explorers</b> (as current, but a more focused page. It currently links to tools) <a href="/wiki/Explorers" title="Explorers">Explorers</a></del></li>
+<li> <del><b>Exchanges</b> (as current) <a href="/wiki/Exchange" title="Exchange">Exchange</a></del></li>
+<li> <b>Wallets</b> (as current but updated, also use links to the wallet guides on the guides page) <a href="/wiki/Wallets" title="Wallets">Wallets</a></li>
+<li> <b>Mining</b> (as current but updated, also use links to the mining guides on the guides page) <a href="/wiki/Mining" title="Mining">Mining</a></li>
+<li> <del><b>Community</b> (as current but updated) <a href="/wiki/Community" title="Community">Community</a></del></li>
+<li> <b>FAQ</b> <del>(integrate Marketing, and FAQ into an</del> updated <a href="/wiki/FAQ" title="FAQ">FAQ</a>)</li>
+<li> I added <b>Other Tools</b>, as I did not find a good place to put them (jeroz)</li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20181219172741
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.000 seconds
+Real time usage: 0.006 seconds
+Preprocessor visited node count: 6/1000000
+Preprocessor generated node count: 12/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:83-0!canonical and timestamp 20181219172741 and revision id 1837
+ -->
+</div>					<div class="printfooter">
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Proposed_changes&amp;oldid=1837">https://raven.wiki/w/index.php?title=Proposed_changes&amp;oldid=1837</a>’					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Proposed+changes" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Proposed+changes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Proposed_changes" title="View the content page [c]" accesskey="c">Page</a></span></li>
+							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Proposed_changes&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Proposed_changes">Read</a></span></li>
+							<li id="ca-viewsource"><span><a href="/w/index.php?title=Proposed_changes&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Proposed_changes&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Ravencoin Wiki" title="Search Ravencoin Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Ravencoin_Wiki"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Using-Ravencoin"><a href="/wiki/Using_Ravencoin">Using Ravencoin</a></li><li id="n-Ravencoin-Guides"><a href="/wiki/Guides">Ravencoin Guides</a></li><li id="n-In-the-News"><a href="/wiki/In_the_News">In the News</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Exchanges"><a href="/wiki/Exchange">Exchanges</a></li><li id="n-Explorers"><a href="/wiki/Explorers">Explorers</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining-Pools"><a href="/wiki/Pools">Mining Pools</a></li><li id="n-Other-Tools"><a href="/wiki/Tools">Other Tools</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
+			<h3 id='p-Wiki-label'>Wiki</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-Contributing-here"><a href="/wiki/Contributing_to_the_wiki">Contributing here</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Proposed_changes" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Proposed_changes" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Proposed_changes&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Proposed_changes&amp;oldid=1837" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Proposed_changes&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 17 November 2018, at 19:53.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Ravencoin_Wiki:About" title="Ravencoin Wiki:About">About Ravencoin Wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Ravencoin_Wiki:General_disclaimer" title="Ravencoin Wiki:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=Proposed_changes&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.000","walltime":"0.006","ppvisitednodes":{"value":6,"limit":1000000},"ppgeneratednodes":{"value":12,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181219172741","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":251});});</script>
+	</body>
+</html>

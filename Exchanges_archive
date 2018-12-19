@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Ravencoin Wiki: Exchanges</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Exchanges_archive","wgTitle":"Exchanges archive","wgCurRevisionId":1494,"wgRevisionId":1494,"wgArticleId":25,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Exchanges_archive","wgRelevantArticleId":25,"wgRequestId":"W@hXylKlU1sAADKTq6EAAAAD","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Exchanges_archive","wgTitle":"Exchanges archive","wgCurRevisionId":1849,"wgRevisionId":1849,"wgArticleId":25,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Exchanges_archive","wgRelevantArticleId":25,"wgRequestId":"XBqfPFKlU1sAAGhBX5IAAAAk","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -50,9 +50,10 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <div id="toc" class="toc"><div class="toctitle"><h2>Contents</h2></div>
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Exchanges_listing_Ravencoin"><span class="tocnumber">1</span> <span class="toctext">Exchanges listing Ravencoin</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Working_with_Exchanges"><span class="tocnumber">2</span> <span class="toctext">Working with Exchanges</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Price_tracking"><span class="tocnumber">3</span> <span class="toctext">Price tracking</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Other_resources"><span class="tocnumber">4</span> <span class="toctext">Other resources</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Simple_Coin_Conversion_Services"><span class="tocnumber">2</span> <span class="toctext">Simple Coin Conversion Services</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Working_with_Exchanges"><span class="tocnumber">3</span> <span class="toctext">Working with Exchanges</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Price_tracking"><span class="tocnumber">4</span> <span class="toctext">Price tracking</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Other_resources"><span class="tocnumber">5</span> <span class="toctext">Other resources</span></a></li>
 </ul>
 </div>
 
@@ -186,6 +187,22 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </td>
 <td> WARNING POTENTIAL EXIT SCAM
 </td></tr></table>
+<h2><span class="mw-headline" id="Simple_Coin_Conversion_Services">Simple Coin Conversion Services</span></h2>
+<table class="wikitable">
+<tr>
+<th> Service
+</th>
+<th> URL
+</th>
+<th> INFO
+</th></tr>
+<tr>
+<td> Vertpig
+</td>
+<td> <a rel="nofollow" class="external free" href="https://www.vertpig.com/">https://www.vertpig.com/</a>
+</td>
+<td> Vertcoin, Bitcoin, Digibyte, Dogecoin
+</td></tr></table>
 <h2><span class="mw-headline" id="Working_with_Exchanges">Working with Exchanges</span></h2>
 <p><a href="/wiki/Exchange_FAQ" title="Exchange FAQ">Exchange FAQ</a> - answers to common exchange listing questions.
 </p><p><a href="/wiki/Exchange_How_To" class="mw-redirect" title="Exchange How To">Exchange How To</a> - working page for the exchange liaison group.
@@ -202,13 +219,13 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20181111012008
+Cached time: 20181219171545
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 0.024 seconds
-Real time usage: 0.025 seconds
-Preprocessor visited node count: 23/1000000
-Preprocessor generated node count: 76/1000000
+CPU time usage: 0.016 seconds
+Real time usage: 0.016 seconds
+Preprocessor visited node count: 27/1000000
+Preprocessor generated node count: 80/1000000
 Post‐expand include size: 26/2097152 bytes
 Template argument size: 0/2097152 bytes
 Highest expansion depth: 2/40
@@ -219,10 +236,10 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:25-0!canonical and timestamp 20181111012008 and revision id 1494
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:25-0!canonical and timestamp 20181219171545 and revision id 1849
  -->
 </div>					<div class="printfooter">
-						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Exchanges_archive&amp;oldid=1494">https://raven.wiki/w/index.php?title=Exchanges_archive&amp;oldid=1494</a>’					</div>
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Exchanges_archive&amp;oldid=1849">https://raven.wiki/w/index.php?title=Exchanges_archive&amp;oldid=1849</a>’					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -290,15 +307,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Assets"><a href="/wiki/Assets">Assets</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Electrum-.26-Ledger"><a href="/wiki/Electrum">Electrum &amp; Ledger</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Explorers"><a href="https://raven.wiki/wiki/Tools#Explorers" rel="nofollow">Explorers</a></li><li id="n-Exchanges"><a href="/wiki/Exchange">Exchanges</a></li><li id="n-Raven-Raspberry-node"><a href="/wiki/RaspberryPi">Raven Raspberry node</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
-			<h3 id='p-News-label'>News</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-Forks-and-updates"><a href="/wiki/Forks_and_updates">Forks and updates</a></li><li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Using-Ravencoin"><a href="/wiki/Using_Ravencoin">Using Ravencoin</a></li><li id="n-Ravencoin-Guides"><a href="/wiki/Guides">Ravencoin Guides</a></li><li id="n-In-the-News"><a href="/wiki/In_the_News">In the News</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Exchanges"><a href="/wiki/Exchange">Exchanges</a></li><li id="n-Explorers"><a href="/wiki/Explorers">Explorers</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining-Pools"><a href="/wiki/Pools">Mining Pools</a></li><li id="n-Other-Tools"><a href="/wiki/Tools">Other Tools</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
@@ -314,14 +323,14 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Exchanges_archive" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Exchanges_archive" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Exchanges_archive&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Exchanges_archive&amp;oldid=1494" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Exchanges_archive&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Exchanges_archive" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Exchanges_archive" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Exchanges_archive&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Exchanges_archive&amp;oldid=1849" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Exchanges_archive&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 26 October 2018, at 21:00.</li>
+											<li id="footer-info-lastmod"> This page was last modified on 18 November 2018, at 20:30.</li>
 									</ul>
 							<ul id="footer-places">
 											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
@@ -335,6 +344,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.024","walltime":"0.025","ppvisitednodes":{"value":23,"limit":1000000},"ppgeneratednodes":{"value":76,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181111012008","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":299});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.016","walltime":"0.016","ppvisitednodes":{"value":27,"limit":1000000},"ppgeneratednodes":{"value":80,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181219171545","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":463});});</script>
 	</body>
 </html>

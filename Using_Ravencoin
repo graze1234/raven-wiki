@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en-GB" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Using Ravencoin - Ravencoin Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Using_Ravencoin","wgTitle":"Using Ravencoin","wgCurRevisionId":1882,"wgRevisionId":1882,"wgArticleId":87,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Using_Ravencoin","wgRelevantArticleId":87,"wgRequestId":"XBqfUlKlU1sAAGOPdEQAAAAc","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Ravencoin Wiki (en-gb)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://raven.wiki/w/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="Ravencoin Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Using_Ravencoin rootpage-Using_Ravencoin skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en-GB">Using Ravencoin</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Ravencoin Wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="toc" class="toc"><div class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Introduction"><span class="tocnumber">1</span> <span class="toctext">Introduction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#STOs_and_ICOs"><span class="tocnumber">2</span> <span class="toctext">STOs and ICOs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Tokenizing_Securities"><span class="tocnumber">2.1</span> <span class="toctext">Tokenizing Securities</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Coin_offerings"><span class="tocnumber">2.2</span> <span class="toctext">Coin offerings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Tokenizing_Land_Titling"><span class="tocnumber">3</span> <span class="toctext">Tokenizing Land Titling</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Tokenizing_Art"><span class="tocnumber">4</span> <span class="toctext">Tokenizing Art</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Tokenizing_for_Royalties_Management"><span class="tocnumber">5</span> <span class="toctext">Tokenizing for Royalties Management</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#InterPlanetary_File_Transportation_Service_.28IPFS.29"><span class="tocnumber">6</span> <span class="toctext">InterPlanetary File Transportation Service (IPFS)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Adding_files_to_Ravencoin_tokens"><span class="tocnumber">6.1</span> <span class="toctext">Adding files to Ravencoin tokens</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Messaging"><span class="tocnumber">6.2</span> <span class="toctext">Messaging</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Decentralized_Web"><span class="tocnumber">6.3</span> <span class="toctext">Decentralized Web</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Introduction">Introduction</span></h2>
+<p>Blockchain is a technology that has the capacity of keeping immutable records of property ownership that are accessible to millions of users and it has the ability to constantly update as property ownership changes hands. Although this technology is broadly used for currency transactions, it is also a very promising technology for the transaction of assets, such as securities, land titles, art, documents, apps, etc. The Ravencoin platform is well-suited for this purpose because the wallets and asset protocol offer a very easy tool for creating asset tokens. <b>These tokens have no value in themselves. Tokens only have value if there are real-world agreements, enforced through systems like smart contracts, law, whitepapers or other binding documents etc., that show what these token represent.</b> Through such a system, tokens may represent real-world assets. Furthermore, Ravencoin asset tokens are well-suited for initial coin offerings (ICOs) and security token offerings (STOs). 
+</p><p><b>Note</b>: We will add use cases as soon as we see them being developed by the community.
+</p>
+<h2><span class="mw-headline" id="STOs_and_ICOs">STOs and ICOs</span></h2>
+<h3><span class="mw-headline" id="Tokenizing_Securities">Tokenizing Securities</span></h3>
+<p>An important property of Ravencoin is that it is optimized to carry securities as it will allow for messaging share holders, voting, and paying out dividens (implemented in later development phases  in the first half of 2019). Bruce Fenton gave a number of talks and produced a miniseries about why securities should go on a blockchain.
+</p>
+<ul><li> <b><a rel="nofollow" class="external text" href="https://medium.com/@brucefenton/securities-tokens-free-mini-course-video-series-6cca4ad59276">Securities Tokens Video Series</a></b>, Bruce Fenton, Medium, Sep 27th, 2018</li>
+<li> <b><a rel="nofollow" class="external text" href="https://youtu.be/D2WXxgZ8h-0?t=1h48m23s">Global Ledgers: Scaling &amp; Capacity for Legacy Securities Systems in the Age of Atomic Swaps</a></b>, Bruce Fenton, Baltic Honeybadger 2018 Bitcoin conference, Riga, Sep 23, 2018. <a rel="nofollow" class="external text" href="https://threadreaderapp.com/thread/1043833386257854464.html">Slides</a></li>
+<li> <b><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=iWEWSK2FOwE">How cypherpunk ideals can elevate Wall Street in the digital age Part 1</a>, <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=aqslGpQPegk">Part 2</a></b>, Bruce Fenton, June 12th, 2018</li>
+<li> <b><a rel="nofollow" class="external text" href="https://medium.com/@futureblok/security-tokens-how-wall-street-and-blockchain-will-collide-8526634a9230">Security Tokens: How Wall Street and Blockchain Will Collide</a></b>, Futureblok, Medium, May 6th, 2018</li></ul>
+<h3><span class="mw-headline" id="Coin_offerings">Coin offerings</span></h3>
+<p>In addition to STOs, Ravencoin is also suited for ICOs. Although, <a rel="nofollow" class="external text" href="https://www.sec.gov/news/press-release/2018-264">security regulations in the Unites States make it difficult to set up ICOs</a> (also see: <a rel="nofollow" class="external text" href="https://www.sec.gov/news/public-statement/digital-asset-securites-issuuance-and-trading">this Statement on Digital Asset Securities Issuance and Trading</a> and <a rel="nofollow" class="external text" href="https://youtu.be/wFr1ooaVPjY">SEC Chairman Jay Clayton On Cryptocurrencies And Investing</a>), it is still possible in other countries. One company that works in this space is <a rel="nofollow" class="external text" href="https://assure.co/">Assure Services</a>. Assure Services provides administrative and transaction services for the private investment marketplace, such as ICOs. Assure Services issued <a rel="nofollow" class="external text" href="https://assure.co/assure-services-prepares-to-launch-blockchain-based-funds-by-purchasing-700-ravencoin-assets/">700 Ravencoin assets in early November, 2018</a>. These will be used to tokenize funds and launch additional blockchain-based services.
+</p>
+<h2><span class="mw-headline" id="Tokenizing_Land_Titling">Tokenizing Land Titling</span></h2>
+<p>Using blockchain for land titling provides a low-cost land administration system, which is very appealing to developing economies that have no systems in place for clear property ownership. 
+</p><p>Ravencoin assets are well-suited for the purpose of land titling. The first project that started on Ravencoin for this purpose is <a rel="nofollow" class="external text" href="https://ravenland.org/">Ravenland</a>. Ravenland is ran and owned by its community and functions as an experimental agent for buying and selling land and estate.
+</p>
+<h2><span class="mw-headline" id="Tokenizing_Art">Tokenizing Art</span></h2>
+<p>Just like land titling, tokenizing property ownership of art is also a possibility on Ravencoin. The first tokenized Art object on Ravencoin was offered by <a rel="nofollow" class="external text" href="https://loftvr.io/">LoftVR</a>. The art piece was a <a rel="nofollow" class="external text" href="https://loftvr.io/tron-countach/">limited edition 40" x 30" Canvas Print of a TRON COUNTACH</a>.
+</p>
+<h2><span class="mw-headline" id="Tokenizing_for_Royalties_Management">Tokenizing for Royalties Management</span></h2>
+<p>Ravencoin's blockchain technology can also offer solutions for content rights and royalties management. Royalties are compensations to owners of property for use of that property. This could include music, art, books, patented products, franchise holders, mineral rights, etc. The first company using Ravencoin for this purpose is <a rel="nofollow" class="external text" href="https://www.frankwyattmusic.com/">Crafty Hands Music, ASCAP</a>. Crafty Hands Music, ASCAP uses Ravencoin for tracking and managing publishing shares in the music industry. 
+</p>
+<h2><span class="mw-headline" id="InterPlanetary_File_Transportation_Service_.28IPFS.29">InterPlanetary File Transportation Service (IPFS)</span></h2>
+<h3><span class="mw-headline" id="Adding_files_to_Ravencoin_tokens">Adding files to Ravencoin tokens</span></h3>
+<p>Ravencoin also supports IPFS. IPFS allows decentralized storage of files and each file is accessible through a hash code. By adding this hash code to a Ravencoin asset, you are able to connect any kind of file to a token. To attach a file you can upload it to <a rel="nofollow" class="external text" href="https://globalupload.io/">Globalupload.io</a> and add the generated hash to an asset in your Ravencoin wallet.
+</p>
+<h3><span class="mw-headline" id="Messaging">Messaging</span></h3>
+<p>Messaging on the Ravencoin network will support IPFS. This means that you can add files the the messages that are send from token owners to token holders.
+</p>
+<h3><span class="mw-headline" id="Decentralized_Web">Decentralized Web</span></h3>
+<p>IPFS files can also contain dAPPS such as websites, which allows to use Ravencoin as a decentralized world wide web service. Such a service would be useful for people who like to reach web content which they could not by any kind of boundary. Kirk Ballou shared some demonstrations on how that could work on Ravencoin.
+</p>
+<ul><li> <b><a rel="nofollow" class="external text" href="https://blog.goodaudience.com/the-decentralized-web-powered-by-ravencoin-ipfs-79c0086b6340">The Decentralized Web powered by Ravencoin &amp; IPFS</a></b>, Kirk Ballou, Medium, Oct 31th, 2018</li>
+<li> <b><a rel="nofollow" class="external text" href="https://youtu.be/G_HLNxX_X0w">Ravencoin powering the Decentralized Web</a></b>, Kirk Ballou, Youtube, Nov 7th, 2018</li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20181219061056
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.012 seconds
+Real time usage: 0.020 seconds
+Preprocessor visited node count: 42/1000000
+Preprocessor generated node count: 48/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:87-0!canonical and timestamp 20181219061055 and revision id 1882
+ -->
+</div>					<div class="printfooter">
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Using_Ravencoin&amp;oldid=1882">https://raven.wiki/w/index.php?title=Using_Ravencoin&amp;oldid=1882</a>’					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Using+Ravencoin" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Using+Ravencoin" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Using_Ravencoin" title="View the content page [c]" accesskey="c">Page</a></span></li>
+							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Using_Ravencoin&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Using_Ravencoin">Read</a></span></li>
+							<li id="ca-viewsource"><span><a href="/w/index.php?title=Using_Ravencoin&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Using_Ravencoin&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Ravencoin Wiki" title="Search Ravencoin Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Ravencoin_Wiki"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Using-Ravencoin"><a href="/wiki/Using_Ravencoin">Using Ravencoin</a></li><li id="n-Ravencoin-Guides"><a href="/wiki/Guides">Ravencoin Guides</a></li><li id="n-In-the-News"><a href="/wiki/In_the_News">In the News</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Exchanges"><a href="/wiki/Exchange">Exchanges</a></li><li id="n-Explorers"><a href="/wiki/Explorers">Explorers</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining-Pools"><a href="/wiki/Pools">Mining Pools</a></li><li id="n-Other-Tools"><a href="/wiki/Tools">Other Tools</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
+			<h3 id='p-Wiki-label'>Wiki</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-Contributing-here"><a href="/wiki/Contributing_to_the_wiki">Contributing here</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Using_Ravencoin" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Using_Ravencoin" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Using_Ravencoin&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Using_Ravencoin&amp;oldid=1882" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Using_Ravencoin&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 November 2018, at 02:18.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Ravencoin_Wiki:About" title="Ravencoin Wiki:About">About Ravencoin Wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Ravencoin_Wiki:General_disclaimer" title="Ravencoin Wiki:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=Using_Ravencoin&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.012","walltime":"0.020","ppvisitednodes":{"value":42,"limit":1000000},"ppgeneratednodes":{"value":48,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181219061056","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":237});});</script>
+	</body>
+</html>

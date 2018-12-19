@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en-GB" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>AssetSupportNetwork - Ravencoin Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"AssetSupportNetwork","wgTitle":"AssetSupportNetwork","wgCurRevisionId":1935,"wgRevisionId":1935,"wgArticleId":88,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"AssetSupportNetwork","wgRelevantArticleId":88,"wgRequestId":"XBqfU1KlU1sAAFw7HZ8AAAAK","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Ravencoin Wiki (en-gb)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://raven.wiki/w/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="Ravencoin Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-AssetSupportNetwork rootpage-AssetSupportNetwork skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en-GB">AssetSupportNetwork</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Ravencoin Wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><h2><span class="mw-headline" id="Asset_Support_in_the_Ravencoin_Network">Asset Support in the Ravencoin Network</span></h2>
+<p>The Ravencoin network consists of nodes communicating on port 8767.
+</p><p>The asset information is available by request on the network.  Specify a list of asset names to request information about each asset.  Requests for information on up to 512 assets can be made per request.  Return messages will be sent separately.  Asset not found information may be grouped together for optimization.
+</p><p>Information about each asset is important for:
+</p>
+<ul><li> Asset creation because assets must be unique</li>
+<li> Asset display because the asset information contains the number of decimal places to display.</li>
+<li> Asset meta-data display - Requires the IPFS hash to show additional information about the asset.</li>
+<li> Asset re-issue status to prevent reissuance attempts on a locked asset.</li>
+<li> Asset qty issued to prevent reissuance attempts on a fully issued (21 billion) asset.</li></ul>
+<p>There are three networks:<br /> 
+Mainnet which uses a network identifier <b>RAVN</b><br />  
+Testnet which uses a network identifier <b>RVNT</b><br /> 
+RegTest which uses a network identifier <b>CROW</b><br />  
+</p><p>An additional command has been added to the network for asset support.  This can be used by SPV nodes to get information about assets without interacting with a centralized API or a Remote Procedure Call.
+</p><p>getassetdata
+</p><p>The following is the specification for this new network call - available starting with network version 70018
+</p><p>Example 1: Request for asset name that doesn't exist 
+</p>
+<pre>   Request -&gt; getassetdata
+   HEADER: 43524f5767657461737365746461746110000000571db430
+   DATA: 010e4241445f41535345545f4e414d45
+   Data Breakdown:
+   01 - Varint size of the vector
+   0e - Size of element = e.g. 14 Bytes
+   4241445f41535345545f4e414d45 - Name of asset = e.g. "BAD_ASSET_NAME"
+   --------------------------------------------------------------------
+   Response -&gt; asstnotfound
+   HEADER: 43524f57617373746e6f74666f756e6410000000571db430
+   DATA: 010e4241445f41535345545f4e414d45
+   Data Breakdown:
+   01 - Varint size of the vector
+   Oe - Size of element = e.g. 14 Bytes
+   4241445f41535345545f4e414d45 - Name of asset = e.g. "BAD_ASSET_NAME"
+</pre>
+<p>Example 2: Request for asset name that does exist, and an asset that doesn't exist
+</p>
+<pre>   Request -&gt; getassetdata
+   HEADER: 43524f576765746173736574646174611d0000004a54c291
+   DATA: 020c41535345545f4a4552454d590e4241445f41535345545f4e414d45
+   Data Breakdown:
+   02 - Varint size of the vector
+   0c - Size of element = e.g. 12 Bytes
+   41535345545f4a4552454d59 - Name of asset = e.g. "ASSET_JEREMY"
+   0e - Size of element = e.g. 14 Bytes
+   4241445f41535345545f4e414d45 - Name of asset = e.g. "BAD_ASSET_NAME"
+   --------------------------------------------------------------------
+   
+   First Response -&gt; assetdata
+   HEADER: 43524f576173736574646174610000001d000000200a58aa
+   DATA: 0c41535345545f4a4552454d5900e1f50500000000 00010000f5010000
+   Data Breakdown:
+   0c - Size of name = e.g. 12 Bytes
+   41535345545f4a4552454d59 - Name of asset = e.g. "ASSET_JEREMY"
+   00e1f50500000000 - Amount = e.g. 100000000
+   00 - Units = e.g. 0
+   01 - Reissuable = e.g. 1
+   00 - hasIPFS = e.g. 0
+   00 - Size of IPFS hash 
+   f5010000 - Block height
+   
+   
+   Second Response -&gt; asstnotfound
+   HEADER: 43524f57617373746e6f74666f756e6410000000571db430
+   DATA: 010e4241445f41535345545f4e414d45
+   Data Breakdown:
+   01 - Varint size of the vector
+   Oe - Size of element = e.g. 14 Bytes
+   4241445f41535345545f4e414d45 - Name of asset = e.g. "BAD_ASSET_NAME"
+</pre>
+<p>Examples 3: Request for asset name that contains an IPFS HASH
+</p>
+<pre>   Request -&gt; getassetdata
+   HEADER: 43524f5767657461737365746461746118000000e6218523
+   DATA: 011641535345545f4a4552454d595f574954485f49504653
+   Data Breakdown:
+   01 - Varint size of the vector
+   16 - Size of element = e.g. 22 Bytes
+   41535345545f4a4552454d595f574954485f49504653 - Name of asset = e.g. "ASSET_JEREMY_WITH_IPFS"
+   --------------------------------------------------------------------
+   Response -&gt; assetdata
+   HEADER: 43524f5761737365746461746100000049000000cb345766
+   DATA: 1641535345545f4a4552454d595f574954485f4950465300e1f50500000000000101221220da203afd5eda1f45deeafb70ae9d5c15907cd32ec2cd747c641fc1e9ab55b8e8f6010000
+   Data Breakdown:
+   16 - Size of name = e.g. 22 Bytes
+   41535345545f4a4552454d595f574954485f49504653 - Name of asset = e.g. "ASSET_JEREMY_WITH_IPFS"
+   00e1f50500000000 - Amount = e.g. 100000000
+   00 - Units = e.g. 0
+   01 - Reissuable = e.g. 1
+   01 - hasIPFS = e.g. 0
+   22 - Size of IPFS hash - 34 Bytes
+   1220da203afd5eda1f45deeafb70ae9d5c15907cd32ec2cd747c641fc1e9ab55b8e8 - IPFS hash data
+   f6010000 - Block height
+</pre>
+<!-- 
+NewPP limit report
+Cached time: 20181219124602
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.008 seconds
+Real time usage: 0.013 seconds
+Preprocessor visited node count: 7/1000000
+Preprocessor generated node count: 16/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:88-0!canonical and timestamp 20181219124602 and revision id 1935
+ -->
+</div>					<div class="printfooter">
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=AssetSupportNetwork&amp;oldid=1935">https://raven.wiki/w/index.php?title=AssetSupportNetwork&amp;oldid=1935</a>’					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=AssetSupportNetwork" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=AssetSupportNetwork" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/AssetSupportNetwork" title="View the content page [c]" accesskey="c">Page</a></span></li>
+							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:AssetSupportNetwork&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/AssetSupportNetwork">Read</a></span></li>
+							<li id="ca-viewsource"><span><a href="/w/index.php?title=AssetSupportNetwork&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=AssetSupportNetwork&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Ravencoin Wiki" title="Search Ravencoin Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Ravencoin_Wiki"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Using-Ravencoin"><a href="/wiki/Using_Ravencoin">Using Ravencoin</a></li><li id="n-Ravencoin-Guides"><a href="/wiki/Guides">Ravencoin Guides</a></li><li id="n-In-the-News"><a href="/wiki/In_the_News">In the News</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Exchanges"><a href="/wiki/Exchange">Exchanges</a></li><li id="n-Explorers"><a href="/wiki/Explorers">Explorers</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining-Pools"><a href="/wiki/Pools">Mining Pools</a></li><li id="n-Other-Tools"><a href="/wiki/Tools">Other Tools</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
+			<h3 id='p-Wiki-label'>Wiki</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-Contributing-here"><a href="/wiki/Contributing_to_the_wiki">Contributing here</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/AssetSupportNetwork" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/AssetSupportNetwork" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=AssetSupportNetwork&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=AssetSupportNetwork&amp;oldid=1935" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=AssetSupportNetwork&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 December 2018, at 23:00.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Ravencoin_Wiki:About" title="Ravencoin Wiki:About">About Ravencoin Wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Ravencoin_Wiki:General_disclaimer" title="Ravencoin Wiki:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=AssetSupportNetwork&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.008","walltime":"0.013","ppvisitednodes":{"value":7,"limit":1000000},"ppgeneratednodes":{"value":16,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181219124602","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":235});});</script>
+	</body>
+</html>

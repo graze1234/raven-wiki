@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Ravencoin Wiki: Tools</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tools","wgTitle":"Tools","wgCurRevisionId":1643,"wgRevisionId":1643,"wgArticleId":30,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tools","wgRelevantArticleId":30,"wgRequestId":"W@hX11KlU1sAAFXFbG8AAAAc","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tools","wgTitle":"Tools","wgCurRevisionId":1782,"wgRevisionId":1782,"wgArticleId":30,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tools","wgRelevantArticleId":30,"wgRequestId":"XBqfUFKlU1sAAF-a1@MAAAAV","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -49,14 +49,12 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#General"><span class="tocnumber">1</span> <span class="toctext">General</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#Portfolio_trackers"><span class="tocnumber">2</span> <span class="toctext">Portfolio trackers</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Explorers"><span class="tocnumber">3</span> <span class="toctext">Explorers</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Asset_Explorers"><span class="tocnumber">4</span> <span class="toctext">Asset Explorers</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#GPU_mining_software"><span class="tocnumber">5</span> <span class="toctext">GPU mining software</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#GPU_hash_rates"><span class="tocnumber">6</span> <span class="toctext">GPU hash rates</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#Wallets"><span class="tocnumber">7</span> <span class="toctext">Wallets</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#Profit_Calculator"><span class="tocnumber">8</span> <span class="toctext">Profit Calculator</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#Charts"><span class="tocnumber">9</span> <span class="toctext">Charts</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="#Analysis"><span class="tocnumber">10</span> <span class="toctext">Analysis</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#GPU_mining_software"><span class="tocnumber">3</span> <span class="toctext">GPU mining software</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#GPU_hash_rates"><span class="tocnumber">4</span> <span class="toctext">GPU hash rates</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Wallets"><span class="tocnumber">5</span> <span class="toctext">Wallets</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Profit_Calculator"><span class="tocnumber">6</span> <span class="toctext">Profit Calculator</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Charts"><span class="tocnumber">7</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Analysis"><span class="tocnumber">8</span> <span class="toctext">Analysis</span></a></li>
 </ul>
 </div>
 
@@ -98,154 +96,6 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </p><p><a rel="nofollow" class="external text" href="https://cointracking.info">Cointracking.info</a> -  portfolio tracker that includes RVN.
 </p><p>HODL app - <a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/hodl-real-time-cryptocurrency/id1253668876?mt=8">iOS</a> and <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=com.github.hintofbasil.hodl">Android</a> (<a rel="nofollow" class="external text" href="https://github.com/hintofbasil/Hodl">Github</a>)
 </p>
-<h2><span class="mw-headline" id="Explorers">Explorers</span></h2>
-<table class="wikitable">
-<tr>
-<th> Link
-</th>
-<th> Explorer Type
-</th>
-<th> Maintained by
-</th>
-<th> Mainnet/Testnet
-</th>
-<th> Status (Nov 7, 2018)
-</th></tr>
-<tr>
-<td style="background: #f0fff0"> <a rel="nofollow" class="external free" href="https://ravencoin.network/">https://ravencoin.network/</a>
-</td>
-<td style="background: #f0fff0"> Insight.
-</td>
-<td style="background: #f0fff0"> Under#7846
-</td>
-<td style="background: #f0fff0"> Mainnet
-</td>
-<td style="background: #f0fff0"> Online
-</td></tr>
-<tr>
-<td style="background: #f0fff0"> <a rel="nofollow" class="external free" href="https://checkraven.com/">https://checkraven.com/</a>
-</td>
-<td style="background: #f0fff0"> Insight.
-</td>
-<td style="background: #f0fff0"> Xannicus Miner of MinerMore#9172
-</td>
-<td style="background: #f0fff0"> Mainnet
-</td>
-<td style="background: #f0fff0"> Online
-</td></tr>
-<tr>
-<td style="background: #f0fff0"> <a rel="nofollow" class="external free" href="https://rvn.traysi.org/">https://rvn.traysi.org/</a>
-</td>
-<td style="background: #f0fff0"> Insight.
-</td>
-<td style="background: #f0fff0"> traysi#9529
-</td>
-<td style="background: #f0fff0"> Mainnet
-</td>
-<td style="background: #f0fff0"> Online
-</td></tr>
-<tr>
-<td style="background: #ff8787"><a rel="nofollow" class="external free" href="https://rvn.hash4.life/">https://rvn.hash4.life/</a>
-</td>
-<td style="background: #ff8787">Iquidis.
-</td>
-<td style="background: #ff8787">Hash4Life#2414
-</td>
-<td style="background: #ff8787">Mainnet
-</td>
-<td style="background: #ff8787">Offline
-</td></tr>
-<tr>
-<td style="background: #f0fff0"> <a rel="nofollow" class="external free" href="https://explorer.ravencoin.world/">https://explorer.ravencoin.world/</a>
-</td>
-<td style="background: #f0fff0"> Iquidis.
-</td>
-<td style="background: #f0fff0"> Ivan - RavenCoin.World#6677
-</td>
-<td style="background: #f0fff0"> Mainnet
-</td>
-<td style="background: #f0fff0"> Online
-</td></tr>
-<tr>
-<td style="background: #ff8787"><a rel="nofollow" class="external free" href="http://rvnhodl.com/">http://rvnhodl.com/</a>
-</td>
-<td style="background: #ff8787">Iquidis.
-</td>
-<td style="background: #ff8787">j4ys0n#3189
-</td>
-<td style="background: #ff8787">Mainnet
-</td>
-<td style="background: #ff8787">Explorer stuck, j4ys0n#3189 is working on it
-</td></tr>
-<tr>
-<td style="background: #f0b7ff"> <a rel="nofollow" class="external free" href="https://testnet.ravencoin.network/">https://testnet.ravencoin.network/</a>
-</td>
-<td style="background: #f0b7ff"> Insight.
-</td>
-<td style="background: #f0b7ff"> Under#7846
-</td>
-<td style="background: #f0b7ff"> Testnet
-</td>
-<td style="background: #f0b7ff"> Online
-</td></tr></table>
-<p><i> the "maintained by" name refers to usernames on Discord </i>
-</p>
-<h2><span class="mw-headline" id="Asset_Explorers">Asset Explorers</span></h2>
-<table class="wikitable">
-<tr>
-<th> Link
-</th>
-<th> Maintained by
-</th>
-<th> Mainnet/Testnet
-</th>
-<th> Status (Nov 7, 2018)
-</th></tr>
-<tr>
-<td style="background: #f0fff0"> <a rel="nofollow" class="external free" href="http://ravencoin.asset-explorer.net">http://ravencoin.asset-explorer.net</a>
-</td>
-<td style="background: #f0fff0"> @Scotty#0448
-</td>
-<td style="background: #f0fff0"> Mainnet
-</td>
-<td style="background: #f0fff0"> Online
-</td></tr>
-<tr>
-<td style="background: #f0fff0"> <a rel="nofollow" class="external free" href="http://www.assetsexplorer.com/">http://www.assetsexplorer.com/</a>
-</td>
-<td style="background: #f0fff0"> @RealBokito#8574
-</td>
-<td style="background: #f0fff0"> Mainnet
-</td>
-<td style="background: #f0fff0"> Online
-</td></tr>
-<tr>
-<td style="background: #f0fff0"> <a rel="nofollow" class="external free" href="https://www.mangofarmassets.com/">https://www.mangofarmassets.com/</a>
-</td>
-<td style="background: #f0fff0"> @Mango Farm#3764
-</td>
-<td style="background: #f0fff0"> Mainnet
-</td>
-<td style="background: #f0fff0"> Online
-</td></tr>
-<tr>
-<td style="background: #f0b7ff"> <a rel="nofollow" class="external free" href="http://testnet.assetsexplorer.com/">http://testnet.assetsexplorer.com/</a>
-</td>
-<td style="background: #f0b7ff"> @RealBokito#8574
-</td>
-<td style="background: #f0b7ff"> Testnet
-</td>
-<td style="background: #f0b7ff"> Online
-</td></tr>
-<tr>
-<td style="background: #f0b7ff"> <a rel="nofollow" class="external free" href="https://www.mangofarmassets.com/testnet/assetviewertestnet.html">https://www.mangofarmassets.com/testnet/assetviewertestnet.html</a>
-</td>
-<td style="background: #f0b7ff"> @Mango Farm#3764
-</td>
-<td style="background: #f0b7ff"> Testnet
-</td>
-<td style="background: #f0b7ff"> Online
-</td></tr></table>
 <h2><span class="mw-headline" id="GPU_mining_software">GPU mining software</span></h2>
 <p>Open source miners are available on our <a href="/wiki/Mining" title="Mining">Mining page</a>.
 </p><p><a href="/wiki/Mining#Nvidia_miners" title="Mining">Nvidia miners on Mining page</a>
@@ -277,13 +127,13 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20181111062118
+Cached time: 20181219122533
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 0.028 seconds
-Real time usage: 0.029 seconds
-Preprocessor visited node count: 47/1000000
-Preprocessor generated node count: 100/1000000
+CPU time usage: 0.020 seconds
+Real time usage: 0.022 seconds
+Preprocessor visited node count: 39/1000000
+Preprocessor generated node count: 92/1000000
 Post‐expand include size: 26/2097152 bytes
 Template argument size: 0/2097152 bytes
 Highest expansion depth: 2/40
@@ -294,10 +144,10 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:30-0!canonical and timestamp 20181111062118 and revision id 1643
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:30-0!canonical and timestamp 20181219122533 and revision id 1782
  -->
 </div>					<div class="printfooter">
-						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Tools&amp;oldid=1643">https://raven.wiki/w/index.php?title=Tools&amp;oldid=1643</a>’					</div>
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Tools&amp;oldid=1782">https://raven.wiki/w/index.php?title=Tools&amp;oldid=1782</a>’					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -365,15 +215,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Assets"><a href="/wiki/Assets">Assets</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Electrum-.26-Ledger"><a href="/wiki/Electrum">Electrum &amp; Ledger</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Explorers"><a href="https://raven.wiki/wiki/Tools#Explorers" rel="nofollow">Explorers</a></li><li id="n-Exchanges"><a href="/wiki/Exchange">Exchanges</a></li><li id="n-Raven-Raspberry-node"><a href="/wiki/RaspberryPi">Raven Raspberry node</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
-			<h3 id='p-News-label'>News</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-Forks-and-updates"><a href="/wiki/Forks_and_updates">Forks and updates</a></li><li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Using-Ravencoin"><a href="/wiki/Using_Ravencoin">Using Ravencoin</a></li><li id="n-Ravencoin-Guides"><a href="/wiki/Guides">Ravencoin Guides</a></li><li id="n-In-the-News"><a href="/wiki/In_the_News">In the News</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Exchanges"><a href="/wiki/Exchange">Exchanges</a></li><li id="n-Explorers"><a href="/wiki/Explorers">Explorers</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining-Pools"><a href="/wiki/Pools">Mining Pools</a></li><li id="n-Other-Tools"><a href="/wiki/Tools">Other Tools</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
@@ -389,14 +231,14 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tools" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tools" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Tools&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Tools&amp;oldid=1643" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tools&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tools" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tools" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Tools&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Tools&amp;oldid=1782" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tools&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 8 November 2018, at 05:40.</li>
+											<li id="footer-info-lastmod"> This page was last modified on 16 November 2018, at 03:51.</li>
 									</ul>
 							<ul id="footer-places">
 											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
@@ -410,6 +252,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.028","walltime":"0.029","ppvisitednodes":{"value":47,"limit":1000000},"ppgeneratednodes":{"value":100,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181111062118","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":238});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.020","walltime":"0.022","ppvisitednodes":{"value":39,"limit":1000000},"ppgeneratednodes":{"value":92,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181219122533","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":262});});</script>
 	</body>
 </html>

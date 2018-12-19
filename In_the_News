@@ -2,9 +2,9 @@
 <html class="client-nojs" lang="en-GB" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Ravencoin Wiki: News</title>
+<title>In the News - Ravencoin Wiki</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ravencoin_News_articles","wgTitle":"Ravencoin News articles","wgCurRevisionId":1459,"wgRevisionId":1459,"wgArticleId":4,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ravencoin_News_articles","wgRelevantArticleId":4,"wgRequestId":"XBqfSVKlU1sAAGf5U4oAAAAe","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"In_the_News","wgTitle":"In the News","wgCurRevisionId":1944,"wgRevisionId":1944,"wgArticleId":86,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"In_the_News","wgRelevantArticleId":86,"wgRequestId":"XBqfQVKlU1sAAE22-YIAAAAE","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -13,58 +13,52 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
 <meta name="generator" content="MediaWiki 1.30.0"/>
-<meta name="google-site-verification" content=""/>
-<meta name="keywords" content="Ravencoin news"/>
-<meta name="description" content="Links to various articles about Ravencoin."/>
-<meta name="twitter:description" content="Links to various articles about Ravencoin."/>
 <link rel="shortcut icon" href="/favicon.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Ravencoin Wiki (en-gb)"/>
 <link rel="EditURI" type="application/rsd+xml" href="https://raven.wiki/w/api.php?action=rsd"/>
 <link rel="alternate" type="application/atom+xml" title="Ravencoin Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<meta property="og:title" content="Ravencoin Wiki: News"/>
-<meta property="og:description" content="Links to various articles about Ravencoin."/>
-<script type="application/ld+json">{"@context" : "http://schema.org","name":"Ravencoin Wiki: News","headline":"Ravencoin Wiki: News","description":"Links to various articles about Ravencoin.",}</script>
-<meta property="fb:app_id" content=""/>
-
-<meta property="fb:admins" content=""/>
-
 <!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ravencoin_News_articles rootpage-Ravencoin_News_articles skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-In_the_News rootpage-In_the_News skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
 		<div id="mw-head-base" class="noprint"></div>
 		<div id="content" class="mw-body" role="main">
 			<a id="top"></a>
 
 						<div class="mw-indicators mw-body-content">
 </div>
-			<h1 id="firstHeading" class="firstHeading" lang="en-GB">Ravencoin News articles</h1>
+			<h1 id="firstHeading" class="firstHeading" lang="en-GB">In the News</h1>
 									<div id="bodyContent" class="mw-body-content">
 									<div id="siteSub" class="noprint">From Ravencoin Wiki</div>
 								<div id="contentSub"></div>
 												<div id="jump-to-nav" class="mw-jump">
 					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
 				</div>
-				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output">
-<p><i>To clarify this is dd/mm/yyyy format</i>
-</p>
-<ul><li> 23/10/2018 - <a rel="nofollow" class="external text" href="https://medium.com/@brucefenton/ravencoin-eli5-summary-fa6531689713">Ravencoin eli5 Summary</a> - summary of Ravencoin.</li>
-<li> 22/10/2018 - <a rel="nofollow" class="external text" href="https://medium.com/@tronblack/ravencoin-to-reissue-or-not-to-reissue-67452b449f91">To reissue or not</a> - explaination of Reissue or not.</li>
+				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><h2><span class="mw-headline" id="Interviews">Interviews</span></h2>
+<ul><li> 26/11/2018 - <a rel="nofollow" class="external text" href="https://video.foxbusiness.com/v/5971657426001/">FOX NEWS: How Wall Street may use blockchain technology (Patrick Byrne mentions Ravencoin, 5 min)</a></li>
+<li> 17/11/2018 - <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=gnwKczD-RpA">Coin Interview: Coin Interview with Raven Coin (Tron Black, 1h)</a></li>
+<li> 16/11/2018 - <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=2IKqrfcH0gw">Hack Crypto: INTERVIEW WITH TRON BLACK ON NEW RAVENCOIN FEATURES COMING IN 2019 (30 min)</a></li>
+<li> 09/04/2018 - <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=RMjph5Kzlvo">Etherplan: Ravencoin Explained with Bruce Fenton and Tron Black (1 hr)</a></li></ul>
+<h2><span class="mw-headline" id="Collection_of_news_articles_about_Ravencoin">Collection of news articles about Ravencoin</span></h2>
+<ul><li> 18/12/2018 - <a rel="nofollow" class="external text" href="https://www.forbes.com/sites/rachelwolfson/2018/12/18/medici-ventures-completes-3-6-million-securities-token-transfer-using-the-ravencoin-blockchain/">Forbes</a> - Medici Ventures Completes $3.6 Million Securities Token Transfer Using The Ravencoin Blockchain </li>
+<li> 18/12/2018 - <a rel="nofollow" class="external text" href="https://www.nasdaq.com/press-release/medici-ventures-completes-36-million-securities-token-transfer-using-ravencoin-blockchain-for-20181218-00900">NASDAQ</a> - Medici Ventures Completes $3.6 Million Securities Token Transfer Using Ravencoin Blockchain for Equity Purchase in Chainstone Labs</li>
+<li> 17/12/2018 - <a rel="nofollow" class="external text" href="https://todaysgazette.com/4-indisputable-additions-ravencoin-rvn-introduced-into-the-blockchain-space/">Today's Gazette</a> - 4 Indisputable Additions Ravencoin (RVN) Introduced Into The Blockchain Space</li>
+<li> 12/12/2018 - <a rel="nofollow" class="external text" href="https://thetokenist.io/tokenizeu-chooses-ravencoin-over-ethereum-for-security-token-issuance/">The Tokenist</a> - TokenizEU Chooses Ravencoin over Ethereum for Security Token Issuance</li>
+<li> 02/12/2018 - <a rel="nofollow" class="external text" href="https://todaysgazette.com/digibyte-dgb-and-ravencoin-rvn-two-altcoins-geared-to-confound-cryptofans/">Today's Gazette</a> - DigiByte (DGB) and Ravencoin (RVN): Two Altcoins Geared To Confound Cryptofans</li>
+<li> 30/11/2018 - <a rel="nofollow" class="external text" href="https://thetokenist.io/tron-black-implies-ravencoin-could-become-the-ethereum-of-security-tokens/">The Tokenist</a> - Tron Black Implies Ravencoin Could Become the Ethereum of Security Tokens</li>
+<li> 27/11/2018 - <a rel="nofollow" class="external text" href="https://www.ccn.com/blockchain-revolution-is-bigger-than-anything-weve-seen-in-history-overstock-ceo/">CCN</a> - ‘Blockchain Revolution’ Is Bigger Than Anything We’ve Seen in History: Overstock CEO</li>
+<li> 18/11/2018 - <a rel="nofollow" class="external text" href="https://coindiligent.com/ravencoin-asset-names-valuation">Coindiligent.com</a> - Ravencoin Asset Names: Analysis and Valuation</li>
+<li> 13/11/2018 - <a rel="nofollow" class="external text" href="https://coindiligent.com/assure-services-spends-12500-purchasing-700-asset-names-on-the-ravencoin-blockchain">Coindiligent.com</a> - Assure Services spends $12,500+ purchasing 700 asset names on the Ravencoin blockchain</li>
+<li> 12/11/2018 - <a rel="nofollow" class="external text" href="https://todaysgazette.com/ravencoin-rvn-is-ultimately-the-protocol-for-global-asset-transfer/">Today's Gazette</a> - Ravencoin (RVN) is Ultimately the Protocol for Global Asset Transfer</li>
 <li> 08/10/2018 - <a rel="nofollow" class="external text" href="https://www.investinblockchain.com/altcoins-that-should-be-top-50/">Altcoins that should be in top 50</a> - Investinblockchain article covering 4 smaller blockchain projects that have potential to grow.</li>
-<li> 27/09/2018 - <a rel="nofollow" class="external text" href="https://medium.com/@brucefenton/securities-tokens-free-mini-course-video-series-6cca4ad59276">Securities Tokens</a> - Video mini-course by Bruce Fenton - no direct mention of Ravencoin, but helps frame the scene of why Ravencoin could be a useful tool in this area</li>
-<li> 19/09/2018 - <a rel="nofollow" class="external text" href="https://medium.com/@tronblack/ravencoin-building-the-immune-system-23d077b65f71">Building the Immune System</a> - Tron Black</li>
-<li> 20/08/2018 - <a rel="nofollow" class="external text" href="https://medium.com/@tronblack/ravencoin-proof-of-promises-d603f3e04b8f">Proof of promises</a> - Tron Black proof of promises</li>
 <li> 16/08/2018 - <a rel="nofollow" class="external text" href="https://medium.com/future-blok/introduction-to-ravencoin-open-source-token-platform-2200aed66744">Future Blok</a> - introduction to Ravencoin.</li>
 <li> 31/07/2018 - <a rel="nofollow" class="external text" href="https://medium.com/@stillman_crypto/the-ravencoin-report-rvn-50ca8872c0de">Ravencoin report</a> - Great article discussing Ravencoin</li>
-<li> 23/07/2018 - <a rel="nofollow" class="external text" href="https://medium.com/@tronblack/ravencoin-as-an-asset-platform-6979530d125f">Ravencoin as an Asset Platform</a> - Tron Black article on how and why Ravencoin will work as an Asset Platform. </li>
 <li> 28/06/2018 - <a rel="nofollow" class="external text" href="https://coincentral.com/ravencoin-rvn-beginners-guide/">Coincentral.com</a> - Ravencoin history, and summary of what it's aiming to do.</li>
 <li> 07/05/2018 - <a rel="nofollow" class="external text" href="https://blockonomi.com/ravencoin-guide/">Blockonomi.com</a> - write up on history and mining of Ravencoin.</li>
-<li> 06/05/2018 - <a rel="nofollow" class="external text" href="https://medium.com/@futureblok/security-tokens-how-wall-street-and-blockchain-will-collide-8526634a9230">medium.com futureblok</a> - article about how wall street and the blockchain will collide.</li>
 <li> 30/04/2018 - <a rel="nofollow" class="external text" href="https://www.investinblockchain.com/penny-cryptos-2018/">investinblockchain.com</a> - mention of Ravencoin amongst other coins.</li>
 <li> 30/04/2018 - <a rel="nofollow" class="external text" href="https://globalhalo.com/2018/04/30/enter-the-raven-rvn-analysis/">globalhalo.com</a> - interesting write up about the coin and mining it.</li>
 <li> 21/04/2018 - <a rel="nofollow" class="external text" href="https://www.coindesk.com/bitcoin-rappers-ravens-and-lord-of-the-rings-in-crypto-dope-names-pay/">coindesk.com</a> - brief mention of Ravencoin article discussing crypto project names.</li>
 <li> 11/04/2018 - <a rel="nofollow" class="external text" href="https://bitcoinmagazine.com/articles/cryptocurrency-project-ravencoin-gets-back-p2p-asset-transfer-basics/">Bitcoinmagazine</a> - article on Ravencoin ( also published on <a rel="nofollow" class="external text" href="https://m.nasdaq.com/article/cryptocurrency-project-ravencoin-gets-back-to-p2p-asset-transfer-basics-cm946568">nasdaq.com</a>)</li>
 <li> 10/04/2018 - <a rel="nofollow" class="external text" href="http://1stminingrig.com/are-asic-resistant-coins-booming-what-to-mine-in-2018/">1stminingrig</a> - article about ASIC resistance mentions Ravencoin.</li>
-<li> 09/04/2018 - <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=RMjph5Kzlvo">Etherplan</a> - not a news article but worth a watch - 1 hr with Tron and Bruce.</li>
 <li> 08/04/2018 - <a rel="nofollow" class="external text" href="https://news.bitcoin.com/asic-resistance-increasingly-hot-topic-in-crypto-as-monero-forks/">bitcoin.com</a> - article about ASIC resistance mentioning Ravencoin toward the end.</li>
 <li> 07/04/2018 - <a rel="nofollow" class="external text" href="https://1stminingrig.com/ravencoin-important-updates-new-roadmap-how-to-mine-and-how-to-trade/">1stminingrig.com</a> - about Ravencoin launch and ethos behind the project.</li>
 <li> 03/04/2018 - <a rel="nofollow" class="external text" href="https://cryptocoinspy.com/ravencoin-rvn-publishes-whitepaper-roadmap-website-crashes-in-minutes/">Cryptocoinspy.com</a> - article on roadmap and paper</li>
@@ -84,14 +78,14 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 <!-- 
 NewPP limit report
-Cached time: 20181219183102
+Cached time: 20181219110336
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 0.012 seconds
-Real time usage: 0.013 seconds
-Preprocessor visited node count: 8/1000000
-Preprocessor generated node count: 60/1000000
-Post‐expand include size: 26/2097152 bytes
+CPU time usage: 0.020 seconds
+Real time usage: 0.021 seconds
+Preprocessor visited node count: 6/1000000
+Preprocessor generated node count: 12/1000000
+Post‐expand include size: 0/2097152 bytes
 Template argument size: 0/2097152 bytes
 Highest expansion depth: 2/40
 Expensive parser function count: 0/100
@@ -101,10 +95,10 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:4-0!canonical and timestamp 20181219183102 and revision id 1459
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:86-0!canonical and timestamp 20181219110336 and revision id 1944
  -->
 </div>					<div class="printfooter">
-						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Ravencoin_News_articles&amp;oldid=1459">https://raven.wiki/w/index.php?title=Ravencoin_News_articles&amp;oldid=1459</a>’					</div>
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=In_the_News&amp;oldid=1944">https://raven.wiki/w/index.php?title=In_the_News&amp;oldid=1944</a>’					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -115,14 +109,14 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ravencoin+News+articles" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ravencoin+News+articles" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=In+the+News" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=In+the+News" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ravencoin_News_articles" title="View the content page [c]" accesskey="c">Page</a></span></li>
-							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Ravencoin_News_articles&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/In_the_News" title="View the content page [c]" accesskey="c">Page</a></span></li>
+							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:In_the_News&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
 						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
@@ -140,9 +134,9 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-														<li id="ca-view" class="selected"><span><a href="/wiki/Ravencoin_News_articles">Read</a></span></li>
-							<li id="ca-viewsource"><span><a href="/w/index.php?title=Ravencoin_News_articles&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
-							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ravencoin_News_articles&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+														<li id="ca-view" class="selected"><span><a href="/wiki/In_the_News">Read</a></span></li>
+							<li id="ca-viewsource"><span><a href="/w/index.php?title=In_the_News&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=In_the_News&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
 						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
@@ -188,20 +182,20 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ravencoin_News_articles" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ravencoin_News_articles" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Ravencoin_News_articles&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Ravencoin_News_articles&amp;oldid=1459" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ravencoin_News_articles&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/In_the_News" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/In_the_News" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=In_the_News&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=In_the_News&amp;oldid=1944" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=In_the_News&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 24 October 2018, at 06:51.</li>
+											<li id="footer-info-lastmod"> This page was last modified on 19 December 2018, at 12:03.</li>
 									</ul>
 							<ul id="footer-places">
 											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
 											<li id="footer-places-about"><a href="/wiki/Ravencoin_Wiki:About" title="Ravencoin Wiki:About">About Ravencoin Wiki</a></li>
 											<li id="footer-places-disclaimer"><a href="/wiki/Ravencoin_Wiki:General_disclaimer" title="Ravencoin Wiki:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=Ravencoin_News_articles&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+											<li id="footer-places-mobileview"><a href="https://raven.wiki/w/index.php?title=In_the_News&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 									</ul>
 										<ul id="footer-icons" class="noprint">
 											<li id="footer-poweredbyico">
@@ -209,6 +203,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.012","walltime":"0.013","ppvisitednodes":{"value":8,"limit":1000000},"ppgeneratednodes":{"value":60,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181219183102","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":233});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.020","walltime":"0.021","ppvisitednodes":{"value":6,"limit":1000000},"ppgeneratednodes":{"value":12,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181219110336","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":292});});</script>
 	</body>
 </html>

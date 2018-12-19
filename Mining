@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Ravencoin Wiki: Mining</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mining","wgTitle":"Mining","wgCurRevisionId":1128,"wgRevisionId":1128,"wgArticleId":26,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mining","wgRelevantArticleId":26,"wgRequestId":"W@hXz1KlU1sAAEK0Bf8AAAAL","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mining","wgTitle":"Mining","wgCurRevisionId":1905,"wgRevisionId":1905,"wgArticleId":26,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mining","wgRelevantArticleId":26,"wgRequestId":"XBqfRVKlU1sAAFw7HZcAAAAK","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
 });mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
@@ -45,8 +45,8 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
 				</div>
 				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output">
-<p><br />
-There's a number of useful videos on how to mine Ravencoin. Possibly two of the best are:
+<p><b>This page needs updating although most information still applies</b> 
+</p><p>There's a number of useful videos on how to mine Ravencoin. Possibly two of the best are:
 </p>
 <ul><li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=Yg3ssmZfX4U">Crypto Explorer - setting up wallet and starting mining</a></li>
 <li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=gMpW1nehe54">BitsBeTripping - So what is x16r Algo, how can you mine it? Ravencoin Deep Dive</a></li></ul>
@@ -86,12 +86,38 @@ There's a number of useful videos on how to mine Ravencoin. Possibly two of the 
 </ul>
 </li>
 <li class="toclevel-1 tocsection-20"><a href="#Donate_Script"><span class="tocnumber">5</span> <span class="toctext">Donate Script</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Best_Practises"><span class="tocnumber">6</span> <span class="toctext">Best Practises</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Troubleshooting"><span class="tocnumber">7</span> <span class="toctext">Troubleshooting</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#All_miners"><span class="tocnumber">7.1</span> <span class="toctext">All miners</span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="#Crash_on_startup."><span class="tocnumber">7.1.1</span> <span class="toctext">Crash on startup.</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Crash.2Freboot_after_some_time"><span class="tocnumber">7.1.2</span> <span class="toctext">Crash/reboot after some time</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#Naming_you_Rig_on_the_pool"><span class="tocnumber">7.1.3</span> <span class="toctext">Naming you Rig on the pool</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="#Suprnova_gives_error_on_launch"><span class="tocnumber">7.1.4</span> <span class="toctext">Suprnova gives error on launch</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="#Hash_rate_is_changing.2Flow"><span class="tocnumber">7.1.5</span> <span class="toctext">Hash rate is changing/low</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="#Getting_a_lot_of_.22rejected.22_shares"><span class="tocnumber">7.1.6</span> <span class="toctext">Getting a lot of "rejected" shares</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-30"><a href="#Nevermore_.2F_ccminer"><span class="tocnumber">7.2</span> <span class="toctext">Nevermore / ccminer</span></a>
+<ul>
+<li class="toclevel-3 tocsection-31"><a href="#Crash_on_startup"><span class="tocnumber">7.2.1</span> <span class="toctext">Crash on startup</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-32"><a href="#Sgminer_.2F_Avermore"><span class="tocnumber">7.3</span> <span class="toctext">Sgminer / Avermore</span></a>
+<ul>
+<li class="toclevel-3 tocsection-33"><a href="#Crash_on_startup_2"><span class="tocnumber">7.3.1</span> <span class="toctext">Crash on startup</span></a></li>
+<li class="toclevel-3 tocsection-34"><a href="#Long_startup_time"><span class="tocnumber">7.3.2</span> <span class="toctext">Long startup time</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </div>
 
 <h2><span class="mw-headline" id="Get_started:">Get started:</span></h2>
 <h3><span class="mw-headline" id="Quick_start">Quick start</span></h3>
-<ol><li> Download the wallet from <a rel="nofollow" class="external text" href="https://github.com/RavenProject/Ravencoin/releases">Ravencoin github</a>, install and get a receiving address, be sure to <a href="/wiki/FAQ#How_do_I_backup_my_wallet.dat_file.3F" title="FAQ">Backup wallet</a>. Remember to check <b><a href="/wiki/Best_practices" title="Best practices">Best practices</a></b> page to keep your coins safe. Note: do not use special chars for our passphrase when encrypting the wallet.</li>
+<ol><li> Download the wallet from <a rel="nofollow" class="external text" href="https://github.com/RavenProject/Ravencoin/releases">Ravencoin github</a>, install and get a receiving address, be sure to <a href="/wiki/FAQ#How_do_I_backup_my_wallet.dat_file.3F" title="FAQ">Backup wallet</a>. Remember to check <b><a href="/wiki/Mining#Best_Practises" title="Mining"> Best Practises</a></b> page to keep your coins safe. Note: do not use special chars for our passphrase when encrypting the wallet.</li>
 <li> Select a pool from the <b><a href="/wiki/Pools" title="Pools">Pools</a></b> page - or find one on the <a rel="nofollow" class="external text" href="https://bitcointalk.org/index.php?topic=2752467.0">BitCoinTalk ANN</a> Small or Big pool does not matter, it will average out over time. Help the network by spreading the hash to a small or medium pool. Check pool sizes on <a rel="nofollow" class="external text" href="https://www.rvnstats.info/d/TcDzUYmmz/x16r-ravencoin-mining-pool-statistics-v1-3">rvnstats</a>. Choosing a pool close to our miners can improve pool hashrate.</li>
 <li> Download the GPU miner from GitHub links below. There is a side by side test in our <a href="/wiki/FAQ#Which_miner_is_best.3F" title="FAQ">FAQ: Which miner is best</a>. We need <a rel="nofollow" class="external text" href="https://www.microsoft.com/en-us/download/details.aspx?id=40784">VSredist2013</a>.</li>
 <li> Unzip, and edit config to include the pool you want to mine on and your wallet address .....<b>go mining.</b></li></ol>
@@ -103,12 +129,11 @@ There's a number of useful videos on how to mine Ravencoin. Possibly two of the 
 <li> Once stability is reached try raising core in +10 or +25 steps and recheck for stability. Memory OC does little on x16r and is commonly set to default or -500 for a bit more headroom. Keep in mind that ie +175core on pl 65% will not boost as high as +125core on pl 90% since <a rel="nofollow" class="external text" href="https://www.anandtech.com/show/10325/the-nvidia-geforce-gtx-1080-and-1070-founders-edition-review/15">Boost 3,0</a> will adjust according to available power and temp.</li>
 <li> To get miner to auto start on reboot press ' win + r ' and type in ' shell:startup ' then copy shortcut of your bat file into startup folder.</li></ol>
 <p><br />
-If it is not working try our <b><a href="/wiki/Troubleshoot" title="Troubleshoot">Troubleshoot</a></b> page or <a href="#Avermore_.26_Nevermore_Wikis">Avermore &amp; Nevermore Wikis</a>
+If it is not working try our <b><a href="/wiki/Mining#Troubleshooting" title="Mining"> Troubleshoot</a></b> section or <a href="#Avermore_.26_Nevermore_Wikis">Avermore &amp; Nevermore Wikis</a>
 </p><p><br />
 Please <b>DO NOT MINE</b> with your payout address set to an exchange or mobile wallet. The extra miner traffic is causing system issues for DEXs.
 </p><p><br />
 Make sure you're downloading software from trusted sources. There have been reports of some miners possibly including malware, whilst this isn't confirmed it's down to you to exercise caution installing anything on your machines. The GitHub links to Ravencoin, MSFTserver and Brianmct's miners have been used by lots in the community and are generally trusted. Malware comes in different forms <a rel="nofollow" class="external text" href="https://blog.talosintelligence.com/2018/04/cryptomining-campaign-returns-coal-not-diamond.html">cryptomining campaign returns coal not diamond</a>.
-</p><p><br />
 </p>
 <h3><span class="mw-headline" id="Common_flags_for_both_sgminer_.26_ccminer">Common flags for both sgminer &amp; ccminer</span></h3>
 <pre>-u login/wallet
@@ -280,7 +305,7 @@ Seal Clubber's <a rel="nofollow" class="external text" href="https://cdn.discord
 <li> Nevermore <a rel="nofollow" class="external text" href="https://github.com/brian112358/nevermore-miner/wiki/Nevermore-on-ethOS-Linux">Nevermore on ethOS Linux</a></li>
 <li> How to solomine with Nevermore, available from version 0.2 <a rel="nofollow" class="external text" href="https://github.com/brian112358/nevermore-miner/wiki/Solo-mining">Solo wiki</a> Network hash / your hash = average mins to find a block. Not recommended unless you have at least 0,5% of network hash.</li></ul>
 <h3><span class="mw-headline" id="Troubleshoot">Troubleshoot</span></h3>
-<p>If it is not working try our <b><a href="/wiki/Troubleshoot" title="Troubleshoot">Troubleshoot</a></b> page.
+<p>If it is not working try our <b><a href="/wiki/Mining#Troubleshooting" title="Mining"> Troubleshoot</a></b> section.
 </p><p>Avermore <a rel="nofollow" class="external text" href="https://github.com/brian112358/avermore-miner/wiki/Troubleshooting">Troubleshooting</a>
 </p>
 <h3><span class="mw-headline" id="Earning_calculators">Earning calculators</span></h3>
@@ -322,15 +347,83 @@ ccminer.exe -a x16r -o&#160;%Pool% -u&#160;%DonationAddress% -p&#160;%ExtraOptio
 goto Start
 @pause
 </pre>
+<h2><span class="mw-headline" id="Best_Practises">Best Practises</span></h2>
+<ul><li> Only run software from known reputable developers, preferably peer revived and audited code. </li>
+<li> Download only from the links provided by the developer, preferably from the developers own site.</li>
+<li> The inherent danger of a malicious miner app is that by design it has already all the tools needed to be very harmful, these include upload and download capabilities, there will not necessarily be anything we can detect immediately, as a malicious miner app can be triggered by something as simple as a specific network block number being reached or other delayed mechanisms.</li>
+<li> Any computer on our network(subnet) could be a potential treat towards our hot wallet.</li>
+<li> There is no way to know if our wallet.dat/private keys are compromised, unless we always keep them safe guarded.</li>
+<li> The above holds true for any software we download and use.</li></ul>
+<h2><span class="mw-headline" id="Troubleshooting">Troubleshooting</span></h2>
+<h3><span class="mw-headline" id="All_miners">All miners</span></h3>
+<p>Symptoms:
+</p>
+<h4><span class="mw-headline" id="Crash_on_startup.">Crash on startup.</span></h4>
+<p>Check if Antivirus/Windows defender has deleted your miner.exe file, check if the .exe file is still in your folder. Fix by setting an exception.
+</p>
+<h4><span class="mw-headline" id="Crash.2Freboot_after_some_time">Crash/reboot after some time</span></h4>
+<p>Check the power limit for the cards, 65% - 85% is common. x16r algo spikes the power draw so we need headroom in available wattage. Remember that the TDP for a card is an average draw of the card and in short spikes the total draw can be much higher. This is why the GPU manufacturers recommends much higher watt PSU than the TDP listed wattage of the cards would otherwise suggest.
+</p>
+<h4><span class="mw-headline" id="Naming_you_Rig_on_the_pool">Naming you Rig on the pool</span></h4>
+<p>On yiimp type pools you can use the password field like:
+</p>
+<pre>-p c=RVN,TitanV  
+</pre>
+<p>,a comma is used to separate arguments, do not use special character or spaces in your rig name. Other pools usually set name by WALLET.rigname like:
+</p>
+<pre>-u RT2r9oGxQxbVE1Ji5p5iPgrqpNQLfc8ksH.titanV
+</pre>
+<p><br />
+When troubleshooting it is helpfull to have pause at the end of our bat file, so you can see the errors from console.
+</p>
+<pre>ccminer -a x16r -o stratum+tcp://miningpanda.site:3636 -u RBjAZ4fgoXfMC1ujzs7XKreMxJAL1r9fhT.titanV -p c=RVN,titanv -i 20 -N 600
+pause
+</pre>
+<h4><span class="mw-headline" id="Suprnova_gives_error_on_launch">Suprnova gives error on launch</span></h4>
+<p>Check that you have created a worker on their webpage and supplied a password.' -u LOGIN.worker -p x ',also check their getting started on rvn.suprnova.cc start page.
+</p>
+<h4><span class="mw-headline" id="Hash_rate_is_changing.2Flow">Hash rate is changing/low</span></h4>
+<p>This is normal as the x16r algo is changing 16 times in each block, determined by the last 16 bytes of the last block. We need to look at a 2-3 hour averages at least to get a better average hash rate to compare, try adding ' -N 600 ' at the end of your bat file, it increases the average reporting time (default is 30).
+</p>
+<h4><span class="mw-headline" id="Getting_a_lot_of_.22rejected.22_shares">Getting a lot of "rejected" shares</span></h4>
+<p>A rejected share means 2 possibilities: 
+</p><p>1. The submitted share was invalid (bad hash of good data). This is caused by a GPU error on your end.
+</p><p>2. The submitted share was stale (good hash of bad data).  This is caused by latency or lost data over the network between you and the pool.
+</p><p>If you're tweaking your GPU a lot (customizing power/frequency/voltage/etc.) then try backing down a bit and see if you get less errors. You should also check to make sure connected to the closest pool possible (e.g., don't connect to a pool in Europe if you live in the USA).
+</p>
+<h3><span class="mw-headline" id="Nevermore_.2F_ccminer">Nevermore / ccminer</span></h3>
+<p>Symptoms:
+</p>
+<h4><span class="mw-headline" id="Crash_on_startup">Crash on startup</span></h4>
+<p>Check .bat file that name miner at the start is the same as the miner in your folder. Nevermore uses 'ccminer' 2.2.5 might be 'ccminer-x64'. 
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Sgminer_.2F_Avermore">Sgminer / Avermore</span></h3>
+<p>Symptoms:
+</p>
+<h4><span class="mw-headline" id="Crash_on_startup_2">Crash on startup</span></h4>
+<p>try adding 
+</p>
+<pre>--gpu-platform 1 
+</pre>
+<p>or 
+</p>
+<pre>--gpu-platform 2 
+</pre>
+<p>Brianmct has a good Getting started wiki on <a rel="nofollow" class="external text" href="https://github.com/brian112358/sgminer-x16r/wiki/Getting-Started">github</a>
+</p>
+<h4><span class="mw-headline" id="Long_startup_time">Long startup time</span></h4>
+<p>First time sgminer starts it compiles a kernel for all the cards, it can take several minutes.
+</p>
 <!-- 
 NewPP limit report
-Cached time: 20181111160150
+Cached time: 20181219084350
 Cache expiry: 86400
 Dynamic content: false
 CPU time usage: 0.024 seconds
-Real time usage: 0.068 seconds
-Preprocessor visited node count: 87/1000000
-Preprocessor generated node count: 140/1000000
+Real time usage: 0.031 seconds
+Preprocessor visited node count: 143/1000000
+Preprocessor generated node count: 196/1000000
 Post‐expand include size: 26/2097152 bytes
 Template argument size: 0/2097152 bytes
 Highest expansion depth: 2/40
@@ -341,10 +434,10 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:26-0!canonical and timestamp 20181111160150 and revision id 1128
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:26-0!canonical and timestamp 20181219084350 and revision id 1905
  -->
 </div>					<div class="printfooter">
-						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Mining&amp;oldid=1128">https://raven.wiki/w/index.php?title=Mining&amp;oldid=1128</a>’					</div>
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Mining&amp;oldid=1905">https://raven.wiki/w/index.php?title=Mining&amp;oldid=1905</a>’					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -412,15 +505,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Assets"><a href="/wiki/Assets">Assets</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Electrum-.26-Ledger"><a href="/wiki/Electrum">Electrum &amp; Ledger</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Explorers"><a href="https://raven.wiki/wiki/Tools#Explorers" rel="nofollow">Explorers</a></li><li id="n-Exchanges"><a href="/wiki/Exchange">Exchanges</a></li><li id="n-Raven-Raspberry-node"><a href="/wiki/RaspberryPi">Raven Raspberry node</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
-			<h3 id='p-News-label'>News</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-Forks-and-updates"><a href="/wiki/Forks_and_updates">Forks and updates</a></li><li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Using-Ravencoin"><a href="/wiki/Using_Ravencoin">Using Ravencoin</a></li><li id="n-Ravencoin-Guides"><a href="/wiki/Guides">Ravencoin Guides</a></li><li id="n-In-the-News"><a href="/wiki/In_the_News">In the News</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Exchanges"><a href="/wiki/Exchange">Exchanges</a></li><li id="n-Explorers"><a href="/wiki/Explorers">Explorers</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining-Pools"><a href="/wiki/Pools">Mining Pools</a></li><li id="n-Other-Tools"><a href="/wiki/Tools">Other Tools</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
@@ -436,14 +521,14 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mining" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mining" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Mining&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Mining&amp;oldid=1128" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mining&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mining" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mining" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Mining&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Mining&amp;oldid=1905" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mining&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 15 May 2018, at 14:32.</li>
+											<li id="footer-info-lastmod"> This page was last modified on 7 December 2018, at 03:08.</li>
 									</ul>
 							<ul id="footer-places">
 											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
@@ -457,6 +542,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.024","walltime":"0.068","ppvisitednodes":{"value":87,"limit":1000000},"ppgeneratednodes":{"value":140,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181111160150","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":290});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.024","walltime":"0.031","ppvisitednodes":{"value":143,"limit":1000000},"ppgeneratednodes":{"value":196,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181219084350","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":286});});</script>
 	</body>
 </html>

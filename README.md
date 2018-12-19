@@ -5,6 +5,10 @@ html back ups of the raven.wiki domain
 
 https://raven.wiki/wiki/AMD
 
+https://raven.wiki/wiki/Asset_exchanges
+
+https://raven.wiki/wiki/Assets
+
 https://raven.wiki/wiki/Best_practices
 
 https://raven.wiki/wiki/Chainparams
@@ -19,6 +23,10 @@ https://raven.wiki/wiki/Contributing_to_the_wiki
 
 https://raven.wiki/wiki/Development
 
+https://raven.wiki/wiki/Electrum
+
+https://raven.wiki/wiki/Exchange
+
 https://raven.wiki/wiki/Exchange_FAQ
 
 https://raven.wiki/wiki/Exchange_How_To
@@ -27,10 +35,11 @@ https://raven.wiki/wiki/Exchange_notifications
 
 https://raven.wiki/wiki/Exchanges
 
+https://raven.wiki/wiki/Exchanges_archive
+
 https://raven.wiki/wiki/FAQ
 
 https://raven.wiki/wiki/Fenton_Files:_April_2018_-_June_2018
-
 
 https://raven.wiki/wiki/Fenton_Files:_start_-_March_2018
 
@@ -77,6 +86,8 @@ https://raven.wiki/wiki/The_Fenton_Files
 https://raven.wiki/wiki/The_road_ahead
 
 https://raven.wiki/wiki/Tools
+
+https://raven.wiki/wiki/Trading
 
 https://raven.wiki/wiki/Troubleshoot
 

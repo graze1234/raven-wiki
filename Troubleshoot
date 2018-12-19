@@ -4,10 +4,10 @@
 <meta charset="UTF-8"/>
 <title>Ravencoin Wiki: Troubleshooting</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Troubleshoot","wgTitle":"Troubleshoot","wgCurRevisionId":1657,"wgRevisionId":1657,"wgArticleId":44,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Troubleshoot","wgRelevantArticleId":44,"wgRequestId":"W@hX2FKlU1sAAFCBKxYAAAAV","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Troubleshoot","wgTitle":"Troubleshoot","wgCurRevisionId":1797,"wgRevisionId":1797,"wgArticleId":44,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Troubleshoot","wgRelevantArticleId":44,"wgRequestId":"XBqfUVKlU1sAAFb8fCEAAAAF","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en-gb","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cv8nye",function($,jQuery,require,module){mw.user.options.set({"variant":"en-gb"});});mw.loader.implement("user.tokens@1czkypu",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
-});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"]);});</script>
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?debug=false&amp;lang=en-gb&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
@@ -47,204 +47,18 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output">
 <p><br />
 </p>
-<div id="toc" class="toc"><div class="toctitle"><h2>Contents</h2></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Wallet"><span class="tocnumber">1</span> <span class="toctext">Wallet</span></a>
-<ul>
-<li class="toclevel-2 tocsection-2"><a href="#Restore_wallet"><span class="tocnumber">1.1</span> <span class="toctext">Restore wallet</span></a>
-<ul>
-<li class="toclevel-3 tocsection-3"><a href="#Quick_restore_guide"><span class="tocnumber">1.1.1</span> <span class="toctext">Quick restore guide</span></a></li>
-<li class="toclevel-3 tocsection-4"><a href="#Full_restore_guide"><span class="tocnumber">1.1.2</span> <span class="toctext">Full restore guide</span></a></li>
-</ul>
-</li>
-<li class="toclevel-2 tocsection-5"><a href="#Wallet_does_not_sync"><span class="tocnumber">1.2</span> <span class="toctext">Wallet does not sync</span></a>
-<ul>
-<li class="toclevel-3 tocsection-6"><a href="#Archive_Wallet_does_not_sync_guidance"><span class="tocnumber">1.2.1</span> <span class="toctext">Archive Wallet does not sync guidance</span></a></li>
-</ul>
-</li>
-<li class="toclevel-2 tocsection-7"><a href="#Crash_on_start_up"><span class="tocnumber">1.3</span> <span class="toctext">Crash on start up</span></a></li>
-<li class="toclevel-2 tocsection-8"><a href="#Transaction_stuck"><span class="tocnumber">1.4</span> <span class="toctext">Transaction stuck</span></a></li>
-<li class="toclevel-2 tocsection-9"><a href="#Extra_amount_of_rvn_went_missing_when_I_transferred_coins_out_of_the_wallet"><span class="tocnumber">1.5</span> <span class="toctext">Extra amount of rvn went missing when I transferred coins out of the wallet</span></a></li>
-<li class="toclevel-2 tocsection-10"><a href="#Change_data_location"><span class="tocnumber">1.6</span> <span class="toctext">Change data location</span></a></li>
-<li class="toclevel-2 tocsection-11"><a href="#Transaction_to_large"><span class="tocnumber">1.7</span> <span class="toctext">Transaction to large</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-12"><a href="#Mining"><span class="tocnumber">2</span> <span class="toctext">Mining</span></a>
-<ul>
-<li class="toclevel-2 tocsection-13"><a href="#All_miners"><span class="tocnumber">2.1</span> <span class="toctext">All miners</span></a>
-<ul>
-<li class="toclevel-3 tocsection-14"><a href="#Crash_on_startup."><span class="tocnumber">2.1.1</span> <span class="toctext">Crash on startup.</span></a></li>
-<li class="toclevel-3 tocsection-15"><a href="#Crash.2Freboot_after_some_time"><span class="tocnumber">2.1.2</span> <span class="toctext">Crash/reboot after some time</span></a></li>
-<li class="toclevel-3 tocsection-16"><a href="#Naming_you_Rig_on_the_pool"><span class="tocnumber">2.1.3</span> <span class="toctext">Naming you Rig on the pool</span></a></li>
-<li class="toclevel-3 tocsection-17"><a href="#Suprnova_gives_error_on_launch"><span class="tocnumber">2.1.4</span> <span class="toctext">Suprnova gives error on launch</span></a></li>
-<li class="toclevel-3 tocsection-18"><a href="#Hash_rate_is_changing.2Flow"><span class="tocnumber">2.1.5</span> <span class="toctext">Hash rate is changing/low</span></a></li>
-<li class="toclevel-3 tocsection-19"><a href="#Getting_a_lot_of_.22rejected.22_shares"><span class="tocnumber">2.1.6</span> <span class="toctext">Getting a lot of "rejected" shares</span></a></li>
-</ul>
-</li>
-<li class="toclevel-2 tocsection-20"><a href="#Nevermore_.2F_ccminer"><span class="tocnumber">2.2</span> <span class="toctext">Nevermore / ccminer</span></a>
-<ul>
-<li class="toclevel-3 tocsection-21"><a href="#Crash_on_startup"><span class="tocnumber">2.2.1</span> <span class="toctext">Crash on startup</span></a></li>
-</ul>
-</li>
-<li class="toclevel-2 tocsection-22"><a href="#Sgminer_.2F_Avermore"><span class="tocnumber">2.3</span> <span class="toctext">Sgminer / Avermore</span></a>
-<ul>
-<li class="toclevel-3 tocsection-23"><a href="#Crash_on_startup_2"><span class="tocnumber">2.3.1</span> <span class="toctext">Crash on startup</span></a></li>
-<li class="toclevel-3 tocsection-24"><a href="#Long_startup_time"><span class="tocnumber">2.3.2</span> <span class="toctext">Long startup time</span></a></li>
-</ul>
-</li>
-<li class="toclevel-2 tocsection-25"><a href="#General_tips_and_tricks"><span class="tocnumber">2.4</span> <span class="toctext">General tips and tricks</span></a></li>
-</ul>
-</li>
-</ul>
-</div>
-
-<h2><span class="mw-headline" id="Wallet">Wallet</span></h2>
-<pre><b> Please backup your wallet.dat file before doing anything if you are having trouble accessing your QT wallet. The wallet.dat contains your private keys for each address, without those you will probably lose access to your Ravencoin.</b>
-</pre>
-<p><b>Symptoms:</b>
-</p>
-<h3><span class="mw-headline" id="Restore_wallet">Restore wallet</span></h3>
-<h4><span class="mw-headline" id="Quick_restore_guide">Quick restore guide</span></h4>
-<p>Same steps as <a href="#Wallet_does_not_sync">Wallet does not sync</a> just put back your backup wallet.dat instead.
-</p>
-<h4><span class="mw-headline" id="Full_restore_guide">Full restore guide</span></h4>
-<p>This guide assumes you are starting fresh on a new computer.
-</p>
-<ul><li> Start by installing Raven-QT wallet follow <a href="/wiki/Best_practices#General_wallet_guide" title="Best practices">General wallet guide</a> if needed, skip encrypt and backup for now.</li>
-<li> Once you have Raven-qt running and fully synced, quit raven-qt and wait for it to fully exit.</li>
-<li> Open your Data folder, the default location is shown below this guide.</li>
-<li> Move the wallet.dat that is already inside your Data folder (Raven) folder to another location ie. desktop, and put your backup wallet.dat here instead. If you used a memorable name for your backup wallet.dat we need you rename it back to wallet.dat now.</li>
-<li>Launch Raven-qt and you should see your funds available.</li></ul>
-<pre>Windows:&#160;%AppData%/Roaming/Raven
-Mac: ~/Library/Application\ Support/Raven
-Linux: ~/.raven
-</pre>
-<p>Note that " ~/ " is the home folder for linux and mac, not " / " root.
-</p>
-<h3><span class="mw-headline" id="Wallet_does_not_sync">Wallet does not sync</span></h3>
-<ul><li> Make sure you've got a safe backup of your wallet.dat file</li>
-<li> Make sure you are running latest version of wallet from github</li>
-<li> help &gt; debug &gt; console, and type</li></ul>
-<pre>addnode electrum-rvn.minermore.com add
-addnode rvn.satoshi.org.uk add
-</pre>
-<p><br />
-</p>
-<h4><span class="mw-headline" id="Archive_Wallet_does_not_sync_guidance">Archive Wallet does not sync guidance</span></h4>
-<p>The first thing to try is to re download the blockchain.
-</p>
-<ul><li> Make sure you're running the latest version of the wallet</li>
-<li> Close raven-qt completely, wait for shutdown window to disappear.</li>
-<li> Open&#160;%AppData%/Roaming folder and <b>move</b> Raven folder to desktop.</li>
-<li> Launch raven-qt and wait for blockchain to sync completely, then shut down completely.</li>
-<li> <b>Move</b> wallet.dat from your old raven folder on our desktop into the freshly created Raven folder in&#160;%AppData%/Roaming/.</li>
-<li> Launch raven-qt, and all should be well.</li></ul>
-<p>There is a guide on the <a rel="nofollow" class="external text" href="https://ravenforum.org/topic/20/ravencoin-wallet-and-troubleshoot">Community forum</a>, and here <a rel="nofollow" class="external text" href="https://virtopia.ca/ravencoin-fixing-no-sync-on-wallet/">Fixing no sync</a>.
-</p><p><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/8drUXGKPSPw" frameborder="0" allowfullscreen></iframe>
-</p>
-<h3><span class="mw-headline" id="Crash_on_start_up">Crash on start up</span></h3>
-<p>The first thing to try is to re download blockchain. Follow same steps as <a href="#Wallet_does_not_sync">Wallet does not sync</a>
-</p><p>There is a guide on the <a rel="nofollow" class="external text" href="https://ravenforum.org/topic/20/ravencoin-wallet-and-troubleshoot">Community forum</a>.
-</p>
-<h3><span class="mw-headline" id="Transaction_stuck">Transaction stuck</span></h3>
-<p>Try deleting the downloaded blockchain, and resync.
-</p>
-<h3><span class="mw-headline" id="Extra_amount_of_rvn_went_missing_when_I_transferred_coins_out_of_the_wallet">Extra amount of rvn went missing when I transferred coins out of the wallet</span></h3>
-<p>Try from within the wallet:
-Help / Debug Window / Console: and write 
-</p>
-<pre>listaddressgroupings
-</pre>
-<p>This will list all your addresses and their balance. Check for the "missing" amount.
-</p><p>This appears to be a display issue that happens rarely.
-</p>
-<h3><span class="mw-headline" id="Change_data_location">Change data location</span></h3>
-<p>Registry location 
-</p>
-<pre>\HKEY_CURRENT_USER\Software\Raven\Raven-Qt\StrDataDir
-</pre>
-<p>Or you can start raven-qt with the flag below, to have it ask again as per initial installation:
-</p>
-<pre>-choosedatadir
-</pre>
-<h3><span class="mw-headline" id="Transaction_to_large">Transaction to large</span></h3>
-<p>When the wallet has too many small transactions to a single address, it can cause a issue.
-<a rel="nofollow" class="external text" href="https://github.com/brian112358/wallet-groomer">wallet groomer</a> Ravencoin fork by Brianmct
-</p>
-<h2><span class="mw-headline" id="Mining">Mining</span></h2>
-<h3><span class="mw-headline" id="All_miners">All miners</span></h3>
-<p>Symptoms:
-</p>
-<h4><span class="mw-headline" id="Crash_on_startup.">Crash on startup.</span></h4>
-<p>Check if Antivirus/Windows defender has deleted your miner.exe file, check if the .exe file is still in your folder. Fix by setting an exception.
-</p>
-<h4><span class="mw-headline" id="Crash.2Freboot_after_some_time">Crash/reboot after some time</span></h4>
-<p>Check the power limit for the cards, 65% - 85% is common. x16r algo spikes the power draw so we need headroom in available wattage. Remember that the TDP for a card is an average draw of the card and in short spikes the total draw can be much higher. This is why the GPU manufacturers recommends much higher watt PSU than the TDP listed wattage of the cards would otherwise suggest.
-</p>
-<h4><span class="mw-headline" id="Naming_you_Rig_on_the_pool">Naming you Rig on the pool</span></h4>
-<p>On yiimp type pools you can use the password field like:
-</p>
-<pre>-p c=RVN,TitanV  
-</pre>
-<p>,a comma is used to separate arguments, do not use special character or spaces in your rig name. Other pools usually set name by WALLET.rigname like:
-</p>
-<pre>-u RT2r9oGxQxbVE1Ji5p5iPgrqpNQLfc8ksH.titanV
-</pre>
-<p><br />
-When troubleshooting it is helpfull to have pause at the end of our bat file, so you can see the errors from console.
-</p>
-<pre>ccminer -a x16r -o stratum+tcp://miningpanda.site:3636 -u RBjAZ4fgoXfMC1ujzs7XKreMxJAL1r9fhT.titanV -p c=RVN,titanv -i 20 -N 600
-pause
-</pre>
-<h4><span class="mw-headline" id="Suprnova_gives_error_on_launch">Suprnova gives error on launch</span></h4>
-<p>Check that you have created a worker on their webpage and supplied a password.' -u LOGIN.worker -p x ',also check their getting started on rvn.suprnova.cc start page.
-</p>
-<h4><span class="mw-headline" id="Hash_rate_is_changing.2Flow">Hash rate is changing/low</span></h4>
-<p>This is normal as the x16r algo is changing 16 times in each block, determined by the last 16 bytes of the last block. We need to look at a 2-3 hour averages at least to get a better average hash rate to compare, try adding ' -N 600 ' at the end of your bat file, it increases the average reporting time (default is 30).
-</p>
-<h4><span class="mw-headline" id="Getting_a_lot_of_.22rejected.22_shares">Getting a lot of "rejected" shares</span></h4>
-<p>A rejected share means 2 possibilities: 
-</p><p>1. The submitted share was invalid (bad hash of good data). This is caused by a GPU error on your end.
-</p><p>2. The submitted share was stale (good hash of bad data).  This is caused by latency or lost data over the network between you and the pool.
-</p><p>If you're tweaking your GPU a lot (customizing power/frequency/voltage/etc.) then try backing down a bit and see if you get less errors. You should also check to make sure connected to the closest pool possible (e.g., don't connect to a pool in Europe if you live in the USA).
-</p>
-<h3><span class="mw-headline" id="Nevermore_.2F_ccminer">Nevermore / ccminer</span></h3>
-<p>Symptoms:
-</p>
-<h4><span class="mw-headline" id="Crash_on_startup">Crash on startup</span></h4>
-<p>Check .bat file that name miner at the start is the same as the miner in your folder. Nevermore uses 'ccminer' 2.2.5 might be 'ccminer-x64'. 
-</p><p><br />
-</p>
-<h3><span class="mw-headline" id="Sgminer_.2F_Avermore">Sgminer / Avermore</span></h3>
-<p>Symptoms:
-</p>
-<h4><span class="mw-headline" id="Crash_on_startup_2">Crash on startup</span></h4>
-<p>try adding 
-</p>
-<pre>--gpu-platform 1 
-</pre>
-<p>or 
-</p>
-<pre>--gpu-platform 2 
-</pre>
-<p>Brianmct has a good Getting started wiki on <a rel="nofollow" class="external text" href="https://github.com/brian112358/sgminer-x16r/wiki/Getting-Started">github</a>
-</p>
-<h4><span class="mw-headline" id="Long_startup_time">Long startup time</span></h4>
-<p>First time sgminer starts it compiles a kernel for all the cards, it can take several minutes.
-</p><p><br />
-</p>
 <h3><span class="mw-headline" id="General_tips_and_tricks">General tips and tricks</span></h3>
 <p>Join the community <a rel="nofollow" class="external text" href="https://discord.gg/DUkcBst">Discord</a>
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20181111134740
+Cached time: 20181219041059
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 0.020 seconds
-Real time usage: 0.018 seconds
-Preprocessor visited node count: 116/1000000
-Preprocessor generated node count: 180/1000000
+CPU time usage: 0.008 seconds
+Real time usage: 0.023 seconds
+Preprocessor visited node count: 11/1000000
+Preprocessor generated node count: 64/1000000
 Post‐expand include size: 26/2097152 bytes
 Template argument size: 0/2097152 bytes
 Highest expansion depth: 2/40
@@ -255,10 +69,10 @@ Transclusion expansion time report (%,ms,calls,template)
 100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:44-0!canonical and timestamp 20181111134740 and revision id 1657
+<!-- Saved in parser cache with key db725932533-rvn_:pcache:idhash:44-0!canonical and timestamp 20181219041059 and revision id 1797
  -->
 </div>					<div class="printfooter">
-						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Troubleshoot&amp;oldid=1657">https://raven.wiki/w/index.php?title=Troubleshoot&amp;oldid=1657</a>’					</div>
+						Retrieved from ‘<a dir="ltr" href="https://raven.wiki/w/index.php?title=Troubleshoot&amp;oldid=1797">https://raven.wiki/w/index.php?title=Troubleshoot&amp;oldid=1797</a>’					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -326,15 +140,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Assets"><a href="/wiki/Assets">Assets</a></li><li id="n-Testnet"><a href="/wiki/Testnet">Testnet</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Electrum-.26-Ledger"><a href="/wiki/Electrum">Electrum &amp; Ledger</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Troubleshoot"><a href="/wiki/Troubleshoot">Troubleshoot</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li><li id="n-Best-practices"><a href="/wiki/Best_practices">Best practices</a></li><li id="n-Tools"><a href="/wiki/Tools">Tools</a></li><li id="n-Explorers"><a href="https://raven.wiki/wiki/Tools#Explorers" rel="nofollow">Explorers</a></li><li id="n-Exchanges"><a href="/wiki/Exchange">Exchanges</a></li><li id="n-Raven-Raspberry-node"><a href="/wiki/RaspberryPi">Raven Raspberry node</a></li><li id="n-Legal-discussion"><a href="/wiki/Legal_discussion">Legal discussion</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Marketing"><a href="/wiki/Marketing">Marketing</a></li><li id="n-The-road-ahead"><a href="/wiki/The_road_ahead">The road ahead</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-News' aria-labelledby='p-News-label'>
-			<h3 id='p-News-label'>News</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-Forks-and-updates"><a href="/wiki/Forks_and_updates">Forks and updates</a></li><li id="n-News-articles"><a href="/wiki/Ravencoin_News_articles">News articles</a></li><li id="n-The-Fenton-Files"><a href="/wiki/The_Fenton_Files">The Fenton Files</a></li>					</ul>
+						<li id="n-mainpage-description"><a href="/wiki/Ravencoin_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-Using-Ravencoin"><a href="/wiki/Using_Ravencoin">Using Ravencoin</a></li><li id="n-Ravencoin-Guides"><a href="/wiki/Guides">Ravencoin Guides</a></li><li id="n-In-the-News"><a href="/wiki/In_the_News">In the News</a></li><li id="n-Development"><a href="/wiki/Development">Development</a></li><li id="n-Exchanges"><a href="/wiki/Exchange">Exchanges</a></li><li id="n-Explorers"><a href="/wiki/Explorers">Explorers</a></li><li id="n-Mining"><a href="/wiki/Mining">Mining</a></li><li id="n-Wallets"><a href="/wiki/Wallets">Wallets</a></li><li id="n-Community"><a href="/wiki/Community">Community</a></li><li id="n-Mining-Pools"><a href="/wiki/Pools">Mining Pools</a></li><li id="n-Other-Tools"><a href="/wiki/Tools">Other Tools</a></li><li id="n-FAQ"><a href="/wiki/FAQ">FAQ</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-Wiki' aria-labelledby='p-Wiki-label'>
@@ -350,14 +156,14 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Troubleshoot" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Troubleshoot" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Troubleshoot&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Troubleshoot&amp;oldid=1657" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Troubleshoot&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Troubleshoot" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Troubleshoot" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Troubleshoot&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=Troubleshoot&amp;oldid=1797" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Troubleshoot&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 11 November 2018, at 14:47.</li>
+											<li id="footer-info-lastmod"> This page was last modified on 16 November 2018, at 04:12.</li>
 									</ul>
 							<ul id="footer-places">
 											<li id="footer-places-privacy"><a href="/wiki/Ravencoin_Wiki:Privacy_policy" title="Ravencoin Wiki:Privacy policy">Privacy policy</a></li>
@@ -371,6 +177,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.020","walltime":"0.018","ppvisitednodes":{"value":116,"limit":1000000},"ppgeneratednodes":{"value":180,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181111134740","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":275});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.008","walltime":"0.023","ppvisitednodes":{"value":11,"limit":1000000},"ppgeneratednodes":{"value":64,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20181219041059","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":240});});</script>
 	</body>
 </html>
